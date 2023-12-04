@@ -1,0 +1,12 @@
+sentencepiece
+transformers
+PyDrive
+nltk
+pandas
+torch
+numpy
+transformers
+scikit-learn
+matplotlib
+jupyter
+notebook
