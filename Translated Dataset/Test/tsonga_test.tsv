@@ -1,0 +1,255 @@
+Unnamed: 0	ID	tweet	label	cleaned_text	translated
+0	ts_test_00001	Ka hissa man https://t.co/G7lPnhaPEK	negative	Ka hissa man	ka hess man
+1	ts_test_00002	@user Na mina ni bom	positive	Na mina ni bom	And I am Bom
+2	ts_test_00003	@user Mas Um dia ih ta vonana 😂😂😂...	positive	Mas Um dia ih ta vonana	Mas um dia IH see each other
+3	ts_test_00004	Nkhama wa valoyi	negative	Nkhama wa valoyi	The witch's sword
+4	ts_test_00005	U+Me 👌🏿	positive	UMe	Ume
+5	ts_test_00006	Ha uh ta ku hini? https://t.co/piWPd3pHfu	neutral	Ha uh ta ku hini	Ha uh we'll say hini hini
+6	ts_test_00007	Ivan wa ni tsakissa ☺️🥵	positive	Ivan wa ni tsakissa	Ivan is happy to me
+7	ts_test_00008	@user Inkomu munhu wamina❤❤	positive	Inkomu munhu wamina	Thanks
+8	ts_test_00009	Ih, va la https://t.co/LV9T6AMpGR	neutral	Ih va la	Ih kala
+9	ts_test_00010	Aku huma ni humaku😂	positive	Aku huma ni humaku	There is no coming out and I am out
+10	ts_test_00011	@user Ho yini kupfhukizzy?	neutral	Ho yini kupfhukizzy	WHY IS KUMPFHUKZZZY
+11	ts_test_00012	@user @user mundzuku hiya Ka xingangi Ka birthday ya paito	positive	mundzuku hiya Ka xingangi Ka birthday ya paito	Tomorrow we go to the squirre
+12	ts_test_00013	@user @user Mulumuzana wa mina	positive	Mulumuzana wa mina	My husband
+13	ts_test_00014	@user Ih, acabaram djon 😪	negative	Ih acabaram djon	IH Acabaram Datory Dione
+14	ts_test_00015	A male ni dile	positive	A male ni dile	Mone
+15	ts_test_00016	EDM vá pah	negative	EDM vá pah	Edm vá pah
+16	ts_test_00017	Auxeni Tiku lá Mona	negative	Auxeni Tiku lá Mona	In the country the country lá jealousy
+17	ts_test_00018	Yahelooo yahelooo va dlaiya xitsungo lava ma salada.	negative	Yahelooo yahelooo va dlaiya xitsungo lava ma salada	Yahelooo yaheloooo they kill the squirre
+18	ts_test_00019	Hi kazalile hina 😭😭😭 https://t.co/voO8OvW98y	negative	Hi kazalile hina	We'
+19	ts_test_00020	@user A xi hembi😂😂😂	positive	A xi hembi	It's not lying
+20	ts_test_00021	@user Yena, aya kwini? 😂😂😂😂😂	positive	Yena aya kwini	Where is she going to
+21	ts_test_00022	Nkhama wa va Loyi...	negative	Nkhama wa va Loyi	The sword is a thief
+22	ts_test_00023	Aweni Thoven , ih 😪 https://t.co/9APtDHcZq0	neutral	Aweni Thoven  ih	Aweni thoven ih
+23	ts_test_00024	@user Heeee wena walutla juro 😹😂😂🤦🏿‍♂️	negative	Heeee wena walutla juro ‍	Heeee you are lugging juro
+24	ts_test_00025	Xitiku ni Mbawula live show @user Nkobe https://t.co/OIzgiHOxK1	positive	Xitiku ni Mbawula live show  Nkobe	The Station I Mbawula Live show Nkobe
+25	ts_test_00026	😂 😂 utafa wena by https://t.co/oNxvRZggBv	negative	utafa wena by	You will die you by
+26	ts_test_00027	Vha vizinho amu lawi ku loyiwa !? 😂😂	negative	Vha vizinho amu lawi ku loyiwa	Vha vizinho was laka bewitched
+27	ts_test_00028	Swibenhane muta ny pfuna , ni extressado..	negative	Swibenhane muta ny pfuna  ni extressado	swibene you will help me imporsado
+28	ts_test_00029	@user A kuna prublema 😂😂😂😂	positive	A kuna prublema	There is no trubblema
+29	ts_test_00030	@user @user ih pahu la ntiru wayi?	negative	ih pahu la ntiru wayi	Ih Pahu of the work yayi
+30	ts_test_00031	Buya u susa stress... Buya ni ku susa stress 🎶 🕺🏿	positive	Buya u susa stress Buya ni ku susa stress	come and take away the stress come and remove the stress
+31	ts_test_00032	@user Hi ta ku xavela ni mova, hi ta ku xavela ma mecha... 🤣🤣🤣🤣🤣	positive	Hi ta ku xavela ni mova hi ta ku xavela ma mecha	We will buy you a mova to buy you mechas
+32	ts_test_00033	@user Nada papai... u rhaite... a mamani lweyi a dzahile ku sungula a gama a postara a ti preço	negative	Nada papai u rhaite a mamani lweyi a dzahile ku sungula a gama a postara a ti preço	Nada Papai rhooted the mother who was driving the first and then posted and piço
+33	ts_test_00034	U put pressure, I put pressure too. Isso de só ser eu. Futseke	negative	U put pressure I put pressure too Isso de só ser eu Futseke	You put Pressure I PUT Pressure Too Isso de ser eU fetched
+34	ts_test_00035	@user A vhanu vakarhata bay!	negative	A vhanu vakarhata bay	The people are vulnerable to Bay
+35	ts_test_00036	Lomu ni fambaka namuhla ni khanela xilandi 😂😎	neutral	Lomu ni fambaka namuhla ni khanela xilandi	Where I'm going today I'm talking
+36	ts_test_00037	Utiva goze yaaa mova Ya mbolo ayutive	negative	Utiva goze yaaa mova Ya mbolo ayutive	You know the goze yaaa mova of cock ayutiveve
+37	ts_test_00038	A LOKO NIKU HIN, YABA BULUKO 🍆 GRANDA BIT 🎤	positive	A LOKO NIKU HIN YABA BULUKO  GRANDA BIT	A if I say hina yaba balukoko granda bit
+38	ts_test_00039	@user 😂😂😂U hlamba ka xikhambati? Sakana nyamalala	negative	U hlamba ka xikhambati Sakana nyamalala	You bathe in the scenari
+39	ts_test_00040	Dj Damost- Wa Ku Kuluka	neutral	Dj Damost Wa Ku Kuluka	Dj Damost of the leap
+40	ts_test_00041	@user Nita ku hissa mina😎	negative	Nita ku hissa mina	I will burn me
+41	ts_test_00042	@user Ni tamu zuketela lah	negative	Ni tamu zuketela lah	and the tamu shaketela lah
+42	ts_test_00043	Mina ni pfukile!!! Mo hini a ku pfuka ke???!!! https://t.co/qMb5qkLl9e	positive	Mina ni pfukile Mo hini a ku pfuka ke	I'm up to get up then
+43	ts_test_00044	Anhh oky.. swa twala ka.. https://t.co/CllF1eBWOL	positive	Anhh oky swa twala ka	Anhh oky it makes sense to
+44	ts_test_00045	A Mumu. 🥵🥵	negative	A Mumu	a mumu
+45	ts_test_00046	@user Swita gama hi merda...	negative	Swita gama hi merda	It's going to be a merda merda
+46	ts_test_00047	A Loko Niku vona a ni gwenteeee 🤌🏽🔥🔥🔥	positive	A Loko Niku vona a ni gwenteeee	a when I see you a mi ni gweneeee
+47	ts_test_00048	Hahahaha ni rivalele EDM! 😅	negative	Hahahaha ni rivalele EDM	Hahahaha and forgive Edm
+48	ts_test_00049	@user @user 😂😂😂 Mas wa pimissa nyana	positive	Mas wa pimissa nyana	Mas of pimissa bit
+49	ts_test_00050	Vanhu vanwani va ngaku moxela ntsako	negative	Vanhu vanwani va ngaku moxela ntsako	Some people can say the happy moss
+50	ts_test_00051	@user @user Ni uzivizi nhana 🔥🔥🔥🔥😂😂😂😂	positive	Ni uzivizi nhana	Uziviz
+51	ts_test_00052	Famba ti kundza, nos conta tua vida https://t.co/kxOzsTaow5	negative	Famba ti kundza nos conta tua vida	Go fucking nos Conta tua vida
+52	ts_test_00053	Ulava ni ti sunga uta tsaka? Yohhh holele mamane 🎶	negative	Ulava ni ti sunga uta tsaka Yohhh holele mamane	You want to start and you will be happy yoh earn mamane
+53	ts_test_00054	@user @user @user “No xi komba cara ni ku iih”😭😭	negative	“No xi komba cara ni ku iih”	“No it shows car and IIH”
+54	ts_test_00055	@user Xi sungulekile 😭😭😭😭😭😂🤣🤣🤣🤣🤣	negative	Xi sungulekile	It started
+55	ts_test_00056	Niku lovola a u lovolanga! Mara WA mu postara mwana WA vanu. Ntlha	negative	Niku lovola a u lovolanga Mara WA mu postara mwana WA vanu Ntlha	I am married and you are not married
+56	ts_test_00057	Tia, tua filha Xa ni dlaya 👏🏽👏🏽👏🏽👏🏽🙈🙈🙈	positive	Tia tua filha Xa ni dlaya	tia tua filha I kill me
+57	ts_test_00058	Mina ni djula mani? No gweli Obadias... 😂 https://t.co/0UhByJ3kEh	positive	Mina ni djula mani No gweli Obadias	I want whoever
+58	ts_test_00059	@user @user Marha u endla yini,loyi anga kahle cuz😂😂😂😂😂	neutral	Marha u endla yiniloyi anga kahle cuz	But what are you doing this is not good cuz
+59	ts_test_00060	@user Ya Suka daqui 😂🤣😂	negative	Ya Suka daqui	It leaves Daquate
+60	ts_test_00061	@user Cheirosa conforme mu swi wonaka😂😂😂😂	positive	Cheirosa conforme mu swi wonaka	Cheirosa conforme you do
+61	ts_test_00062	Ni ku kumile a wussiwanini... Kambe namuntlha WA no xanissa!	negative	Ni ku kumile a wussiwanini Kambe namuntlha WA no xanissa	I found out in the poorest but today you are no xanissa
+62	ts_test_00063	😁😁😂 Esse way anima.. U swi inguelile? https://t.co/CRLWx5s1Pq	positive	Esse way anima U swi inguelile	Esse Way Anima taught it
+63	ts_test_00064	A yini buluku. Yoh phondla 😎🤘🏽	neutral	A yini buluku Yoh phondla	What does yoh
+64	ts_test_00065	Va famba vha nhikana ma sida ntse https://t.co/IKmuytIHMA	negative	Va famba vha nhikana ma sida ntse	They travel to the vha nhikana only
+65	ts_test_00066	A ti nguavani a ti ni hlamulanga ahhhh...	negative	A ti nguavani a ti ni hlamulanga ahhhh	The guavani didn't answer ahhhh
+66	ts_test_00067	@user 😂😂😂😂😂Yuu.. ho Ni dzo	negative	Yuu ho Ni dzo	Yuu ho na era
+67	ts_test_00068	@user Ni XI navela ndjani lexo	positive	Ni XI navela ndjani lexo	I desire that
+68	ts_test_00069	@user hi sesi wamina wo pswariwa hi mhane wun'wane (sister from another mother). Nitwile uvula ku Tuk tuk awuyitivi. Hiyona yaleyo. Hala Moçambique hiyivita ""Txopela"" Bro yamina #BrianRikhotso xayitiva. https://t.co/LvA7huigK6	positive	hi sesi wamina wo pswariwa hi mhane wunwane sister from another mother Nitwile uvula ku Tuk tuk awuyitivi Hiyona yaleyo Hala Moçambique hiyivita Txopela Bro yamina BrianRikhotso xayitiva	by my sister nwane sister from other mother I heard you said tuk you don't know it is in moçambique by the name of the shoes bro my Brianrikhotso
+69	ts_test_00070	@user Assim u vonisa ku yini bai	neutral	Assim u vonisa ku yini bai	Assim how does assim see bai
+70	ts_test_00071	Mas U NGENA akwine? https://t.co/cxhPTARPX6	negative	Mas U NGENA akwine	Mas you come in akwine
+71	ts_test_00072	Edjo wa vhona macamera @user xo zuzumela	negative	Edjo wa vhona macamera  xo zuzumela	EJJJJU vona
+72	ts_test_00073	Lexi xa rapaz pah😂😂😂😂😂😂 https://t.co/BhvW46SuSF	positive	Lexi xa rapaz pah	This Rapaz Pah
+73	ts_test_00074	@user Xa ku bava mais, xi hambiwaka hi ukuLho u da ni mitsumbula, xa ntima nhana, mas xa tsamba!🤤	positive	Xa ku bava mais xi hambiwaka hi ukuLho u da ni mitsumbula xa ntima nhana mas xa tsamba	The mava mais is eaten by kulho you eat with the black squirre
+74	ts_test_00075	Beleka beleka nuna wa wen, a maguegueli ya tiku Leyi waga teka nuna wa wena, belekaa. Conheces essa música?	positive	Beleka beleka nuna wa wen a maguegueli ya tiku Leyi waga teka nuna wa wena belekaa Conheces essa música	Beka for your husband's husband in these countryside marry your husband Belekaa confes in the ssaca música
+75	ts_test_00076	A Loko Niku ih Yaba Buluku Leyi https://t.co/WpAl3HCuPE	positive	A Loko Niku ih Yaba Buluku Leyi	a if I said IH yaba this ballo
+76	ts_test_00077	A utomi e xitique	neutral	A utomi e xitique	you are not life in Xitique
+77	ts_test_00078	Inna no hemba, mara wena u ngena kwini? https://t.co/GpbwEoI5kX	negative	Inna no hemba mara wena u ngena kwini	Inna and lie but where are you in
+78	ts_test_00079	HAWENA... Muzaia... U fambileh 😂 https://t.co/ej3LfL807P	positive	HAWENA Muzaia U fambileh	Hawena muzaia you are gone
+79	ts_test_00080	@user 😂 Ni tsiki mamana... 😂😂	negative	Ni tsiki mamana	and tsiki mothers
+80	ts_test_00081	Se fosse um matxangana diria ""aweh muphana, indjeh wani tiva kahlé? Hi build lá mina lele. Funtsi RUA. Vá'tembora pobre!!!"" https://t.co/ZawBh4UmMw	negative	Se fosse um matxangana diria aweh muphana indjeh wani tiva kahlé Hi build lá mina lele Funtsi RUA Vátembora pobre	so fosse um matxakana dria aweh munhandjeh you know kahlé in build lá me lele Funtsi rua vátembora pobre
+81	ts_test_00082	@user hoje. Desculpa, siku ni siku https://t.co/ewSuM8D3Ep	negative	hoje Desculpa siku ni siku	Hoje Desculpa daily
+82	ts_test_00083	Teka.. Teka... Teka xa weh 🎶🎵	positive	Teka Teka Teka xa weh	Take Take Take you for weh
+83	ts_test_00084	@user U Tsama na mani?	positive	U Tsama na mani	Who are you sitting on
+84	ts_test_00085	@user 🤣🤣🤣🤣 Ku Tá Fiwa 🤣🤣🤣🤣	negative	Ku Tá Fiwa	The tá slay
+85	ts_test_00086	U ta famba https://t.co/Ojl3B2IQ01	neutral	U ta famba	You'll go away
+86	ts_test_00087	Nita ku totissa madexaa ehhh https://t.co/sP0yazQtUE	neutral	Nita ku totissa madexaa ehhh	I will totissa madexaaa ehhh
+87	ts_test_00088	Ni tsa quile 😁	positive	Ni tsa quile	I failed quile
+88	ts_test_00089	@user @user Ku tsaka ntsena 😂😂	positive	Ku tsaka ntsena	only happy happiness
+89	ts_test_00090	Gwala li tele hi ntamu @user Maputo, Mozambique https://t.co/KVR6TZtYty	positive	Gwala li tele hi ntamu  Maputo Mozambique	Gwala is full of force Maputo Mozambique
+90	ts_test_00091	Tsunela nikurwhexa utatsaka kê!"" https://t.co/0VCYXsxsHh	positive	Tsunela nikurwhexa utatsaka kê	Check and you will enjoy Kê
+91	ts_test_00092	A Xitilo Xa Bobi Hi Xini?	neutral	A Xitilo Xa Bobi Hi Xini	The heavens are the heavens
+92	ts_test_00093	@user @user Mina a nilave kuta na ungana male, loko ungana male è melhor o teka mova u muka, mina wa nuna wa ku randza ku bassisseliwa ani mu Randze! Nuca namurei com esse tal pessoa, mina ni randza, namora cumigu, mi lava 🤣🤣😂😂😂😂	positive	Mina a nilave kuta na ungana male loko ungana male è melhor o teka mova u muka mina wa nuna wa ku randza ku bassisseliwa ani mu Randze Nuca namurei com esse tal pessoa mina ni randza namora cumigu mi lava	I wanted to come and you had money if you had a money è melhor taking a mova and leaving me for a man of love to be bassissela and ani love nuca nuca nuca nuca sse esse taal pessoa I love namora cumigu you want
+93	ts_test_00094	@user Djon, ca ntirweni mano, vambenhana va nguena xikoti vatwa ma peido, nidanissile manj pa. Porras.	negative	Djon ca ntirweni mano vambenhana va nguena xikoti vatwa ma peido nidanissile manj pa Porras	Look at work the plans the guys niga the guy feels peido nidanissile manj st porras
+94	ts_test_00095	#DesafiodeDezDias siku dza wu narhu https://t.co/7VamlhAGny https://t.co/DxDQav5DBy	positive	DesafiodeDezDias siku dza wu narhu	Desafiodezdias the day you dza
+95	ts_test_00096	@user É Só chegar junto, ximovhana ni xilalassana xikhona lá Ndone's Bar e Lounge	positive	É Só chegar junto ximovhana ni xilalassana xikhona lá Ndones Bar e Lounge	(
+96	ts_test_00097	@user A XIPIXE XI DIBI A MUTXOVELO	negative	A XIPIXE XI DIBI A MUTXOVELO	The xipise
+97	ts_test_00098	BLOQUEIO NGOMA CHIGUMBAZE: [DOWNLOAD MP3]Mr Santos Macie A Leswi Swautchai An... https://t.co/bg30MKpFVo	neutral	BLOQUEIO NGOMA CHIGUMBAZE DOWNLOAD MPMr Santos Macie A Leswi Swautchai An	Bloqueio Ngoma chigumbaze down
+98	ts_test_00099	@user Ehhh Hi Dhlawilêêé... Wa vizinhooôoooooô!!!	negative	Ehhh Hi Dhlawilêêé Wa vizinhooôoooooô	Ehhh we're a slawilêêée
+99	ts_test_00100	@user Na khu khensa makwezu	positive	Na khu khensa makwezu	And slay thanks to the makwezu
+100	ts_test_00101	@user @user 😂 Ni dlayile homu namunthla, não pode mu xhava homu yanga? 😂😂😂😂😂	positive	Ni dlayile homu namunthla não pode mu xhava homu yanga	I killed the cow today niã
+101	ts_test_00102	@user @user A má djessi má ni Beka ni li Astro😹😹🔥🔥	positive	A má djessi má ni Beka ni li Astro	DJSSI MIKA I PLAYED AT Asro
+102	ts_test_00103	@user Txova, txova xi ta duma... txova...	positive	Txova txova xi ta duma txova	Tox shot will be famous txova
+103	ts_test_00104	Savanna dark wa khone va xavisa kwini 😬😬	positive	Savanna dark wa khone va xavisa kwini	where is the savanna Dak the kherk sale
+104	ts_test_00105	😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂 Wha hi xixah🙌🏿😂😂😂😂😂 https://t.co/khCdBSKW5H	negative	Wha hi xixah	wha by Xixahh
+105	ts_test_00106	He, muzaya, wa hanha? Kmk boss ! Na boa? https://t.co/i8ZIV6VaFd	positive	He muzaya wa hanha Kmk boss  Na boa	Hey muzaya is kmk boss and boa
+106	ts_test_00107	@user Sho, hi ta khanela	positive	Sho hi ta khanela	Sho will talk about
+107	ts_test_00108	@user 🤗 ha e tsaemale hantle!	positive	ha e tsaemale hantle	We e Tseeemale Hatle
+108	ts_test_00109	@user @user Ya fana (somos iguais)!	positive	Ya fana somos iguais	It's like Somos Iguis
+109	ts_test_00110	Swi ta hela hi merda https://t.co/QeRi4hOSw3	negative	Swi ta hela hi merda	It will end with Merda
+110	ts_test_00111	😂😂😂🤣 olha, ni tsike https://t.co/ZhfhhztYOZ	negative	olha ni tsike	Olha and tskeke
+111	ts_test_00112	Ewe Niku zwe... https://t.co/VJ3sYaFM9I	negative	Ewe Niku zwe	Ye and Zwe
+112	ts_test_00113	Dzixile ho ine ku pfuka https://t.co/U5t4HX56ur	positive	Dzixile ho ine ku pfuka	Down
+113	ts_test_00114	Ni Hamba male ni tlhela ni dissa muguengana, you dig	positive	Ni Hamba male ni tlhela ni dissa muguengana you dig	I'm money I'm also disssaring Mugungana you Dig
+114	ts_test_00115	Nhimanhana Bai ... U ta xivhona https://t.co/BluVo3X8UY	positive	Nhimanhana Bai  U ta xivhona	Nhimanhana Bai will be a friend
+115	ts_test_00116	@user akupfuki wa mbilo Xalati Matwasa, Sivar Dominguez Shishongi ka Khombomuni-Moz na @user la Dobsonvil. Niri Khombomun	neutral	akupfuki wa mbilo Xalati Matwasa Sivar Dominguez Shishongi ka KhombomuniMoz na  la Dobsonvil Niri Khombomun	no heart of the heart xalati wa senminez shishongi in Khombomunoz and Dobsonvil I say Khombomunn
+116	ts_test_00117	@user rixile vahaxi vamatimba ni lhomukile, amu badweni niyo niyo nyima niyo ta ni nyimela nwina muhaxa nita dja mpungu nitaya tirwene @user @user @user @user @user	positive	rixile vahaxi vamatimba ni lhomukile amu badweni niyo niyo nyima niyo ta ni nyimela nwina muhaxa nita dja mpungu nitaya tirwene	Hello broadcasters I am in the Bads and I will stand up and I will wait for me you Muhaxa I will eat Mpungu and I will go to work
+117	ts_test_00118	Mina ni on-line	positive	Mina ni online	I and I online
+118	ts_test_00119	Xa huTome hi Roda 🌕	neutral	Xa huTome hi Roda	the hutome by Roda
+119	ts_test_00120	@user @user hi loko bolo ya yena yi herile Ka chiefs	neutral	hi loko bolo ya yena yi herile Ka chiefs	That's when his ball was finished in Chiefs
+120	ts_test_00121	Leicester City Swa Nsila. 🙄🙄	negative	Leicester City Swa Nsila	Leicester City is a tail
+121	ts_test_00122	@user ni dondze swa kahle ka mfundisi na khensa muhaxi @user	positive	ni dondze swa kahle ka mfundisi na khensa muhaxi	I did the best in the pastor and thank you broadcaster
+122	ts_test_00123	@user @user rixile vahaxi va mina, nikombela mini pfuna hi nghoma leyi yinga tlangiwa loko mi vuyela ka xiphemu xa vumbirhi liya yo sunguna sunguna. Ni lava ku tiva ku ira mani and his title. Obrigado	positive	rixile vahaxi va mina nikombela mini pfuna hi nghoma leyi yinga tlangiwa loko mi vuyela ka xiphemu xa vumbirhi liya yo sunguna sunguna Ni lava ku tiva ku ira mani and his title Obrigado	Hello my broadcasters please help me with the song played when you come back to that second episode I want to know who Ira and his title obrigado
+123	ts_test_00124	,K hihi famba hi i i dsbb d d	neutral	K hihi famba hi i i dsbb d d	k hihi went with I dsbb d d
+124	ts_test_00125	@user 😂😂😂😂 loko i yala u tava kwatisa vaka gallo	negative	loko i yala u tava kwatisa vaka gallo	If you say you will offend the Gallo
+125	ts_test_00126	Salanini vha #Ponrutuguezi...hi ta tlhela hi vonana... loko FiFa a swi tsika....SALANE SALANE SALANE....!!!!	positive	Salanini vha Ponrutuguezihi ta tlhela hi vonana loko FiFa a swi tsikaSALANE SALANE SALANE	Salanini vha Ponrutuguzihihihihihihihihihi see each other when FIFA leaves it tskalane salana salanane
+126	ts_test_00127	@user swoswi Nile ka nelly a nkanyini	positive	swoswi Nile ka nelly a nkanyini	Now I'
+127	ts_test_00128	Txintxa ma hanhela à vangana vanga ku lheka @user #Wazimbo	negative	Txintxa ma hanhela à vangana vanga ku lheka  Wazimbo	Transanxa you are cut off à they can lheka yazimbo
+128	ts_test_00129	@user @user 😁😁😁😁😁😂😂 hi naveleni a hidyi xa munhu	positive	hi naveleni a hidyi xa munhu	Let's wish we don't eat someone
+129	ts_test_00130	Adam wa ukweli http://t.co/UqcSJUY5sV	neutral	Adam wa ukweli	Adam of Ukweli
+130	ts_test_00131	@user Wa Ni Danissa. 🙆🏾‍♂️😂	negative	Wa Ni Danissa ‍	You Dansa v v v v.
+131	ts_test_00132	@user @user Ku fambe ngwenya	positive	Ku fambe ngwenya	There went a monkey
+132	ts_test_00133	Mara he mfoo vo #kokwaniDala nkarhi unwani va bayiza @user @user @user	negative	Mara he mfoo vo kokwaniDala nkarhi unwani va bayiza	But he mfoo they are grandmadala one time they are bayiza
+133	ts_test_00134	Bebida anima ya	positive	Bebida anima ya	Bebda Anima of
+134	ts_test_00135	Akurhula ka hosi vahanhi tiko yes wavuya xikombisso hiii leswi yendlecaca swoswi Ahikhongeleni ngopfuu swinene	positive	Akurhula ka hosi vahanhi tiko yes wavuya xikombisso hiii leswi yendlecaca swoswi Ahikhongeleni ngopfuu swinene	The peace of the king yes is in symbol hiii what drovescaca now let's pray so much
+135	ts_test_00136	Barcelona wuanga Loko anga Komi swi tya nem ma 4 finais anga khaluty	negative	Barcelona wuanga Loko anga Komi swi tya nem ma  finais anga khaluty	Barcelona witch when it is not concient
+136	ts_test_00137	@user aha suca vc..famba uh ekhela .	negative	aha suca vcfamba uh ekhela	Aha suca vcYA uh e kolala
+137	ts_test_00138	@user Hehehe ya maninge!!	positive	Hehehe ya maninge	Hehehe the Maninga Maninge
+138	ts_test_00139	@user Rixile he Maningi, Pfuxa la valandzelalaka: 1- Rafael Ndlhovu ka Mavodze; 2- Antoni Nyathi la Pitori 3- Cuvuka Valoyi ka Xisungele. I ADOLFO MIMBIRI LA MOÇAMBIQUE KA KHUBU. OBRIGADO PAPAI	positive	Rixile he Maningi Pfuxa la valandzelalaka  Rafael Ndlhovu ka Mavodze  Antoni Nyathi la Pitori  Cuvuka Valoyi ka Xisungele I ADOLFO MIMBIRI LA MOÇAMBIQUE KA KHUBU OBRIGADO PAPAI	Hello man he wakes up the follower of the following Rafael Ndlhovu from Mavodze Antoni Nyathi The Pretoria Valoyi of Xisungele I are two ADILF in Mozambique in the chhubu papai papai
+139	ts_test_00140	Ikafika wakati wa #UNO Ohhhh ohhh!! #Foby #undefinedperson #mtumwingine #tetea_mziki_mzuri @user Maputo, Mozambique https://t.co/lbkiFSQwzi	neutral	Ikafika wakati wa UNO Ohhhh ohhh Foby undefinedperson mtumwingine teteamzikimzuri  Maputo Mozambique	It's a kati kati ka uno ohhhh ohhh fohh foby undefilededperson mtumwigine teteamamzuri Maputo Mozambique
+140	ts_test_00141	@user hahaha ni hlamba ti ntiho	neutral	hahaha ni hlamba ti ntiho	Hahaha and wash our fingers
+141	ts_test_00142	Ya, Chris &amp; Tyga mataram WOW 😍	positive	Ya Chris amp Tyga mataram WOW	Chris Amp Tyga Matham Wow
+142	ts_test_00143	@user Sawa. Wacha niweke standing order ya rent. https://t.co/dKR6WOfbW4	positive	Sawa Wacha niweke standing order ya rent	Sawa wacha I'm the standing Order of rent
+143	ts_test_00144	@user @user @user @user nitsame hansi ka nsinya https://t.co/WLx2tXmVQN	positive	nitsame hansi ka nsinya	I've been under the bottom of the tree
+144	ts_test_00145	@user: Dzixile 😂😂😂"" u bom ?	positive	Dzixile  u bom	Skyle u bom
+145	ts_test_00146	@user @user #HHW papa vana swicele, boti huma kavona ubyela mhani mhaka ya wena hiku na yena uku beburini kumbe hlamusela papa	neutral	HHW papa vana swicele boti huma kavona ubyela mhani mhaka ya wena hiku na yena uku beburini kumbe hlamusela papa	hhw dad swiple boti from their house and tell my mom because he is also beburini or explained to my dad
+146	ts_test_00147	@user @user Hbd nwarikotso kula uringana na ndlhopfo uvulavula ngopfo ku fana na papa😂😂😂	negative	Hbd nwarikotso kula uringana na ndlhopfo uvulavula ngopfo ku fana na papa	Hbd Nwarikotso grow up and you're a drist you speak so much like a dad
+147	ts_test_00148	pha tekateka ih mani mulandi lani pha tekateka ih mani mulungo pha tekateka ih mani mubaniyani 🎶🎶🎶	positive	pha tekateka ih mani mulandi lani pha tekateka ih mani mulungo pha tekateka ih mani mubaniyani	Take TEAK IH ONE MUGANDI LANI PHAKATEKIKA
+148	ts_test_00149	Na khensa marito ya mfundisi nile xokwe Mozambique himina leonildo mathonsi @user	positive	Na khensa marito ya mfundisi nile xokwe Mozambique himina leonildo mathonsi	I am grateful for the words of the pastor and in Xokweni I am Leonilildo Mathonsi
+149	ts_test_00150	@user @user @user na mirhandza vahaxi va mina phela na tinyungubyisa hi nwi nirila Moz ka Khubu i Adolfo.	positive	na mirhandza vahaxi va mina phela na tinyungubyisa hi nwi nirila Moz ka Khubu i Adolfo	I love my broadcasters because I'm proud of you crying moz in thekhubu i adolfo
+150	ts_test_00151	Wena kê? #ungaemby @user Xai-Xai https://t.co/Te0Voqf8IQ	neutral	Wena kê ungaemby  XaiXai	You Kê
+151	ts_test_00152	@user mina vhahaxi nipfuke hi 3 nilamula anhipi la kamakhelwana loyi waxinuna angavhua nivusico a kaya na ayabale axirhangiso xa vaxisate🙈🙊 @user @user @user @user @user	negative	mina vhahaxi nipfuke hi  nilamula anhipi la kamakhelwana loyi waxinuna angavhua nivusico a kaya na ayabale axirhangiso xa vaxisate	I am a guy who is up with a sword of this guy who is a man who man has navusico at home with a Akumala a xikangise of Vaxisate
+152	ts_test_00153	Protocolo swa* matximba ""@user: Protocolo xa matximba.. https://t.co/ArG6AgUqlY""	negative	Protocolo swa matximba  Protocolo xa matximba	Protocolo of Matximba Protocol of Matximba
+153	ts_test_00154	Niku yingiseli nile xokwe Mozambique @user	positive	Niku yingiseli nile xokwe Mozambique	I'm listening to Xokweni Mozambique
+154	ts_test_00155	@user Ahhhh wena pa	negative	Ahhhh wena pa	Ahhhh you pat
+155	ts_test_00156	@user Wena o reng	negative	Wena o reng	You o reng
+156	ts_test_00157	Hita ku gubuta https://t.co/eLesD3iou4	negative	Hita ku gubuta	We'll gubuta you
+157	ts_test_00158	@user kmk Akukalo ka wena	positive	kmk Akukalo ka wena	KMK a kakalo for you
+158	ts_test_00159	Niku khoma thwii kola chokwe Mozambique @user @user	neutral	Niku khoma thwii kola chokwe Mozambique	I'm holding a Thwii Kola Chokwe Mozambique
+159	ts_test_00160	A lincimo e Siku Ni SIKU, ximixweni madanbveni Ni uSiku #LinkInBio	positive	A lincimo e Siku Ni SIKU ximixweni madanbveni Ni uSiku LinkInBio	The morning of the day in the morning madanbve
+160	ts_test_00161	@user eix noxota hi wena mnghm	neutral	eix noxota hi wena mnghm	Eix noxota you mnghm
+161	ts_test_00162	Watakufufuta ni mapetsua yaku	negative	Watakufufuta ni mapetsua yaku	You are fucking you with your pain
+162	ts_test_00163	A NTAVA A VA YI KHWELI HI KU TSUTSUMA.	negative	A NTAVA A VA YI KHWELI HI KU TSUTSUMA	I'll be not running it away
+163	ts_test_00164	Hedjo a leswi ni switwaka no biwa hi zululwana	negative	Hedjo a leswi ni switwaka no biwa hi zululwana	Hejo that what I feel and beats by the Zuluwana
+164	ts_test_00165	Koeman pode u famba	neutral	Koeman pode u famba	Koeman pode leaves
+165	ts_test_00166	#MinhaAvô: ""A wansanthi a janela a tiva a ndlala ya wa nuna, a mpalha ya wanuna, ku lhamba ka wanuna Ni mayentlela ya wanuna..."" #Aprendam!	positive	MinhaAvô A wansanthi a janela a tiva a ndlala ya wa nuna a mpalha ya wanuna ku lhamba ka wanuna Ni mayentlela ya wanuna Aprendam	Minhaavô a wansantthi wanylaying to know the hunger of a husband of a man's body to threw a man with a man arisam
+166	ts_test_00167	Oooooooooh Ethlela wena.. 😂😂😂 https://t.co/InLY3VplcI	neutral	Oooooooooh Ethlela wena	Ooooooooh Eyela you
+167	ts_test_00168	@user Ni bom pá. Wene ke?	positive	Ni bom pá Wene ke	and the bom pána you then
+168	ts_test_00169	Beth oh ni nhimba 😂😂😂😂😂	positive	Beth oh ni nhimba	Beth oh nihimba
+169	ts_test_00170	Ni Dili, ni xuzili 😍❤	positive	Ni Dili ni xuzili	I dli and xuli
+170	ts_test_00171	Hi Kussa lirandzo la mina na wena I originale I originale A Loko niku xamina xawena teka Xamina xawena teka #NitafaNawena	positive	Hi Kussa lirandzo la mina na wena I originale I originale A Loko niku xamina xawena teka Xamina xawena teka NitafaNawena	In kussa my love and you are the original i reiginala a if I say your sany take yours take my I will be likewise
+171	ts_test_00172	@user @user A ni kulumi txumo 😭	negative	A ni kulumi txumo	He has no sweat
+172	ts_test_00173	Buya uni Teka pra hi tá Famba https://t.co/GbbjF7cl5D	positive	Buya uni Teka pra hi tá Famba	come back and take the Pres
+173	ts_test_00174	@user Nita mu bjela hehehehehe	neutral	Nita mu bjela hehehehehe	I'll blot him hehehehehehehe
+174	ts_test_00175	@user ni komi . HAHAHAHAHAHAHAHAHA #MASBEMBEM	positive	ni komi  HAHAHAHAHAHAHAHAHA MASBEMBEM	I'
+175	ts_test_00176	Ah vovo dele, swe xa ni tsakissa 🎶😂💃 https://t.co/v8ElNKT22D	positive	Ah vovo dele swe xa ni tsakissa	ah vovo dele s ya ka ni rejoicing
+176	ts_test_00177	B3 Money ft Mr Bow, Edu , Liloca, Kastelo Bravo, Nuno Abdul &amp; Hernani - Ni ta ku fonela (RMX)	neutral	B Money ft Mr Bow Edu  Liloca Kastelo Bravo Nuno Abdul amp Hernani  Ni ta ku fonela RMX	B Money Ft Mr Bow Edu Liloca Kastelo Bravo bravo bravo abdul amp hernani I will call you RMx
+177	ts_test_00178	@user ih nada pa	negative	ih nada pa	ih nada pa
+178	ts_test_00179	Buya ka mina https://t.co/Znal3x2ty7	positive	Buya ka mina	Bring me back to me
+179	ts_test_00180	@user Wene u molwene 😒😂	negative	Wene u molwene	You are molwene
+180	ts_test_00181	Ni yingisele @user kola Ka chokwe @user @user @user @user sponono https://t.co/iSg3fhHKZg	neutral	Ni yingisele  kola Ka chokwe     sponono	I listened to the chokwe Sponono
+181	ts_test_00182	@user Fuseka wena ok😂😂😂😂😂😂😂	negative	Fuseka wena ok	get up you ok
+182	ts_test_00183	Ku ciniwa vosho @user kumbi ya tiviwa aridz https://t.co/VuEJaOh9TX	neutral	Ku ciniwa vosho  kumbi ya tiviwa aridz	The dance of such they is known Aridz
+183	ts_test_00184	@user @user @user @user ni na nwina nirila Moz ka KHUBU. Bom dia.	negative	ni na nwina nirila Moz ka KHUBU Bom dia	I am with you crying moz ka hum bom dia
+184	ts_test_00185	Amani ya Nchi https://t.co/CSPR9jH0Xd	neutral	Amani ya Nchi	Aman of Nchi
+185	ts_test_00186	@user mina ni pfukile va haxi ni yimele taxi ni suka amagude niya a maputo niya ka shop yi nwana nixavhe ama bikinho vani nike ya xxl amaniringane mina imakulo @user @user @user @user	negative	mina ni pfukile va haxi ni yimele taxi ni suka amagude niya a maputo niya ka shop yi nwana nixavhe ama bikinho vani nike ya xxl amaniringane mina imakulo	I woke up to the haxi waiting for the taxi and I left amagude and I went to the maputo to the child's shop and bought a bikinho ike nkeke of Xxl amanilane I am a kulolo
+186	ts_test_00187	@user Vhagama vaku: Cultura swi yine yine	negative	Vhagama vaku Cultura swi yine yine	The vhagama say the culture is yine yine
+187	ts_test_00188	Ahahahah ... wena pah ... https://t.co/vk1EuUCMFZ	negative	Ahahahah  wena pah	Ahahahah you pah
+188	ts_test_00189	Va loya hi vakiti. 🤤🤤😁😂😂🤣🤣🤣 https://t.co/tCrHCuKJlz	negative	Va loya hi vakiti	They bewitched by the guys
+189	ts_test_00190	“@user: U PETA MATI💦💦💧😂” wa xi vona ? 😂😂😂😂😂	negative	“ U PETA MATI” wa xi vona	“ Paint water” you see
+190	ts_test_00191	@user @user @user aswive tanu naka Khompela ufanele ku hambana na Kaizer Chiefs	positive	aswive tanu naka Khompela ufanele ku hambana na Kaizer Chiefs	It was not the case with Khomela you should separate from Kaizer Chiefs
+191	ts_test_00192	@user Ni pfhukile. Khanimambo. Ho yini kupfhuka?	positive	Ni pfhukile Khanimambo Ho yini kupfhuka	I'm out khanima, what's
+192	ts_test_00193	@user hahaha u tiyissile	positive	hahaha u tiyissile	Hahaha is strong
+193	ts_test_00194	@user Cota Buya Ka 😂😂😂😂	neutral	Cota Buya Ka	Cota comes back to
+194	ts_test_00195	@user Mmm. Swa hombe. Ni pfhukile. Akuna swa kukazata. Khanimambo	positive	Mmm Swa hombe Ni pfhukile Akuna swa kukazata Khanimambo	MMM MMM BACK I HAVE BEEN SURE THERE IS NO KHEZATA KHANIMAMBO
+195	ts_test_00196	@user yaa i dica dza bom,so pode hi kh0ma bay..!u tsama mpt wene.?	positive	yaa i dica dza bomso pode hi khma bayu tsama mpt wene	Yaa I Dica dza bomso pode pode with a khma bayu tsala wene
+196	ts_test_00197	Nilava a kuya kosini vahaxi nho yimela nkari lowo wuhela nitalhamba nita famba @user @user @user @user	neutral	Nilava a kuya kosini vahaxi nho yimela nkari lowo wuhela nitalhamba nita famba	I want to go to the kosi vahaxi the guys are waiting for the time to end I will go and I will go
+197	ts_test_00198	Niku va,va,va niku hoyohoyo vahaxi vamina💪 @user @user @user @user @user @user	positive	Niku vavava niku hoyohoyo vahaxi vamina	I'm their pain and the hohohohohoyo broadcasters my
+198	ts_test_00199	@user Ni pfukile ha hombe,wena ke?	positive	Ni pfukile ha hombewena ke	I'm up with a great way to
+199	ts_test_00200	Niku khoma nile xokwe Mozambique 810dstv @user twana guitar yakona	positive	Niku khoma nile xokwe Mozambique dstv  twana guitar yakona	I'm holding you in Xwekwe Mozambique Destv hearing guitar there
+200	ts_test_00201	@user hahahahha malta kome na boa ? Epa, ya mano , txova txova hahahahhahaha	positive	hahahahha malta kome na boa  Epa ya mano  txova txova hahahahhahaha	Hahahha malta kome and boa in the cheer'
+201	ts_test_00202	@user Estombo xa GalaGala	negative	Estombo xa GalaGala	Galagala Estola
+202	ts_test_00203	Le Ya Ntombi	positive	Le Ya Ntombi	in the girl
+203	ts_test_00204	@user @user Khanimambo, nihine lá kaya fswa hi anpsela hi dlhawa hi xirhame ntsen, mas fswa hi fambela, minturo ni xicola xa vana!	positive	Khanimambo nihine lá kaya fswa hi anpsela hi dlhawa hi xirhame ntsen mas fswa hi fambela minturo ni xicola xa vana	Khanimambo I am hine lá home fswa we am infessing we are killed just yayememe mas fswa we go to minuro and a child of children
+204	ts_test_00205	Mi njhn vahaxi va Mina vo dhuma @user @user	positive	Mi njhn vahaxi va Mina vo dhuma	Mi njhn my broadcasters are famous
+205	ts_test_00206	@user @user xavito nita ku fumbuta mina 😠😠	negative	xavito nita ku fumbuta mina	Name I will beat you
+206	ts_test_00207	Mina ni li wona hi wene mama !	positive	Mina ni li wona hi wene mama	I am the one you mom
+207	ts_test_00208	Wali: ani xavi ma extensão, vata ni gwirita...	negative	Wali ani xavi ma extensão vata ni gwirita	Wali I don't buy Extensão to come to me a gwrita
+208	ts_test_00209	Vari niku byela swaku vaku rhandza ka chokwe he @user	positive	Vari niku byela swaku vaku rhandza ka chokwe he	They tell you that his love for Chokwe he
+209	ts_test_00210	#Np @user - Kuna ni maka🎶🎼🎤🎵🎸🎹	neutral	Np   Kuna ni maka	NP there is a maka maka
+210	ts_test_00211	@user Bem assim tsova, tsova, Teka, Teka	positive	Bem assim tsova tsova Teka Teka	Bem assim tswovala the squir
+211	ts_test_00212	Nitiketelile madoda XILUVA NI LANGUI WEEEE https://t.co/hGQQeacyJL	positive	Nitiketelile madoda XILUVA NI LANGUI WEEEE	I'm architected guys and Langui Weeee
+212	ts_test_00213	Hi tumbo wa siku dza namunlhaa !	neutral	Hi tumbo wa siku dza namunlhaa	In the day of the day numunlhaa
+213	ts_test_00214	Auxeneee ho yine ku phuka? https://t.co/aPIglWX9Wf	positive	Auxeneee ho yine ku phuka	Auxeneee ho yine the flicker
+214	ts_test_00215	Depay phela no ndumba wena ..	positive	Depay phela no ndumba wena	Depay because I am a throat you
+215	ts_test_00216	Swa nsila só https://t.co/tf2AiUX9dW	negative	Swa nsila só	It's about the Nsila só
+216	ts_test_00217	A swa lissima iku ti Beka hansi	positive	A swa lissima iku ti Beka hansi	The lissima is to be down
+217	ts_test_00218	Ni yingiseli wena niri xokwe Mozambique ss THEMBI @user	positive	Ni yingiseli wena niri xokwe Mozambique ss THEMBI	I'm listening to you I'm Xhokwe Mozambique SS Thembi
+218	ts_test_00219	#ManoAzaguai - Ni taku phonele	neutral	ManoAzaguai  Ni taku phonele	Manoaaaaaazaguaai and Takuku
+219	ts_test_00220	Stay home Postpone Puza mati A mundzuku I siku Ka hissa	neutral	Stay home Postpone Puza mati A mundzuku I siku Ka hissa	Stay Home Postpone PUZA WATER TOMORROW IS A DAY ON HISSSA
+220	ts_test_00221	Mawaku A lirandzoooooh, djombooooohhh, ya lirandzoooooh. Mawakuhhhh....	positive	Mawaku A lirandzoooooh djombooooohhh ya lirandzoooooh Mawakuhhhh	Mawa yirandzoooh johoooohhh of the lightndzoooooh that
+221	ts_test_00222	@user Ah ja nibom, uphimissa yini, hi 2019 swoswi ahina nkama yaku sofrera	negative	Ah ja nibom uphimissa yini hi  swoswi ahina nkama yaku sofrera	ah nibom u total
+222	ts_test_00223	#topic mina nsati wamina swihi tekeli 3 months but sweswi hi tsama swinwe kola ka xokwe @user @user @user	positive	topic mina nsati wamina swihi tekeli  months but sweswi hi tsama swinwe kola ka xokwe	Topic I am my wife for the last days but now we are sitting together in the xokweni
+223	ts_test_00224	A loko mu ni vhona niku Ta ' Hi yena, Hi yena Yehovaa ☺😚😍 🎵	positive	A loko mu ni vhona niku Ta  Hi yena Hi yena Yehovaa	If you vomit and come in him by him, Jehovah
+224	ts_test_00225	@user Rixile he Sibuyi, ni mikuma kahle nirila Mozambique ka Ncai-Ncai hi ntirho kambe kaya hile ka KHUBU. I ADOLFO MIMBIRE LA. BOM DIA PAPAI. @user	positive	Rixile he Sibuyi ni mikuma kahle nirila Mozambique ka NcaiNcai hi ntirho kambe kaya hile ka KHUBU I ADOLFO MIMBIRE LA BOM DIA PAPAI	Hello he sibuyi I get well I am in Mozambique in ncaincai about work but home is in Khubu I in Khubu I adolfo mabom dia papai
+225	ts_test_00226	Vavassati vaku xonga tsamani mu xwitiva swaku mina na mi randzo *zico 's voice	positive	Vavassati vaku xonga tsamani mu xwitiva swaku mina na mi randzo zico s voice	Vassati guys you know that I love zico s voice
+226	ts_test_00227	O lavha ku famba kwini ?? https://t.co/JLSZwW5qpi	neutral	O lavha ku famba kwini	He wants where to go
+227	ts_test_00228	Chris Brown &amp; Tyga ft. Schoolboy - Ti ngwavana ni ti mbangui https://t.co/K79v5mK0AN	negative	Chris Brown amp Tyga ft Schoolboy  Ti ngwavana ni ti mbangui	Chris Brown Amp Tyga Ft Schoolboy The Best Of
+228	ts_test_00229	@user heish, nada bay, unga ni hembeli.	negative	heish nada bay unga ni hembeli	hish nad bay don't lie to me
+229	ts_test_00230	@user Happy Birthday ka wena mfowethu ukula ukula ukula	positive	Happy Birthday ka wena mfowethu ukula ukula ukula	Happy birthday to you mfowethu you grow up growing up growing up
+230	ts_test_00231	@user Puto sim ... Bro swa mbangue ni ma cigarri 😂😂😂😂	negative	Puto sim  Bro swa mbangue ni ma cigarri	Puto sim bro and cigarri sim bro and cigarri
+231	ts_test_00232	@user ni pfukile va haxi nho vela niku va niya ka makhelwana niya lamula nhipi tolo anga biwa hi sati @user @user	negative	ni pfukile va haxi nho vela niku va niya ka makhelwana niya lamula nhipi tolo anga biwa hi sati	I'm up they're hayi nho nho I'm going to the neighbor and I go to the nhipi yesterday he was beaten by his wife
+232	ts_test_00233	@user @user na mina xani rhandza phela loko xini vona xani tsutsumela	positive	na mina xani rhandza phela loko xini vona xani tsutsumela	And I love me because when it sees me it is running
+233	ts_test_00234	@user @user Fiseka wena ok😂😂😂😂😂😂😂😂	negative	Fiseka wena ok	Pire you ok
+234	ts_test_00235	@user: @user ni kaya kwanga bae::&gt;&gt; wena ke???""Também :::: Durmi pahhhhh porra ::::	negative	ni kaya kwanga baegtgt wena keTambém  Durmi pahhhhh porra	I am at the house Baegtgt you Kembém Durmi Pahhhhh Porra
+235	ts_test_00236	Niku yingiseli nile xokwe Mozambique @user ni khensa leswi uyi dondisaka swona muhaxi	positive	Niku yingiseli nile xokwe Mozambique  ni khensa leswi uyi dondisaka swona muhaxi	I'm listening to Xokweza Mozambique and thank you for what you can'
+236	ts_test_00237	Nimu niyingisela kahle nimu fundisi nili kwala Mozambique a Macia,nilo tsama na jangu wa mina @user @user #RadioBae	positive	Nimu niyingisela kahle nimu fundisi nili kwala Mozambique a Macianilo tsama na jangu wa mina   RadioBae	I am listening to me well I am a teacher I am in Mozambique a macianilo tsani my jangu Radiobae
+237	ts_test_00238	@user Hosi ya vátsua	positive	Hosi ya vátsua	King of Vátsua
+238	ts_test_00239	Happy birthday to you my friend Nhlamulo Chauke AKA Saki G... Xikwembu a xiku endli hi tintswalo u kateka uta vona lamo tala malembe. Have a blessed day and… https://t.co/LyvezMCsOf	positive	Happy birthday to you my friend Nhlamulo Chauke AKA Saki G Xikwembu a xiku endli hi tintswalo u kateka uta vona lamo tala malembe Have a blessed day and…	Happy birthday to you my friend Nhlamulo chauke aka saki g god bless you and you will see the many years at a blessed day and.
+239	ts_test_00240	Guebuza u hi fenhissa a m'pandlha. #EmatumTioPatinhasNaCadeia	negative	Guebuza u hi fenhissa a mpandlha EmatumTioPatinhasNaCadeia	Guebuza fetched us into a pantopatinhasnacadeia
+240	ts_test_00241	Sweswi Ni kola kasi ra wena @user	neutral	Sweswi Ni kola kasi ra wena	Now I'm kola and yours
+241	ts_test_00242	@user Na hanha. Aswina ku kazata. Ho uni ku pfuka?	positive	Na hanha Aswina ku kazata Ho uni ku pfuka	And Hanha doesn't have to kazata ho nini wakes up
+242	ts_test_00243	@user I mahungo ya kalhe ixiboho xa wena na nwini wa stand😁	positive	I mahungo ya kalhe ixiboho xa wena na nwini wa stand	It is the news of the kalhe is your decision and the owner of the Stand
+243	ts_test_00244	.me + u =♥	positive	me  u	Me u u
+244	ts_test_00245	@user Mara loko dyixi pfula dyaxi pfula jaa 🍑😋😋	neutral	Mara loko dyixi pfula dyaxi pfula jaa	But when it opens it it opens jaa
+245	ts_test_00246	Machine - Ni Kombela Hossi	positive	Machine  Ni Kombela Hossi	Machine I am asking for a Hossi
+246	ts_test_00247	@user #topic he Ningos mina Loku nilava ku endla xilo nativekisela ka xilu xexe and natitsona. Niri Khombomuni-Mozambique	negative	topic he Ningos mina Loku nilava ku endla xilo nativekisela ka xilu xexe and natitsona Niri KhombomuniMozambique	Topic he ningos if I want to do something to know for myself on it and I am at Khombomunimozambique
+247	ts_test_00248	Ih😂😂😂😂😂😂😂 hedjooo wahifuma https://t.co/xCGEtGhgTW	negative	Ih hedjooo wahifuma	Ih Hejooo of
+248	ts_test_00249	hahahaha #BangBang ih makah ah ngwana https://t.co/aZZw4GHstJ	negative	hahahaha BangBang ih makah ah ngwana	haha Bangbang Ih Makah ah Ngwana
+249	ts_test_00250	@user Swa nsila Ntsém	negative	Swa nsila Ntsém	It's a Swila Mtsém
+250	ts_test_00251	@user eh ya ya ya	neutral	eh ya ya ya	Eh ya ya yaya
+251	ts_test_00252	Aleluia na ih khensa Hosi yiniki leswilu swa lissima Inkwaswu vanga teka kuphumela kwanga vange teki Kanimambo na i khensa Hosi🙏	positive	Aleluia na ih khensa Hosi yiniki leswilu swa lissima Inkwaswu vanga teka kuphumela kwanga vange teki Kanimambo na i khensa Hosi	Aleluia na hh thanks the king xi xi vuvukoke xo xo lissima'
+252	ts_test_00253	@user Mtoto wa kiume	neutral	Mtoto wa kiume	Mtoto is a kiume
+253	ts_test_00254	A Lirandzo li fana, ni Xiluva"" 🎤🎵	positive	A Lirandzo li fana ni Xiluva	The love is like a flower

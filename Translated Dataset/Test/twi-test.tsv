@@ -1,0 +1,950 @@
+Unnamed: 0	ID	tweet	label	cleaned_text	translated
+0	twi_test_00001	ah ka s3 prison mpo er	positive	ah ka s prison mpo er	Ah says prison even er er er er er
+1	twi_test_00002	slim things de3 3noaa ne wei ooo🤩🤩🤩😘😂	positive	slim things de noaa ne wei ooo	Slim Things De Noia is this ooo
+2	twi_test_00003	ampesie bi yɛ guy	positive	ampesie bi yɛ guy	Apesie is Guy
+3	twi_test_00004	😂 😂 ah daabi daabi me bo efu menua	negative	ah daabi daabi me bo efu menua	Ah no no no me'
+4	twi_test_00005	hmm truly good real quick fact that go change africa but nkrumah koraa wa kunu na economic 123 hmm asem ni africans	negative	hmm truly good real quick fact that go change africa but nkrumah koraa wa kunu na economic  hmm asem ni africans	Hmm Truly Good Real Quck Fact Fact That Go Change Africa But Nkrumah is completely husband and Economic hmm is the Africans
+5	twi_test_00006	ceremonial vp nso y3di bor bra	negative	ceremonial vp nso ydi bor bra	ceremoniAl VP too yi bra bra bra bra bra
+6	twi_test_00007	oh bro na what ado	neutral	oh bro na what ado	Oh Bro and what ado
+7	twi_test_00008	hyɛma no ayɛ ma ɛnam no abu so enti peter eeei wompia	positive	hyɛma no ayɛ ma ɛnam no abu so enti peter eeei wompia	The ship is full of the meat so Peter eeei are not pushing
+8	twi_test_00009	ah ei pain me	negative	ah ei pain me	Ah ei Pain me
+9	twi_test_00010	eeeeiii 3ne3 mo mmoa nnipa na prostate de3 3ya	positive	eeeeiii ne mo mmoa nnipa na prostate de ya	eeeii and your animals people and prostate ya ya ya ya yare
+10	twi_test_00011	fa ma mi ehhh 😂	positive	fa ma mi ehhh	Take it to me ehhhh
+11	twi_test_00012	fa wo gyimie ko erh	negative	fa wo gyimie ko erh	Take your gyimie fight erh
+12	twi_test_00013	oh bro mese ohiaa ne nkwasiasem	negative	oh bro mese ohiaa ne nkwasiasem	Oh Bro I say Poor His Schees
+13	twi_test_00014	sei a na mep3 cmo	neutral	sei a na mep cmo	This is the mep Cmo
+14	twi_test_00015	nti fa wo sika nyinaaaa ma omo	positive	nti fa wo sika nyinaaaa ma omo	So give all your money for omo
+15	twi_test_00016	na awinsem yi erh🙄	positive	na awinsem yi erh	And this is erh
+16	twi_test_00017	as dem no score deɛ	positive	as dem no score deɛ	As dem no score.
+17	twi_test_00018	asakaa drill songs mu prophet 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥	positive	asakaa drill songs mu prophet	Asakaka Drill Songs Fappent
+18	twi_test_00019	wani abue enti na woyɛ guy saa no	positive	wani abue enti na woyɛ guy saa no	You'
+19	twi_test_00020	ad3n say cheese 3y3 hymn anaa	neutral	adn say cheese y hymn anaa	Adn say cheese y hymn or
+20	twi_test_00021	sɛ ndc foɔ diɛɛ bɛbrɛɛ naa ɛgyimi	negative	sɛ ndc foɔ diɛɛ bɛbrɛɛ naa ɛgyimi	If the NDC fo dining it was naa fig
+21	twi_test_00022	lemme dm right now cos sei koraa na me p3	positive	lemme dm right now cos sei koraa na me p	Lemme Dm Righ
+22	twi_test_00023	mo na mo bu okwasia	negative	mo na mo bu okwasia	You and you respect election
+23	twi_test_00024	nsemhunu saa na papa panyin u come spew youa rolemode not even pigs	negative	nsemhunu saa na papa panyin u come spew youa rolemode not even pigs	The patriarch pas
+24	twi_test_00025	masa go away shes not rich biaa 3ny3 oman sika nuaa na ode ay3 yie tsww🤦🏻‍♂️😂	negative	masa go away shes not rich biaa ny oman sika nuaa na ode ay yie tsww‍	Masa go away shes Not ria biaa ny the national money sister and has a good tswwwme tswwme
+25	twi_test_00026	3ny3 3no na ehia	positive	ny no na ehia	ny no and it needs
+26	twi_test_00027	3to no nso ah memp3	positive	to no nso ah memp	to no ah memp
+27	twi_test_00028	grasshopper mpo na edey bore me 😔kingdomphylum ne de3 ekeka hoo💔😑	negative	grasshopper mpo na edey bore me kingdomphylum ne de ekeka hoo	Grasshopper even
+28	twi_test_00029	ibi en problem ooo me i skip 😂😂😂😂	negative	ibi en problem ooo me i skip	ibi engam ooo me I skips
+29	twi_test_00030	hmmmmm me kwame deaɛ what ill tell you is twa car bra metwɛaa ɛnkyeaaa nkɔ ma kofi banasco wɔ central police barracks wei fri derek hɔ wɔ agric nsema	positive	hmmmmm me kwame deaɛ what ill tell you is twa car bra metwɛaa ɛnkyeaaa nkɔ ma kofi banasco wɔ central police barracks wei fri derek hɔ wɔ agric nsema	Hmmmmm I Kwame what Ill Ill You are about a car come I wait for me for Kofianasco in the Central Poly barracks This this is from derek in Agricrina news
+30	twi_test_00031	nana gyai na enfa	negative	nana gyai na enfa	Nana gyai and then
+31	twi_test_00032	ɔtwi borla borla car wɔ nkoranza 🤣🤣🤣	negative	ɔtwi borla borla car wɔ nkoranza	He's twent
+32	twi_test_00033	nti nka y3 nyi hwan na kwadaaso usain bolt mmra mu	positive	nti nka y nyi hwan na kwadaaso usain bolt mmra mu	So if y y ny y nye who is the foamaaaaaaaaaaaaaaaaaaaaako Bot come in
+33	twi_test_00034	wo yale koraa aka ne kote naa wodi feeli nu a san be gye back mmoa	negative	wo yale koraa aka ne kote naa wodi feeli nu a san be gye back mmoa	Your yale completely left is his cot
+34	twi_test_00035	nana me fɛrɛ wo paa oo asikafoɔ aduane na wo tɔ ho saa no	positive	nana me fɛrɛ wo paa oo asikafoɔ aduane na wo tɔ ho saa no	Nana I'
+35	twi_test_00036	rashford diɛ sɛ jon	negative	rashford diɛ sɛ jon	Rashford ate that Jon
+36	twi_test_00037	obama ano ɛya na me nyɛ den ni	positive	obama ano ɛya na me nyɛ den ni	The ed
+37	twi_test_00038	lol mmaa dea daabi da	negative	lol mmaa dea daabi da	Lol Women's No Day
+38	twi_test_00039	modi33 kyeres3 gyimie saa monsua nyansa jay z of what africa kwasiasem kwa	negative	modi kyeres gyimie saa monsua nyansa jay z of what africa kwasiasem kwa	Mods gyimie like so learn wisdom jay z of what Africa Kwasimal nothing for nothing
+39	twi_test_00040	ei ghana airforce 1 mu kamikaze paaa ooo bomb nkoaaaa 😂	neutral	ei ghana airforce  mu kamikaze paaa ooo bomb nkoaaaa	Ei Ghana Airforcee in kamikaze very much ooo Yehyo Pramaaaaaaaaaaa we can
+40	twi_test_00041	ɔhemaa abotrɛ 😂😂😂😂😂😂😂😂😂😂 herh but milo yɛ fokn	negative	ɔhemaa abotrɛ  herh but milo yɛ fokn	princess up Herh But Milo is a new one
+41	twi_test_00042	wokasa te s3 de3 woti london nanso wo kasa ntwam konongo mpo	negative	wokasa te s de woti london nanso wo kasa ntwam konongo mpo	You talk like the London but your speech is not even away
+42	twi_test_00043	oh dabi but wote hwe ɔdɔ mu gyimie mu a wo life bɛyɛ sɛ koobi	negative	oh dabi but wote hwe ɔdɔ mu gyimie mu a wo life bɛyɛ sɛ koobi	Oh no but you feel a love gyimie a your life will be like koobi
+43	twi_test_00044	mo nsusue3 nyinaa b3b mo tiri so	negative	mo nsusue nyinaa bb mo tiri so	All your thoughts will be over your head
+44	twi_test_00045	daddy lumba makoma ho toffee❤️	positive	daddy lumba makoma ho toffee	Daddy Lumba Makoma Ho toffee Hotee
+45	twi_test_00046	menu no deɛ universal oo anaa wose supercontinental lol	positive	menu no deɛ universal oo anaa wose supercontinental lol	I'm note it'
+46	twi_test_00047	wei deɛ wo lye paa o	positive	wei deɛ wo lye paa o	This is your lyi o
+47	twi_test_00048	bibini wa gyimie saa wcka kyer3 broni koraa wcn gye di	negative	bibini wa gyimie saa wcka kyer broni koraa wcn gye di	Bibini wa gyimie so you're going to believe
+48	twi_test_00049	wo girl ɛfru pii ne ni corset	negative	wo girl ɛfru pii ne ni corset	Your girl many gos and ni combset
+49	twi_test_00050	seesei obaa biaa adane apocalyto wobehu omo biaa na ring hy3 ne hwene mu😂😂	positive	seesei obaa biaa adane apocalyto wobehu omo biaa na ring hy ne hwene mu	Now a woman will become a apocalyto you will see omo biaa and ring in her nose in her nose
+50	twi_test_00051	god is watching yall nyame b3 tua mo ka paaa spoiling team 😢😭 😃😊	negative	god is watching yall nyame b tua mo ka paaa spoiling team	God is a yall God will pay you very much spoiling teum
+51	twi_test_00052	😂😂😂 s3 nya baako koraaa anka yewuuooo	negative	s nya baako koraaa anka yewuuooo	If you had one at all if we would die
+52	twi_test_00053	nyame na agye mo 3ny3 saa enka agenda paaaa 😂	positive	nyame na agye mo ny saa enka agenda paaaa	God is saved
+53	twi_test_00054	s3 3y3 me o s3 3ny3 me o reply no de33 wob3 gye efis3 nyansaa bia nni nea woka no	negative	s y me o s ny me o reply no de wob gye efis nyansaa bia nni nea woka no	If it'
+54	twi_test_00055	this trumu pant di3 chale mo trumu nyinaa b3y3 kuro ooh😹😹😹	negative	this trumu pant di chale mo trumu nyinaa by kuro ooh	This Trumu tribut
+55	twi_test_00056	eeishh asɛm wei na aplus akâ no simple saa nu	positive	eeishh asɛm wei na aplus akâ no simple saa nu	ee IH THIS PROBLE
+56	twi_test_00057	na fatima koraa why koko seller de3 anka date rush fa woho s3n	negative	na fatima koraa why koko seller de anka date rush fa woho sn	And take the
+57	twi_test_00058	ahuof3 de3 manya bi nanso sisi mu den de3 nyame de adom me	positive	ahuof de manya bi nanso sisi mu den de nyame de adom me	Ahuofif I've got some but the build
+58	twi_test_00059	sika kasa aa meti koli koli	positive	sika kasa aa meti koli koli	Money talk aa Meti Koli
+59	twi_test_00060	chacha mogya foɔ no wɔ hene ooo	positive	chacha mogya foɔ no wɔ hene ooo	Chocha Blood blooder is the king ooo
+60	twi_test_00061	so ebi tru eei ghana 🇬🇭	positive	so ebi tru eei ghana	so some tru eei Ghana
+61	twi_test_00062	asante kotoko no ɛwɔ wura oooooo🔥🔥🔥🔥 show working system🔥🔥🔥🔥not yɛsa masa system biara	positive	asante kotoko no ɛwɔ wura oooooo show working systemnot yɛsa masa system biara	Asante Kotoko No Have Ooooo Shower Systemnot wesa any sysa sysa sysa systeem any
+62	twi_test_00063	onyame a woyɛ yɛn agyanom nyankopɔn ɛnnɛ nso woyɛ yɛn nyankopɔn yɛbɛsom wo abre nyinaa ama amansan ate wo nka deɛ worebisa biara no ɛyɛ nyame nko na me ne mabusua dan no🙏 sehwi wiawso western ghana	positive	onyame a woyɛ yɛn agyanom nyankopɔn ɛnnɛ nso woyɛ yɛn nyankopɔn yɛbɛsom wo abre nyinaa ama amansan ate wo nka deɛ worebisa biara no ɛyɛ nyame nko na me ne mabusua dan no sehwi wiawso western ghana	God our fathers our fathers today may be our God We will worship you We will serve you All for all you ask it is God only I and the family’
+63	twi_test_00064	normal vibes nkoaaa na wusu eh	positive	normal vibes nkoaaa na wusu eh	Only Normal Vibes only and you cry eh
+64	twi_test_00065	masa y3 change nte3m errr jimie ben nso nono aaah	negative	masa y change ntem errr jimie ben nso nono aaah	Masa y Change ate errrrrrrrrrrrrrrrrrrrrrer jiime ben also aaah
+65	twi_test_00066	hmm me ne bl3 papa	negative	hmm me ne bl papa	Hmm me and bL Father
+66	twi_test_00067	asea 😂😂😂😹😹😹 wo dier b3ka kyere me s3 wo ti y3 wo ya anka wo b3 te	negative	asea  wo dier bka kyere me s wo ti y wo ya anka wo b te	sea your dier bke me if your head is your yare you would hear you
+67	twi_test_00068	mouse mu nyinaa astronaut 🐭 👨‍🚀 😂😂😂😂😂😂😂😂😂😂😂😂	positive	mouse mu nyinaa astronaut  ‍	Mouse in all Astarut „
+68	twi_test_00069	jesus na aba ena obiaa etonbi 😶	positive	jesus na aba ena obiaa etonbi	Jesus has come ena ena ena etonbi
+69	twi_test_00070	klakye klakye klakye fa wo gyimii da wate	negative	klakye klakye klakye fa wo gyimii da wate	Klakye Klakye Klakye take your gyimi never hear
+70	twi_test_00071	3firi s3 onyame na adom ara kwa na wo te s3 nea wo te 🙏🙏🙏🙏	positive	firi s onyame na adom ara kwa na wo te s nea wo te	Because God is just a grace you feel like you are
+71	twi_test_00072	etaaaso wote pum pum ahhh wo bi di🤩🤩🤩	positive	etaaaso wote pum pum ahhh wo bi di	It's often you hear pum pum Ahhh you'
+72	twi_test_00073	na u how do u see the psg team team ay3 s3 tu gyimii 😂😂😂 soorrrli	negative	na u how do u see the psg team team ay s tu gyimii  soorrrli	And how do u psg Teamte hear ay s fyimii soorrliLiliLili
+73	twi_test_00074	eiiiiiiii nti wo gyae gyimiii no kaly	negative	eiiiiiiii nti wo gyae gyimiii no kaly	Eiiiiii so you stop Gyimiii kaly
+74	twi_test_00075	sika yɛ sika legitimate anaa sɛ blood	neutral	sika yɛ sika legitimate anaa sɛ blood	Money is money legitimate or like a
+75	twi_test_00076	asem no ayɛ kɛse ama malam😃😃😃	neutral	asem no ayɛ kɛse ama malam	The story is so great for Malamic
+76	twi_test_00077	lol nkwasias3m y3 wo d3😂	negative	lol nkwasiasm y wo d	Lol Lifesm y you love
+77	twi_test_00078	panyin paa na wo egyimi saa😂	negative	panyin paa na wo egyimi saa	The oldest one and you egyimi like that
+78	twi_test_00079	asaase no se nyame ay3 awei🇬🇭🇬🇭🇬🇭	positive	asaase no se nyame ay awei	The earth says God is awei
+79	twi_test_00080	saa kum kum bagya no i cant do some 😼	positive	saa kum kum bagya no i cant do some	That
+80	twi_test_00081	ghana de3 y3y3 ahushish3 dodo yare3 wei nso 3bi aba ghana ei😭💔	negative	ghana de yy ahushish dodo yare wei nso bi aba ghana ei	Ghana is y yyhushish too much disease this has also come Ghana ei ei ei
+81	twi_test_00082	wo nso wo ha adwen oo	negative	wo nso wo ha adwen oo	You also think
+82	twi_test_00083	paa s3 m3 supporti manchester united de3 nanka me de b3 nom ankaatw3de3 😹💔	negative	paa s m supporti manchester united de nanka me de b nom ankaatwde	The most sli
+83	twi_test_00084	your welfare youre tweeting lies fioor and yes magyimi nka biibi anaa	negative	your welfare youre tweeting lies fioor and yes magyimi nka biibi anaa	Your hear your twet
+84	twi_test_00085	tuchel nso da gyam anaa	negative	tuchel nso da gyam anaa	Tuchel is also lying.
+85	twi_test_00086	gyae 3nnka saa biomu😂😂😂😂😂	positive	gyae nnka saa biomu	Stop saying that again again
+86	twi_test_00087	good morning krobea kumasi asante kotoko wo kum apem a fa b ampesie 🔥	positive	good morning krobea kumasi asante kotoko wo kum apem a fa b ampesie	Good Morning Krobea Kumasi Asanteko You Are
+87	twi_test_00088	bra fie na bedi jollof 😀	positive	bra fie na bedi jollof	Come home and eat jollof
+88	twi_test_00089	wo ny3 madanfo aah woho me aah tw3m😹	negative	wo ny madanfo aah woho me aah twm	You ny maddafo aah you aah tm
+89	twi_test_00090	naaa ibi true oo	positive	naaa ibi true oo	Naaa Ibi a truth oo
+90	twi_test_00091	gyae na ɛka aba fie😂😂	negative	gyae na ɛka aba fie	Stop and it's coming home
+91	twi_test_00092	e hmm na waaw	neutral	e hmm na waaw	e hmm andaw
+92	twi_test_00093	herrrhhhh information wo wiase ooo😂😂😂	positive	herrrhhhh information wo wiase ooo	Herrrhhhhh Information Your World ooo
+93	twi_test_00094	doubling up sɛ woka deɛ waka me language 👍🏿👍🏿	positive	doubling up sɛ woka deɛ waka me language	Doubling Up If you say what he has said to me Language
+94	twi_test_00095	ghana da hom ase hom ndwuma asɔ hɛn enyiwa paa onyankropon nhyira hɔn daaaa	positive	ghana da hom ase hom ndwuma asɔ hɛn enyiwa paa onyankropon nhyira hɔn daaaa	Ghana thank you for your works have been very pleased
+95	twi_test_00096	adekye bio ne fa aseda ma nyakopɔn	positive	adekye bio ne fa aseda ma nyakopɔn	The next day is to thank God
+96	twi_test_00097	fa wo gyemii bi fri hɔ	negative	fa wo gyemii bi fri hɔ	Take away from you a gum from
+97	twi_test_00098	me faa wobotom ooh😂😂🤣	positive	me faa wobotom ooh	I took yourbotom ooh
+98	twi_test_00099	ghana ne tw3 bia 😂😂	positive	ghana ne tw bia	Ghana is the twi bia
+99	twi_test_00100	herrrh fa wo gyimie no tena wo d3n h ma y3n dwen y3p3 nyansani ama wato y3n fo na wo adui anokwa	negative	herrrh fa wo gyimie no tena wo dn h ma yn dwen yp nyansani ama wato yn fo na wo adui anokwa	Herrrh take your gyime sitting in You h Let us think of our wise man for you to abus us and you have reached the
+100	twi_test_00101	ka kum y3 gye no kwakuo anum 😂🤣🤣🤣🤣	positive	ka kum y gye no kwakuo anum	Kum Kum y y take it five quarry
+101	twi_test_00102	fa rent me 33 kakra 😁	positive	fa rent me  kakra	take RET ME ACTIFIC
+102	twi_test_00103	wonam aa 3ya te wanim	negative	wonam aa ya te wanim	You'
+103	twi_test_00104	wo nim brɛ woa brɛ afuomu ha aaaaa 😂😂😂😂	neutral	wo nim brɛ woa brɛ afuomu ha aaaaa	You know how to go here aaaaaa here aaaaa
+104	twi_test_00105	nkwasiafo nea aka mo ne gyemie me dam b🧏	negative	nkwasiafo nea aka mo ne gyemie me dam b	The hay is left with me and gymee me mad bum bum bum
+105	twi_test_00106	3nso nyame y3 fc fuo ne nkwasea hopes😂	negative	nso nyame y fc fuo ne nkwasea hopes	But God is fc fune and fools hopes
+106	twi_test_00107	bibinii ntié 3futu ooo aww bibinii nso y3 nipa oo na bibinii koraa b3y3 den wc wase	negative	bibinii ntié futu ooo aww bibinii nso y nipa oo na bibinii koraa by den wc wase	Bibirinii futu ooo aww bibirinii too a person is a person
+107	twi_test_00108	me gyidie ebedwa ntsi to nyame dwommaaad🔥🔥🔥	positive	me gyidie ebedwa ntsi to nyame dwommaaad	My faith Ebeddwa So sing God's song
+108	twi_test_00109	ɛyɛ bra bɛtɔ bundle wate	positive	ɛyɛ bra bɛtɔ bundle wate	It'
+109	twi_test_00110	eii 3y3 gyimi anaa s3 3dam	negative	eii y gyimi anaa s dam	eii y gyimi or s dam
+110	twi_test_00111	eeeeiiii asem ben na akoa wei nso 33ka yi🤣 jay z was fading out 🤣	negative	eeeeiiii asem ben na akoa wei nso ka yi jay z was fading out	Eeiiiii statement what is this slave also praise Jay z a fading out
+111	twi_test_00112	ohia yɛ foɔken bla 😂😂😂	negative	ohia yɛ foɔken bla	Poverty is ffoken Bla
+112	twi_test_00113	everyday man dey hustle y3 nfa nni agoro koraa adwuma yi rekcso y3 nfa nni agoro koraa ebi money we dey chase oh y3 nfa nni agoro koraaaaaa we go make oh ye nfa nni agoro koraa	positive	everyday man dey hustle y nfa nni agoro koraa adwuma yi rekcso y nfa nni agoro koraa ebi money we dey chase oh y nfa nni agoro koraaaaaa we go make oh ye nfa nni agoro koraa	Everyday man dey Hustle we don't have the job completely this job we're going to don't have a game at all some Money chase oh we don't have you at allaaaaa we go make oh we don't have play at all at all at all.
+113	twi_test_00114	wofa wɔhɔ nti me nnyɛ adwuma eii chale are you okay	negative	wofa wɔhɔ nti me nnyɛ adwuma eii chale are you okay	you take them So I don't work eii Chale are you okay
+114	twi_test_00115	nnipa y3 bad oo😂💔	negative	nnipa y bad oo	People y bad oo
+115	twi_test_00116	follow me🕊️❤️yen di y3 ho ha ifb	positive	follow meyen di y ho ha ifb	Following Meyen di y yi yi yfb
+116	twi_test_00117	ɛborɔ no deɛ wo yɛ den a wobɛgye	positive	ɛborɔ no deɛ wo yɛ den a wobɛgye	The strongest you are to get
+117	twi_test_00118	😂 😂 😂 😂 ose na me me fa wo huŋ ne wo gyimii	negative	ose na me me fa wo huŋ ne wo gyimii	He says and I take your hu a
+118	twi_test_00119	translation onum gyimie ne nkwasiasem ancpa yi nti nani kum	negative	translation onum gyimie ne nkwasiasem ancpa yi nti nani kum	Translation ouni gyimie and the scheme aencpa is why he is killed
+119	twi_test_00120	awwww nti bibinii kraa b3y3 den wo wiase	negative	awwww nti bibinii kraa by den wo wiase	awwww so bibiii kraia by den in the world
+120	twi_test_00121	rally no 3korrrrso 😂😂😂 umofia	positive	rally no korrrrso  umofia	Rally no Korrso Umofia No Korrso Umofia
+121	twi_test_00122	neo cnkc bi oo lol 🤣	positive	neo cnkc bi oo lol	Neo cnkc do
+122	twi_test_00123	dog eye e be shit dem chop that be why dem dey fool so nu efia tenge dey dey blow nyaaaa sey nobody for go the demo anka yagyimi ama no anaaa o feeli s3 y3ny3 agyimifuor na egu jubilee house h a won rewia ghana sika no nyinaaa anaaa s3bi o 😂	negative	dog eye e be shit dem chop that be why dem dey fool so nu efia tenge dey dey blow nyaaaa sey nobody for go the demo anka yagyimi ama no anaaa o feeli s yny agyimifuor na egu jubilee house h a won rewia ghana sika no nyinaaa anaaa sbi o	Dog E be shit dem chop that be wearing a nua tea tea teaaaa Sey nobody for the demom for him ora o feeleli s nyiness s ymimfuor and fall Oh
+123	twi_test_00124	mon forgeti omanpanin na eclipse kora mpo y3 partial and let	negative	mon forgeti omanpanin na eclipse kora mpo y partial and let	Ge
+124	twi_test_00125	akora n ho twa dodo ❤️	positive	akora n ho twa dodo	Akokoaa cut is too late
+125	twi_test_00126	restaurant b3n na wc motown	positive	restaurant bn na wc motown	Restaurant bn and wc motown
+126	twi_test_00127	kor club 😂😂 wo type woho 😂	positive	kor club  wo type woho	Krub you type yourself
+127	twi_test_00128	asiedu nketia pants mu ay3hye ruff 😂😂😂	negative	asiedu nketia pants mu ayhye ruff	Bury in the ayhye ruff
+128	twi_test_00129	ya hy3 mo kotoko mo awe gye to mu	negative	ya hy mo kotoko mo awe gye to mu	y hy hy hy your knee
+129	twi_test_00130	listowel term wei ɛyɛ ayɛ hit oo😀😀😀	positive	listowel term wei ɛyɛ ayɛ hit oo	Listoel Term
+130	twi_test_00131	woboa sika duro no de3 you gyii dadaaada	negative	woboa sika duro no de you gyii dadaaada	You help the gold coin with you ghow old old
+131	twi_test_00132	ɛyɛ aa fra ntoma 😊	positive	ɛyɛ aa fra ntoma	it's aa mixed with cloth
+132	twi_test_00133	yɛ yɛ asanteman asante kotoko🎼🎵 wo kum apem apem bɛba 🎼🎵 sɛ wokɔ cape a ɔmo se vipers 😏 sɛ wokɔ volta a ɔmo lions 😏 sɛ wokɔ accra i dont even know 😛 na sɛ woba kumasi a ɛyɛ faabulous 🔥 ❤️ faaaaaaaaaaaaaabulous faaaaaaaaaaaaaabulous faaaaaaaaaaaaaabulous	positive	yɛ yɛ asanteman asante kotoko wo kum apem apem bɛba  sɛ wokɔ cape a ɔmo se vipers  sɛ wokɔ volta a ɔmo lions  sɛ wokɔ accra i dont even know  na sɛ woba kumasi a ɛyɛ faabulous   faaaaaaaaaaaaaabulous faaaaaaaaaaaaaabulous faaaaaaaaaaaaaabulous	We are the
+133	twi_test_00134	mo mma yɛn advance show🤣🤣	positive	mo mma yɛn advance show	Let us advance show
+134	twi_test_00135	gers yi ankasa ɔmo ti awu	negative	gers yi ankasa ɔmo ti awu	Gers this itself is dead
+135	twi_test_00136	you broke buh u dey wan beautiful girl sia fa ngozo naa bi saa😏😏	negative	you broke buh u dey wan beautiful girl sia fa ngozo naa bi saa	You broke Buh u dey wan BeautifuL Girls Sia Take a sack
+136	twi_test_00137	hmmmm ono na obl333 😂😂😂😂😂😂😂😂😂😂😂😂	negative	hmmmm ono na obl	hmmmm he is the obl
+137	twi_test_00139	maame water kraaa we want eat na bayifuor	negative	maame water kraaa we want eat na bayifuor	Mother Water Kraaa We Wont Eat and the Bayifuor
+138	twi_test_00140	osukuu nii wo deɛ a ne gaday we ma wani mpro nsuo😄😄 his wife sold the best rice on campus ne stew no anwa nkoaa nso woboa	neutral	osukuu nii wo deɛ a ne gaday we ma wani mpro nsuo his wife sold the best rice on campus ne stew no anwa nkoaa nso woboa	Schoir
+139	twi_test_00141	nipa yɛ kotinipa yɛ biibii	positive	nipa yɛ kotinipa yɛ biibii	Man is kotinipa is biibii
+140	twi_test_00142	tema mayor no be ghanaian 😹 woka ho bi na fuel prices k soro	negative	tema mayor no be ghanaian  woka ho bi na fuel prices k soro	Tema may be in Ghanaian part of the fuel Prices k inger
+141	twi_test_00143	smart boy me copy a me copy dito s3 me hwere ho a na ma kai s3 mey3 gangster 🔥✊ 🛫🚄 meko a meba a paapa medaase 🙏	positive	smart boy me copy a me copy dito s me hwere ho a na ma kai s mey gangster   meko a meba a paapa medaase	Smart Boy My Copy that I Copy Dito If I lost my loss
+142	twi_test_00144	strong nnwom no 3y3 wo de3 anaa akwadaa no na twer3 y3	positive	strong nnwom no y wo de anaa akwadaa no na twer y	The Strong song is yours or the baby that is the one
+143	twi_test_00145	nti ne nkorakora ne sɛn	negative	nti ne nkorakora ne sɛn	So his treasures are
+144	twi_test_00146	me ti kraa shishi me exfoliate nyinaa name mu bi😂😂	positive	me ti kraa shishi me exfoliate nyinaa name mu bi	I shook shishi my Exfoliate and some of it
+145	twi_test_00147	gobɛ wura bɛwu paaa deɛ nka barca first 11 ɛnwu	positive	gobɛ wura bɛwu paaa deɛ nka barca first  ɛnwu	Gobab the master of the
+146	twi_test_00148	😂😂 but e dey bi oo	positive	but e dey bi oo	But ede e odo bi oo
+147	twi_test_00149	kofi susuka ooo hmmm me am deaf i cant see 🤩	positive	kofi susuka ooo hmmm me am deaf i cant see	Kofi Seeo ooo hmmm me am deft i Cant see
+148	twi_test_00150	afuom shirt saa no	negative	afuom shirt saa no	The Field Shirt that is so
+149	twi_test_00151	lol na adane companion	positive	lol na adane companion	Lol and ada Companion
+150	twi_test_00152	suro mmaa nso di wn	negative	suro mmaa nso di wn	Fear of Women also fear them
+151	twi_test_00153	eno bi juju bi that 😂😂😂😂	neutral	eno bi juju bi that	This is a juju bity something
+152	twi_test_00154	sekof the movie get subtitles p3 nti chairman jie eye asay english eh= ehard	positive	sekof the movie get subtitles p nti chairman jie eye asay english eh ehard	Sekof the movie Get Subtitles P so chairman jie it is Asay English eh ah eh Ehad
+153	twi_test_00155	ɔnyankopɔn apɔmuden mpaemuka nsam a me ka no yɛ nkwa na ɛyɛ honhom tumi wo asem a me ka bia mu nea me ka bia yɛ ho ma me ɛfi sɛ me ka nea me ka bia wo yesu din mu me paemuka sɛ me te apomuden mu ɛndɛ ne da nyinaa amen🙏 wadansidie testimoniesorg	positive	ɔnyankopɔn apɔmuden mpaemuka nsam a me ka no yɛ nkwa na ɛyɛ honhom tumi wo asem a me ka bia mu nea me ka bia yɛ ho ma me ɛfi sɛ me ka nea me ka bia wo yesu din mu me paemuka sɛ me te apomuden mu ɛndɛ ne da nyinaa amen wadansidie testimoniesorg	The hand I say is the hands of God' all the day amen nunsiddimonimonisorgor
+154	twi_test_00156	papa yi y3 bad 😂😂	negative	papa yi y bad	This Daddy y bad
+155	twi_test_00157	ey enti kote3 na ay3 tes3 gyidi kokoo sofo abaa no	negative	ey enti kote na ay tes gyidi kokoo sofo abaa no	it'
+156	twi_test_00158	enti me di3 menka ho bi anaa	negative	enti me di menka ho bi anaa	So I eat I don't say it or
+157	twi_test_00159	sobolo and bread sallah no ay3 yie	positive	sobolo and bread sallah no ay yie	Applause and Dr. And Dr. sallah is well well
+158	twi_test_00160	spliff no yɛ adwuma dendenden	positive	spliff no yɛ adwuma dendenden	The spliff is hard work
+159	twi_test_00161	aben da 3b3san aben biom 🙏🏾	positive	aben da bsan aben biom	Aben da bssan aben Bom
+160	twi_test_00162	barça group no mu ay3 d3😂😂	positive	barça group no mu ay d	Barça Group in ay d d d
+161	twi_test_00163	odo y3 d3 sen sika 😹😹gyimie kasa sei	negative	odo y d sen sika gyimie kasa sei	Love is more than a domin
+162	twi_test_00164	😂😂😂😂😂 ah buy me fufu	positive	ah buy me fufu	Ah buy me fufu
+163	twi_test_00165	nyame betua wo ka	negative	nyame betua wo ka	God will reward you
+164	twi_test_00166	eno de3 ay3woka yentua nd3 ne okyena so ka ho	negative	eno de aywoka yentua nd ne okyena so ka ho	That's aywoka don'
+165	twi_test_00167	key soapakoa gyimi gyimi bi no	negative	key soapakoa gyimi gyimi bi no	Key Soapfar
+166	twi_test_00168	wonnim propaganda y33y3 ama saudi media wada	neutral	wonnim propaganda yy ama saudi media wada	Propaganda yy for Saudi media is not known
+167	twi_test_00169	awurade ne me hwɛfo 🙂	positive	awurade ne me hwɛfo	The Lord Is My Shepherd
+168	twi_test_00170	adwuma no asi blacko to the world 🔥🔥❤️👑🌎	positive	adwuma no asi blacko to the world	The work has happened Blacko to the World
+169	twi_test_00171	s3ne s3n ho nti	positive	sne sn ho nti	Sne sn ho so that
+170	twi_test_00172	hey togofoc de asem b3ba oo 🤣🤣🤣🤣🤣🤣	neutral	hey togofoc de asem bba oo	Hey Togofoc will bring a word oo
+171	twi_test_00173	woto soa 3kum nde wo 👽	positive	woto soa kum nde wo	You'
+172	twi_test_00174	akwadworo honhom na edware wo s3 geisha no gyae 3nny3😂😂😂😂	negative	akwadworo honhom na edware wo s geisha no gyae nny	The spirit of the breath is the one
+173	twi_test_00175	odo y3 wo d3 ooo 😂😂	positive	odo y wo d ooo	Odo is Yours d ooo
+174	twi_test_00176	me ky3ke d3m ade no na aley3 no	positive	me kyke dm ade no na aley no	I kyke DM The thing and the aley
+175	twi_test_00177	asɛm ba aa ɛyaa nya abotrɛ 😂 😂 😂	positive	asɛm ba aa ɛyaa nya abotrɛ	The story comes aa ya ya gets the flat
+176	twi_test_00178	mensei da me feeli meho tu herh amrado 👏	positive	mensei da me feeli meho tu herh amrado	Mensei dan me feel I'
+177	twi_test_00179	mmaa ns3n ma sikasem sa nt3m	neutral	mmaa nsn ma sikasem sa ntm	women nsn for money ntm ntm
+178	twi_test_00180	unanimous fc case dismissed tsatsu tsikata my lordsrespectfully dj bɔ yɛ ndwom okaaaada eeiii okaaada eiii	positive	unanimous fc case dismissed tsatsu tsikata my lordsrespectfully dj bɔ yɛ ndwom okaaaada eeiii okaaada eiii	uniimimoous FC cCA cAset edttsu tttaspectucty dj playing Okaakaad Eeii Okaakada eiii Okaakaade eiii Okaakaad
+179	twi_test_00181	kotonimma 13 2022 |twi ɔnyankopɔn apɔmuden mpaemuka me te na nuonyam adwuma no mu ne ahoɔfɛ a ɔnam na afɔdeɛ so nya ma me no mu fa wadansidie no fa ha testimoniesorg fa ɔma so terɛ gyidie wɔ 22	positive	kotonimma   twi ɔnyankopɔn apɔmuden mpaemuka me te na nuonyam adwuma no mu ne ahoɔfɛ a ɔnam na afɔdeɛ so nya ma me no mu fa wadansidie no fa ha testimoniesorg fa ɔma so terɛ gyidie wɔ	KOTOMISH Twi My dwell
+180	twi_test_00182	and you believed him enti wo nsua nyansa kakra🤣🤣🤣🤣	negative	and you believed him enti wo nsua nyansa kakra	And you belieded Im so you learn a little wisdom
+181	twi_test_00183	sikani koraaa di ni birthday a y3 ponding no	positive	sikani koraaa di ni birthday a y ponding no	The Golden at the Qurry
+182	twi_test_00184	fa sekan twe twa mu 😂	positive	fa sekan twe twa mu	cut down a knife cut off
+183	twi_test_00185	ei kaly wo maame dawo ase🤝	positive	ei kaly wo maame dawo ase	ei kaa your mother dawo under the
+184	twi_test_00186	wo twɛ means bye bye😂😂😂😂	negative	wo twɛ means bye bye	Your wait means bye bye bye one
+185	twi_test_00187	mo de3 nkwasia challenges saa deactivate eh na kyer3 nea wode b3bo wo ashawo bra no	negative	mo de nkwasia challenges saa deactivate eh na kyer nea wode bbo wo ashawo bra no	You give the Challengees that deckia Challengeate eh and shows what you will bring in your brave life
+186	twi_test_00188	paaaa 😂😂😂😂😂 3de3n ne yha yha yha 😂😂😂😂😂	neutral	paaaa  den ne yha yha yha	paaaa den is yha yha yha yha yha yha yha yha yha yha yha yha yha yha yha yha yha yha yha yha yha yha Yha
+187	twi_test_00189	ei wumpini still aa wo se wumpini	positive	ei wumpini still aa wo se wumpini	ei you die still aa you say you say you are
+188	twi_test_00190	like london bi accra nka arsenal dey sukura wey chelsea dey east legon nti rest wai 🤣🤣🤣	negative	like london bi accra nka arsenal dey sukura wey chelsea dey east legon nti rest wai	like London in London Accra should not be
+189	twi_test_00191	prokaryotae da wase waai 🤣	positive	prokaryotae da wase waai	Progorota
+190	twi_test_00192	adjoa tamakloe di3 s3 ndc aaaa na wo b3 to ama no	positive	adjoa tamakloe di s ndc aaaa na wo b to ama no	Adjoa tamakloe believes that you will
+191	twi_test_00193	oh awurade wo p3 3ny3 h 🙏❣	positive	oh awurade wo p ny h	Oh Lord you pny h ny h ny h
+192	twi_test_00194	tega na fine babe ooh😋	positive	tega na fine babe ooh	tega and fine babe ooh
+193	twi_test_00195	herh en banku ba be jaaaaam shi shi na banku ba🕺🏾🕺🏾	positive	herh en banku ba be jaaaaam shi shi na banku ba	Herh en Baku comes be Jaaaaaam shi and bank comes
+194	twi_test_00196	hwan na b3didi metcmu na menso mah didi na yaase😹💔	negative	hwan na bdidi metcmu na menso mah didi na yaase	Who will eat metcmu and I don
+195	twi_test_00197	software update baako 2gb😕	neutral	software update baako gb	Software Update one gb
+196	twi_test_00198	nipa foo bi nso ah	negative	nipa foo bi nso ah	Some people also ah also ah
+197	twi_test_00199	wommpe wei na wope dien😂	positive	wommpe wei na wope dien	You don't like this and you want Dieen
+198	twi_test_00200	wo kum apem a apem b3ba kumerica to the world 🌎	positive	wo kum apem a apem bba kumerica to the world	You kill a millennial Bba Kumerica to the World
+199	twi_test_00201	ɛda a medeɛ yi bɛba no agye sɛ yɛ mu baako dwane oo ada medɔfo bɛba no agye sɛ yɛ mu baako dwane oo😭❤🔥🔥	positive	ɛda a medeɛ yi bɛba no agye sɛ yɛ mu baako dwane oo ada medɔfo bɛba no agye sɛ yɛ mu baako dwane oo	The day of mine comes the only
+200	twi_test_00202	fc barcelona de3 nyame na ob3 tua mu ka kwasiaaaa team	negative	fc barcelona de nyame na ob tua mu ka kwasiaaaa team	Fc Barcelona is with God and obin
+201	twi_test_00203	oh me deir gyai me	negative	oh me deir gyai me	Oh I'm going to leave me
+202	twi_test_00204	wo kum apem ah fa 😂😂😂	negative	wo kum apem ah fa	You kill a thousand ah take
+203	twi_test_00205	😂 😂 ah 3no nso y3 de3n style	negative	ah no nso y den style	Ah is also hard style
+204	twi_test_00206	la hustle oo nyɛ saa lawu 😂🤣	positive	la hustle oo nyɛ saa lawu	la zestle oo
+205	twi_test_00207	wo nipa ɔnka hwu o 😂😂😂😂😂😂😂😂😂😂	positive	wo nipa ɔnka hwu o	Your man doesn't tell the light
+206	twi_test_00208	kukuru kukuru no gyae a kekɛkekɛ nso be gyae 😂😂	neutral	kukuru kukuru no gyae a kekɛkekɛ nso be gyae	The kukucu
+207	twi_test_00209	propaganda nti nipa ni ahutɔ brofu nu nyɛ mi dɛ	negative	propaganda nti nipa ni ahutɔ brofu nu nyɛ mi dɛ	Propaganda so man is autount brefu
+208	twi_test_00210	wo pri koraa dodo 😂	positive	wo pri koraa dodo	Your too much.
+209	twi_test_00211	me de3 sleep 💤💤💤 koraa ooo	positive	me de sleep  koraa ooo	I'll give a sleep absolutely ooo
+210	twi_test_00212	ofui ba hw3 wo hi s3 junkie	negative	ofui ba hw wo hi s junkie	Bob Ba
+211	twi_test_00213	wonni sika aa wose efie eduane y3 d3😂😂	neutral	wonni sika aa wose efie eduane y d	They don
+212	twi_test_00214	np⏯ krokro me 🎼🎧 on 📻 🇬🇭 📡 mzkeekie 🎤 and myself 🎧	neutral	np⏯ krokro me  on    mzkeekie  and myself	NP⏯ I'm on Mzkeekie and Mylf's
+213	twi_test_00215	oh yhhh nyame adom nti	positive	oh yhhh nyame adom nti	Oh yhhh God's grace for the sake of
+214	twi_test_00216	wu na wu bl3	negative	wu na wu bl	You die and you blm
+215	twi_test_00217	ka nɛ ka biom 😂	positive	ka nɛ ka biom	Tell the nɛ again
+216	twi_test_00218	éy3 tsuime naa i dey see 😂	negative	éy tsuime naa i dey see	éy tsuea naa i dey when
+217	twi_test_00219	boy wei nni sika nso ha me	negative	boy wei nni sika nso ha me	Boy this isn’t money either I’m
+218	twi_test_00220	maben sɛ ogya awɔ brɛ yi mu ɛɛtwɛn wo	positive	maben sɛ ogya awɔ brɛ yi mu ɛɛtwɛn wo	I amben like a fire snake in this time waiting for you
+219	twi_test_00221	agya da mu gidigidi	positive	agya da mu gidigidi	Father's Day
+220	twi_test_00222	enye ejuma no bi aaa 😆	positive	enye ejuma no bi aaa	It's some ejuma aaaa
+221	twi_test_00223	😂😂😂😂😂😂🏃🏽‍♀️🏃🏽‍♀️ sosquet osofo bi y3 guy✌🏾	positive	‍‍ sosquet osofo bi y guy	U
+222	twi_test_00224	p3 3dan bi ma no	positive	p dan bi ma no	p Dane for him
+223	twi_test_00225	bossu twa me momo err 💓💯😍	positive	bossu twa me momo err	Bossu cut me momo err
+224	twi_test_00226	wins and the pains goes straight to 🇦🇹😂😂😂💥🔥 yɛn na yɛ se da hyirem yi oo 🤣🤣🤣	positive	wins and the pains goes straight to  yɛn na yɛ se da hyirem yi oo	Wins and the pains straigh
+225	twi_test_00227	ma ma mi ya🙆‍♂️😁	neutral	ma ma mi ya‍	Let me make me feel sore
+226	twi_test_00228	meek uni meek uni ninyinaakye waakda✌️✌️ eyy kofi dagaati ne ama chinchila 😂😂💔	neutral	meek uni meek uni ninyinaakye waakda eyy kofi dagaati ne ama chinchila	Meeek uni Meek ui Nyinakye edda eyy kofi Dagaati and Ama chinchilah
+227	twi_test_00229	nkruma nkwan oo na nkyirefua wow	positive	nkruma nkwan oo na nkyirefua wow	Nkruma Nkramn Wowpon wow
+228	twi_test_00230	wo de wo koti ama kwasia baaa bi nti hw3 de3 wooo ka😂😂😂	negative	wo de wo koti ama kwasia baaa bi nti hw de wooo ka	You'
+229	twi_test_00231	asofo nu agye sika	positive	asofo nu agye sika	The priests nu agy money
+230	twi_test_00232	adwuma b3n na wo y3 a wo ma obi ba baa 10 million bosome biara noanka wob3 ware biribi wei massa gyae gyimii no na sua nyansa	negative	adwuma bn na wo y a wo ma obi ba baa  million bosome biara noanka wob ware biribi wei massa gyae gyimii no na sua nyansa	WHY IF YOU Bring someone to Million every month you would have married something This massa stop the gyimii and learn wisdom
+231	twi_test_00233	gyae gyae na menk bi da	positive	gyae gyae na menk bi da	Stop stop and I never go
+232	twi_test_00234	oh naaà ano dey part	positive	oh naaà ano dey part	Oh naaà ano dey party
+233	twi_test_00235	mo so 3y3 hoh mo de3 kyena monk gyimi	negative	mo so y hoh mo de kyena monk gyimi	you so y yoh you're going to monk gyimi
+234	twi_test_00236	frenchnii nso deɛ nka date rush fa wo ho bɛn sabastine	negative	frenchnii nso deɛ nka date rush fa wo ho bɛn sabastine	Franchnino
+235	twi_test_00237	hahaha haha 😂 😂 ɛnti wo pɛ me eh	positive	hahaha haha   ɛnti wo pɛ me eh	Hahaha Haha haha haha hahah So you love me eh
+236	twi_test_00238	nice b3y3 dew enyumbri yi 😀	positive	nice by dew enyumbri yi	Nice by dew enyumbri this
+237	twi_test_00239	sika nti girl aa medc hw3 s3 obi agye 😩	negative	sika nti girl aa medc hw s obi agye	Money for Money aa medc see that someone has taken
+238	twi_test_00240	obi a nano b dwom di3 anka date rush fa wo ho b3n	negative	obi a nano b dwom di anka date rush fa wo ho bn	Obi
+239	twi_test_00241	hw3 nea ɔkyer3 lol	negative	hw nea ɔkyer lol	See the one who teaches Lol
+240	twi_test_00242	gyama woyale k dwonsor na da 😂	negative	gyama woyale k dwonsor na da	You're the one who goes to Dwosonsor and sleep
+241	twi_test_00243	bro abotre fa ma nyame	positive	bro abotre fa ma nyame	bro abotre for God
+242	twi_test_00244	na haruna wan dey ein top 🙏😂😂😂	neutral	na haruna wan dey ein top	And haruna wan dey ein top
+243	twi_test_00245	gyimie saa na afe aso	negative	gyimie saa na afe aso	gyimie so it
+244	twi_test_00246	onipa bewu na aboa sika te ase🤔 be kind 🥂	positive	onipa bewu na aboa sika te ase be kind	Man will die and animal money lives Be Bes
+245	twi_test_00247	osee ne flow no y3 bloody me kaa s3 de twa tire saana 3y3 menses eww 😷	positive	osee ne flow no y bloody me kaa s de twa tire saana y menses eww	He said and the flow is bloodody I said to cut the head sana y meses eww
+246	twi_test_00248	nyame ne hene 🍼 😍 🥳 hong kong theatre	positive	nyame ne hene    hong kong theatre	God is the King Hong Kong They
+247	twi_test_00249	don dada aa me nda da me ndaa da wo 🔥 🔥 vibez	positive	don dada aa me nda da me ndaa da wo   vibez	Don aa I'm not sleeping I'm sleeping in your Vibez
+248	twi_test_00250	eiii mo nso mo su saaa🤣🤣🤣	neutral	eiii mo nso mo su saaa	eiii you too you sal
+249	twi_test_00251	wo gyimiiwagye trophy season wei anaa	negative	wo gyimiiwagye trophy season wei anaa	Your Fiimiiwa trophy season this is or
+250	twi_test_00252	opanyin toto eee gyae gyimie no na w3nyini ah	negative	opanyin toto eee gyae gyimie no na wnyini ah	The old man who eee stops the gyimie and you grow up ah
+251	twi_test_00253	parliament baako aa y3w w krom ha nkorkuraa fo nkuaaa ay3 h mahow can they think well	negative	parliament baako aa yw w krom ha nkorkuraa fo nkuaaa ay h mahow can they think well	One Parliament aa we are in the city here in the city of Nkoraaaa Ay hyawan can beat well.
+252	twi_test_00254	madrid fan aaaa sporti pep 3not nti na woho ny3 f3 no	negative	madrid fan aaaa sporti pep not nti na woho ny f no	Madrid fan aaaa Sporti pe not is so you ny f no f no
+253	twi_test_00255	samini bi the teacher	positive	samini bi the teacher	Saminin a teacher of teacher
+254	twi_test_00256	ahh etwi me oo😆😆😆	neutral	ahh etwi me oo	Ahh ewi me oo
+255	twi_test_00257	me de3 mada ooo	positive	me de mada ooo	I'm so sleeping ooo
+256	twi_test_00258	wubisa question hunu aaa answer hunu na wunya	negative	wubisa question hunu aaa answer hunu na wunya	You ask Question sees aaa annswere and you get
+257	twi_test_00260	mew anidaso be s3 awurade de me besi yiye 3ky3 den ara medimafo te ase bra asorokye b mpo aa me wer3 renfi s3 awurade wo mu aa biribiara b3y3 yiye 🙏🙏🙏 lyricssong by uncle ato song was in fante	positive	mew anidaso be s awurade de me besi yiye ky den ara medimafo te ase bra asorokye b mpo aa me wer renfi s awurade wo mu aa biribiara by yiye  lyricssong by uncle ato song was in fante	I'm so hope that the Lord will take me to better than just I Mdi Mdi Mdi Mdidi even Live Aa For me forgot
+258	twi_test_00261	ɔpanyin crentsil yɛma wo awodapa yɛserɛ nyame nhyira ahoɔden ne nkwa ntenten ma wo asafo awurade nkɔ so nhyira wo na ɔnyɛ wo kɛseɛ paaa happy birthday wishes from the osei walker family cheers 🥂🍻	positive	ɔpanyin crentsil yɛma wo awodapa yɛserɛ nyame nhyira ahoɔden ne nkwa ntenten ma wo asafo awurade nkɔ so nhyira wo na ɔnyɛ wo kɛseɛ paaa happy birthday wishes from the osei walker family cheers	Archighter Crentil Bring Your Birthday We Pray for God Blessings The strengths and long life for you Lord will continue to bless you and make happy bishes from the Osei Walker Family Chester
+259	twi_test_00262	3nti 3ny3 brokely sika herhanka americafo de3 3ny3 style no no americani de3 anka spending fa ne ho b3n 😂😂😂😂😂	neutral	nti ny brokely sika herhanka americafo de ny style no no americani de anka spending fa ne ho bn	So Ny Brokely Money Herhaka American'
+260	twi_test_00263	mbappe no wagyimi anaa	negative	mbappe no wagyimi anaa	MmPE Noymi
+261	twi_test_00264	wo sene wo ynko a tan wo tan nkoaaaaa	neutral	wo sene wo ynko a tan wo tan nkoaaaaa	You are better
+262	twi_test_00265	pr7 erh so size oh 🤣	positive	pr erh so size oh	Pr erh So Size Oh
+263	twi_test_00266	anaa mede ohia 33ka nkwasiasem	negative	anaa mede ohia ka nkwasiasem	or I put in poverty in poverty
+264	twi_test_00267	wo ti kakrakaaa nyansa nnim	negative	wo ti kakrakaaa nyansa nnim	Your head is not unwise
+265	twi_test_00268	oh auntie enti wose won abn saaa ama afei de3 extra tuition na won hia ong 🤣🙈	negative	oh auntie enti wose won abn saaa ama afei de extra tuition na won hia ong	Oh aunti so you say your ab is now extra tutue
+266	twi_test_00269	itll ony3 saa wo gyimi no nfa mma ha	negative	itll ony saa wo gyimi no nfa mma ha	Itll Ony that your gyimi don't let it be here.
+267	twi_test_00270	says me arsenal nni deɛ nka wo de kotoko yɛ dɛn🤣🤣🤣	neutral	says me arsenal nni deɛ nka wo de kotoko yɛ dɛn	we are my arsenal don
+268	twi_test_00271	wofa was33 h style biaaa bi	positive	wofa was h style biaaa bi	you take the people h style Biaaa
+269	twi_test_00272	nti menka ho ooo tell me	positive	nti menka ho ooo tell me	So I'm not with ooo Twer me
+270	twi_test_00273	s3 brand no da so nkoaa de3 a y3 b3 b	positive	s brand no da so nkoaa de a y b b	If the Brand is still the slave
+271	twi_test_00274	1 kraman nim s3 ne ba b3 wu a anka ton nu gye dompesumsum pray3 2 akora ho ba se medwons we no dey hear 3 susu p3gya wab3ti na ahaban mono koraa 3te odasani 4 y3 wo s3 bra b3kum osono a 3mprepre kusie ho na wanko pira forget dem gtgtgtgt	neutral	kraman nim s ne ba b wu a anka ton nu gye dompesumsum pray  akora ho ba se medwons we no dey hear  susu pgya wabti na ahaban mono koraa te odasani  y wo s bra bkum osono a mprepre kusie ho na wanko pira forget dem gtgtgtgt	The dog knows that his child would die and ton nu to the bone slum ray rabbit comes If I'm sorry it is hear wan wabtti and leaf is all the man hear the man who buke kuse there and he didn
+272	twi_test_00275	s loud 📢🔊 inside kofi nyamekye shop i want you to play me oheneba kisi adom nyame	positive	s loud  inside kofi nyamekye shop i want you to play me oheneba kisi adom nyame	s Loud Insisde Kofi Nyamekye shoop I To Play I'm Play I'm Not A
+273	twi_test_00276	yesu adommeho yɛ wo nsoeɛ	positive	yesu adommeho yɛ wo nsoeɛ	Jesus adommeho is your seal
+274	twi_test_00277	oww no o senior	neutral	oww no o senior	Oww no o Senior
+275	twi_test_00278	but boakyewaas gender faithfulness deɛ ɔmo nfa nyɛ hwee nti rest wai	negative	but boakyewaas gender faithfulness deɛ ɔmo nfa nyɛ hwee nti rest wai	But the supportaakawaas gende
+276	twi_test_00279	eih kwaku frimpong de asem beba o 🤦‍♂️	negative	eih kwaku frimpong de asem beba o ‍	eih Kwaku Frimpong Will Destate O
+277	twi_test_00280	algeria mmoa double chance k3k3 u spoiled my longbet nkwaseafo nyame na atua mo ka agyimifo	negative	algeria mmoa double chance kk u spoiled my longbet nkwaseafo nyame na atua mo ka agyimifo	Algeria support Double Chance KK U SPOILED My Longbet The God of Foolish
+278	twi_test_00282	oh yeah iron mu bossu ankasa nie	positive	oh yeah iron mu bossu ankasa nie	Oh yeah Iron Iron here is here
+279	twi_test_00283	oooh oya obi asem aa susuka wai na wo abodwes3 hunhuuun koraaa y3 ka ho asem wei wai 😂😂😂😂😂😂😂	positive	oooh oya obi asem aa susuka wai na wo abodwes hunhuuun koraaa y ka ho asem wei wai	ooh oya Someone'
+280	twi_test_00284	3sum ny3 sum k3k3 3sum y3 sum ma wn a wn nhunu ade wo sum mu 3san s3 aboa bi didi anadwo very deep 🔥 🙏🏿🫂🖤♾	positive	sum ny sum kk sum y sum ma wn a wn nhunu ade wo sum mu san s aboa bi didi anadwo very deep	darkness is darkness is dark for those who have not seen in the darkness but that a beast eats at night very dep
+281	twi_test_00285	fa ma me err😍	positive	fa ma me err	Give it to me err
+282	twi_test_00286	obi siiii a lioneii gh	neutral	obi siiii a lioneii gh	Someone built a Lioniii GHh
+283	twi_test_00287	phone yi b3 fata wo 🤝	positive	phone yi b fata wo	This phone
+284	twi_test_00288	scissors deɛ sɛ punk oooo	positive	scissors deɛ sɛ punk oooo	Sissolar
+285	twi_test_00289	gyama biribi gyegye wo	negative	gyama biribi gyegye wo	Maybe something takes you
+286	twi_test_00290	so kuami eugene erhhhh eiiiii🙇🏽‍♀️💀🤣	neutral	so kuami eugene erhhhh eiiiii‍	so Kuami Eugene erhhhhhhh eiiiii
+287	twi_test_00291	wonuaitaly da f3m 3ka mmienu oosika nahye	positive	wonuaitaly da fm ka mmienu oosika nahye	Wisaaily da fm is two oo
+288	twi_test_00292	sister gyae gyae na me tankoa da high menya anka mɛ fly nanso me antɔ me line	positive	sister gyae gyae na me tankoa da high menya anka mɛ fly nanso me antɔ me line	Sister stop stop and I tanka da igh I'll have you fly but I didn't buy my line
+289	twi_test_00293	ne kotoko num yɛ sɛn😀😀	positive	ne kotoko num yɛ sɛn	His knees num to be the
+290	twi_test_00294	koulibaly ɔyɛ bayifoɔ anaa	negative	koulibaly ɔyɛ bayifoɔ anaa	Koulibaly is a witch or a witch
+291	twi_test_00295	hughes is an agenda man nanso ɛnfa	negative	hughes is an agenda man nanso ɛnfa	Hughes is an Ageda country but it does not take it
+292	twi_test_00296	ti baako ɛnkyekyemu meɛnsa	positive	ti baako ɛnkyekyemu meɛnsa	one chapter in the Ntum Meetsa.
+293	twi_test_00297	ah figa ebi me pɛɛ 🥴	positive	ah figa ebi me pɛɛ	Ah Fi Some I’m just me
+294	twi_test_00298	3fata wo paaa ma y3nfa y3n ntoma mmb ano	positive	fata wo paaa ma ynfa yn ntoma mmb ano	It is very appropriate for us to use our clothes to mmb
+295	twi_test_00299	trend no deɛ ɛnnfa oo na mo ngyae gyimie no na system no nyɛ nadwuma dr kwame nkrumah kraa da prison na aboa bi like shatta wale tswww 😂😂😂😂	negative	trend no deɛ ɛnnfa oo na mo ngyae gyimie no na system no nyɛ nadwuma dr kwame nkrumah kraa da prison na aboa bi like shatta wale tswww	Trend it doesn
+296	twi_test_00300	na nka 33yrs deir date rush fa wo ho ben	negative	na nka yrs deir date rush fa wo ho ben	And Yrs deir
+297	twi_test_00301	richarlison no ɔnyɛ normal saa 😂😂😂	negative	richarlison no ɔnyɛ normal saa	Ririlison No He doesn
+298	twi_test_00302	sunsum nni wo bio ne mu sorry	neutral	sunsum nni wo bio ne mu sorry	There is no more Spirit of you and inside sorry
+299	twi_test_00304	kofi obi de ne sika gye boakyewaa ooo come and see	positive	kofi obi de ne sika gye boakyewaa ooo come and see	Kofi Someone'
+300	twi_test_00305	mo dea gyimie narrr still nipa nu awu nso mo salute no	negative	mo dea gyimie narrr still nipa nu awu nso mo salute no	You're the Gyimie narrrrrrrrrrrrrrrrrrr still too your salute is too
+301	twi_test_00306	wo paaa yɛ dɛ pnc wini elections🤣🤣🤣	negative	wo paaa yɛ dɛ pnc wini elections	You're packed we'
+302	twi_test_00307	nyame nhyira wo paa	positive	nyame nhyira wo paa	God bless you very much
+303	twi_test_00308	me lydia akua nana serwaah senti acquah 3nka mabodam	negative	me lydia akua nana serwaah senti acquah nka mabodam	I Lydian Akua Akua Nana Serwaah Swe
+304	twi_test_00309	normal odds and banku odds twa bi di k3k3	positive	normal odds and banku odds twa bi di kk	Normal odds and Bonku Odds cut a
+305	twi_test_00310	mo de3 mo de b3ba de3 3ky3n kuro yiit matters wai 😎	neutral	mo de mo de bba de kyn kuro yiit matters wai	You will bring you a city yitt matters wai
+306	twi_test_00311	what of ka ka ka 🤒🤒🤒	neutral	what of ka ka ka	what of ka ka ka
+307	twi_test_00312	ɛno ne asem no 🤦🏾‍♂️🤨	positive	ɛno ne asem no ‍	That is the Word ‍
+308	twi_test_00313	wob3 gye samina na woahu	neutral	wob gye samina na woahu	You'll take soap and you see
+309	twi_test_00314	e no be me p3	positive	e no be me p	E no be me
+310	twi_test_00315	ennya wo sika wanko dzi menka d3 3km dzem sias	neutral	ennya wo sika wanko dzi menka d km dzem sias	They don
+311	twi_test_00316	woy3 bone aa metu wo wig 😜🤪😜🤪😜😜😊😊😊	negative	woy bone aa metu wo wig	You're sin aa I've
+312	twi_test_00317	ah coach that😂😂😂😂😂 fa wo nnoɔma fa wo nnoɔma	positive	ah coach that fa wo nnoɔma fa wo nnoɔma	ah Cochaach That take your things for your belongings
+313	twi_test_00318	eiii yesu mpo nia na me gh satan	neutral	eiii yesu mpo nia na me gh satan	Eiiii even Jesus nia i gh Satan
+314	twi_test_00319	nsemhunu ka y3 mo d3 papa	negative	nsemhunu ka y mo d papa	The slap y you you love good
+315	twi_test_00320	yɛ na yɛ blɛ 😂😂	negative	yɛ na yɛ blɛ	We are and we blue
+316	twi_test_00321	ato me da ɔkwasea hwoa	negative	ato me da ɔkwasea hwoa	Ato I sleep fool hwoaa
+317	twi_test_00322	hwan eni edo anaa 😀😀	positive	hwan eni edo anaa	Who een or eden or
+318	twi_test_00323	kaftan mu gentian violet😂😂 me nua way3 kama de3✌🏾	positive	kaftan mu gentian violet me nua way kama de	Community Medi
+319	twi_test_00324	mep3 nanso mprenpren de menni kapr3	positive	mep nanso mprenpren de menni kapr	mep but now now I don't have kplod
+320	twi_test_00325	baddest flows ever yes of course wo ka y3nte y3n nuu y3n ho nti nha wo ho wo nte y3 lista naase na wo se y3 kye y3n ho	positive	baddest flows ever yes of course wo ka ynte yn nuu yn ho nti nha wo ho wo nte y lista naase na wo se y kye yn ho	Baddest Flows Ever yee you tell us we don't regret so don'
+321	twi_test_00326	bra fie na bɛgye ama ampofos contact number 😀	positive	bra fie na bɛgye ama ampofos contact number	Come home and take for the apofos Contact nkiber
+322	twi_test_00327	tu aduane no ase3 nyinaa ak😂😂😂	positive	tu aduane no ase nyinaa ak	Turn all the food ak Ak
+323	twi_test_00328	wo ka nsemhunu ntia	negative	wo ka nsemhunu ntia	You speak slap
+324	twi_test_00329	aden na wo ho y3 f3 saa😍😍	positive	aden na wo ho y f saa	Aden and you y f so f such
+325	twi_test_00330	fire wo nan noaa 😂	neutral	fire wo nan noaa	Fire your feet cooked
+326	twi_test_00331	mode3 no gyes3 one game amfa na dede toaso	neutral	mode no gyes one game amfa na dede toaso	You take him except one Game nfa dwan and noise to Toao
+327	twi_test_00332	lotto kwraa metwa na bet🤗	positive	lotto kwraa metwa na bet	Long
+328	twi_test_00333	ne nyinaa yɛ kama	positive	ne nyinaa yɛ kama	It’s all beautifully
+329	twi_test_00334	ama ooo ama oooo	neutral	ama ooo ama oooo	Ama ooo Ama oooo
+330	twi_test_00335	enti wusu wudi amanfuo trumu nu bi	negative	enti wusu wudi amanfuo trumu nu bi	So you cry you play a country truth nu nu nu nu nu nu a
+331	twi_test_00336	anadwo biaa gyes3 wo we kalawele o asugyafo awurade nyankopn nhy3 mo den paa sugyani asem mekas3 meekaa ade3 b3kye asa ade3 b3kye asa nkran dokono de3 aben ne de3 anben banku de3 aben ne de3 anben paa herh nkate nkwan bi aa ada obi kdi y3 paa	positive	anadwo biaa gyes wo we kalawele o asugyafo awurade nyankopn nhy mo den paa sugyani asem mekas meekaa ade bkye asa ade bkye asa nkran dokono de aben ne de anben banku de aben ne de anben paa herh nkate nkwan bi aa ada obi kdi y paa	Night take you kalawele o Sagyafo Lord God will not make you very strong as ohya
+332	twi_test_00337	yafo yafo ne deɛn	neutral	yafo yafo ne deɛn	yafo yfo and n an
+333	twi_test_00338	mia me dkono mia m3hono 😂	positive	mia me dkono mia mhono	press me dkono pea Mhono Mhono
+334	twi_test_00339	wo ne hwainn k kah	neutral	wo ne hwainn k kah	You're with sawinn k kah
+335	twi_test_00340	wo kum apem no a fa b ampesi sir	neutral	wo kum apem no a fa b ampesi sir	You kill the thousand killings with b apesi sir
+336	twi_test_00341	yes yes yes yaba and yaba nu nso deɛ na yaba 🔥❤️🎧 accratse addo is the location📍🚩	positive	yes yes yes yaba and yaba nu nso deɛ na yaba  accratse addo is the location	Yes the yaaba and Yaab Nnu also the yaaba Accratse addo is the Location
+337	twi_test_00342	arh eii mey3 kraa ahy3 me 😂	neutral	arh eii mey kraa ahy me	Arh eii I'm
+338	twi_test_00343	me number y3 ak0006915 wo nso wo die3 no y3 s3n walk the talk kasa ye mnframa	positive	me number y ak wo nso wo die no y sn walk the talk kasa ye mnframa	I number yK you too you die we sn Walk the title is mnfema
+339	twi_test_00344	ghana fo anka baako b3ti	neutral	ghana fo anka baako bti	Ghana fo will be one bti bti
+340	twi_test_00345	wo kum apem aa apem beba 🔥🔥🙌🏽🙌🏽👏🏽👏🏽💪🏽💪🏽💪🏽	positive	wo kum apem aa apem beba	Your thousand killings aa will come
+341	twi_test_00346	s3 asa h3nko da 💙 💔 chelsea 🤦🏾‍♂️	negative	s asa hnko da   chelsea ‍	If Asa hko is Chelsea ‍
+342	twi_test_00347	wo rap asa wo hia mmoa was3 zoology 1057	negative	wo rap asa wo hia mmoa was zoology	Your rap is soft
+343	twi_test_00348	aden mede3 me nka ho anaa	neutral	aden mede me nka ho anaa	aden I'll add to it or
+344	twi_test_00349	maen aden me then pique be relatives anaa	neutral	maen aden me then pique be relatives anaa	Main aden me there is relatives or
+345	twi_test_00350	herhh dortmund nyame b3 tua mu ka paa	negative	herhh dortmund nyame b tua mu ka paa	Herhh Dotmuund God b pay
+346	twi_test_00351	herrrh ka na ka biom	neutral	herrrh ka na ka biom	Herrrh says and tell again
+347	twi_test_00352	ayoo nti metwen daben 😂😂😂me sika no ahye aky3 so i was on break	positive	ayoo nti metwen daben me sika no ahye aky so i was on break	Ayoo so I'm waiting daben I'
+348	twi_test_00353	mo ni k k yi nso kraa wob3k mu nso na 3y3 coins o	neutral	mo ni k k yi nso kraa wobk mu nso na y coins o	mo ni k k yi nso kraa wobk mu nso na y coins o
+349	twi_test_00354	yaa pono will go and shoot video for the diss song p333 wagyimi saa wo ka kyer3 bronii koraa a ngye nni😂😂 herh boys fool😂😂😂💔💔	negative	yaa pono will go and shoot video for the diss song p wagyimi saa wo ka kyer bronii koraa a ngye nni herh boys fool	Yaa Pono Pover and Shoot video for the disssing
+350	twi_test_00355	s3 paa s3 agartha bema me broken heart paa de3 anka agyeiwaa mfa me ny3 ntomago agyeiwaa❤️	positive	s paa s agartha bema me broken heart paa de anka agyeiwaa mfa me ny ntomago agyeiwaa	Even if you Agartha beat me Broken Heart very much with Agyeiwaa take me a clothes
+351	twi_test_00356	s3 anka me di aa na matua wo ka anaa wo se me bo dam😂	negative	s anka me di aa na matua wo ka anaa wo se me bo dam	If I eat aa and I'm paying you or you say I'm mad
+352	twi_test_00357	kwesi gyae saa na abaayewa no bɔ neho mmɔden yie ankasa	positive	kwesi gyae saa na abaayewa no bɔ neho mmɔden yie ankasa	Kwezi stop that way what the girl really makes a really good effort
+353	twi_test_00358	gyimie saaa na afe aso	negative	gyimie saaa na afe aso	Gyimie so and a year is
+354	twi_test_00359	srade nam anadwo biara mede me ho twitwi mboatia nhwiremma ho me sumiiɛ mu afɔ sɛ aponkye daberɛ nkotodwe gu fɔm me de nsa ato nsa yam republic hall knust	positive	srade nam anadwo biara mede me ho twitwi mboatia nhwiremma ho me sumiiɛ mu afɔ sɛ aponkye daberɛ nkotodwe gu fɔm me de nsa ato nsa yam republic hall knust	Fear of fat every night I plunder the ague ague hairy
+355	twi_test_00360	by this time de3 peter atwa obi aso ama judas mpo agye ne dollars 3ksesa😀😀	negative	by this time de peter atwa obi aso ama judas mpo agye ne dollars ksesa	by this
+356	twi_test_00361	de3n na waka no bebreee sei	neutral	den na waka no bebreee sei	You're the one who'
+357	twi_test_00362	aaah ade3n sammy nu wagyimie anaa	negative	aaah aden sammy nu wagyimie anaa	aaah aden sammy nu wagyime or
+358	twi_test_00364	me nyankopon nnyɛ lefty nti i be alright	positive	me nyankopon nnyɛ lefty nti i be alright	I God isn
+359	twi_test_00365	masa masa do the needful you lose bet yɛ nia ehia	positive	masa masa do the needful you lose bet yɛ nia ehia	Masa Masa do the Needful you love Bet is nia need
+360	twi_test_00366	abusua d funu wai madam🤣🤣 ayie ba a na agyapade3 aba abusua mu	positive	abusua d funu wai madam ayie ba a na agyapade aba abusua mu	The family d Akuro Wai Madam'
+361	twi_test_00367	wo bro tan tan bi😒😔	negative	wo bro tan tan bi	You bro hate some
+362	twi_test_00368	yɜ yɜ dom yɜn nyɜ baako mmienu miensa yɜ yɜ dom wo kum apem apem beba yɜ yɜ dom aaaaah wote kumerica yɜba aa yɜ yɜ dom yɜ yɜ dom 🔥🔥🔥	positive	yɜ yɜ dom yɜn nyɜ baako mmienu miensa yɜ yɜ dom wo kum apem apem beba yɜ yɜ dom aaaaah wote kumerica yɜba aa yɜ yɜ dom yɜ yɜ dom	Weytede yɜn yɜn yɜnn Yoon nyɜn one two things we're dan You kill a thousand kill we'
+363	twi_test_00370	ohiani ba a wo ho san so yɛ tan akum na ɛbɛ kum wo campus	negative	ohiani ba a wo ho san so yɛ tan akum na ɛbɛ kum wo campus	The poor child who is also teas
+364	twi_test_00371	scammers dema new trick is funny oo they call nooor masa ejuma ni sika nu wa sendiii anaaa 🤣🤣🤣🤣	neutral	scammers dema new trick is funny oo they call nooor masa ejuma ni sika nu wa sendiii anaaa	Scammers dema New Trick is a funy oo They Call nooor masa ejuma ni money is sediii ora
+365	twi_test_00372	fight over a man nka me twa bet edi banku	positive	fight over a man nka me twa bet edi banku	Figh
+366	twi_test_00373	africa nie daabi da nti na bibini koraa b3 y3 den wo wiase	negative	africa nie daabi da nti na bibini koraa b y den wo wiase	Africa is no sobi so Bibini completely Bibini b be strong in the world
+367	twi_test_00374	airtime sika mpo wo nni bi woobl3 oo 3km ba 🤣🤣🤣🤣🤣🤣	negative	airtime sika mpo wo nni bi woobl oo km ba	Airtime even money you don't have any You Bol oo the son
+368	twi_test_00375	wabcdam nanka wonyɛ a ɔbi fa wo ho bɛn	negative	wabcdam nanka wonyɛ a ɔbi fa wo ho bɛn	Wabdam But you don't make it close to you
+369	twi_test_00376	mo foo ankasap3 sika nana	positive	mo foo ankasap sika nana	You fooy money grandmother
+370	twi_test_00377	😂😂😂😂😂😂😂😂😂ei tee girl no wafa biibi w fom adi anaa	neutral	ei tee girl no wafa biibi w fom adi anaa	ei heard the girl she has taken binbi in the foo or
+371	twi_test_00378	akoa baako nso claime wudini 🤣🤣🤣 menim akoa no 🤣🤣🤣	neutral	akoa baako nso claime wudini  menim akoa no	One servant Claime I know the servant
+372	twi_test_00379	nyame nhyira wo piii	positive	nyame nhyira wo piii	God bless you more
+373	twi_test_00380	kwasi broni nti y3ndi hia da 😎😀	positive	kwasi broni nti yndi hia da	Kwasi broni So we need never poor
+374	twi_test_00381	wose aponkyenam no asa awwww wode3 fa salmon no to so saa	positive	wose aponkyenam no asa awwww wode fa salmon no to so saa	The door
+375	twi_test_00382	ck to kwame poku that wanhy3 goal aa meka bibiaa me mma wo mbo biom who saw that	positive	ck to kwame poku that wanhy goal aa meka bibiaa me mma wo mbo biom who saw that	k to Kwame Poku That waneyyyhi issue that I tell you bibiaa I don
+376	twi_test_00383	twa nwura gu mo so	positive	twa nwura gu mo so	cut down garrimes on you
+377	twi_test_00384	lol obiaa wosom nyame na wo kasa tantan saa no aw mb	negative	lol obiaa wosom nyame na wo kasa tantan saa no aw mb	Lol, I
+378	twi_test_00385	3nti bibinii b3y33 de3n w 3wiase 3ka gyimii ho	negative	nti bibinii by den w wiase ka gyimii ho	So Bibiii by Denn in the world be with gyimii
+379	twi_test_00386	wo ti y3 f3 wate as3 aknf3m kosua	positive	wo ti y f wate as aknfm kosua	Your head is fate as aknfm kura kurase
+380	twi_test_00387	me dokono nti na wo twi mako de3 aaa m3y3 ice kenkey	positive	me dokono nti na wo twi mako de aaa my ice kenkey	I'm dokono why you twi mako de aaa my ice kkey
+381	twi_test_00388	saa na ay3 den nsemhunu nkoaa	negative	saa na ay den nsemhunu nkoaa	That’s how the ay strong only
+382	twi_test_00389	adey die 😂💔💔💔 wey emotional trauma too dis kyeres3 obia egyimie oh 🤣🤣🤣	negative	adey die  wey emotional trauma too dis kyeres obia egyimie oh	Adey Die Wey emotion Trauma too diss someone egyimie oh oh
+383	twi_test_00390	ghana yesu dea ohh daabi nipa na abodam sei 😂😂😂	negative	ghana yesu dea ohh daabi nipa na abodam sei	Ghana Jesus is
+384	twi_test_00391	e do aa make dem take come wanna top siafour ne ekum fo nkoaa	negative	e do aa make dem take come wanna top siafour ne ekum fo nkoaa	e do aa make the dece
+385	twi_test_00392	3ny3 s3 obi koti y3 kitikiti oo ne tw3 n3 so kwasiaaa baaa sei	negative	ny s obi koti y kitikiti oo ne tw n so kwasiaaa baaa sei	Ny
+386	twi_test_00393	if clouds gather then i vex ah chale ammamuo bɔne nti nnipa nni ahotɔ	negative	if clouds gather then i vex ah chale ammamuo bɔne nti nnipa nni ahotɔ	if clouds Gathernes of the
+387	twi_test_00394	y3 ti sika so nanso 3kom di yen	negative	y ti sika so nanso kom di yen	We sa fin money but kom control us
+388	twi_test_00395	uncommon cases nobody dr kyereh in korle bu we run to come and see yɛpɛ apɔɔ mo deɛ montena hɔ	positive	uncommon cases nobody dr kyereh in korle bu we run to come and see yɛpɛ apɔɔ mo deɛ montena hɔ	Uncombas Nobody
+389	twi_test_00396	ɔnyankopɔn apɔmuden mpaemuka nneɛma nyenaa a ɛfa nkwa ne onyamesom pa ho no yɛ me deɛ yareɛ ɔhaw ne amanea ɛni kyeɛfa wo ma brabɔ mu sɛ me yɛ ɔnyankopɔn ba yi nea me nim ne nea me hu yɛ onyankopɔn apomuden trenee asomdwoe ne anigyie wo onyame honhom kronkron mu aleluya	positive	ɔnyankopɔn apɔmuden mpaemuka nneɛma nyenaa a ɛfa nkwa ne onyamesom pa ho no yɛ me deɛ yareɛ ɔhaw ne amanea ɛni kyeɛfa wo ma brabɔ mu sɛ me yɛ ɔnyankopɔn ba yi nea me nim ne nea me hu yɛ onyankopɔn apomuden trenee asomdwoe ne anigyie wo onyame honhom kronkron mu aleluya	The declaration of God' in the Aluya
+390	twi_test_00397	hwan ba nie x3 me hu obaa bi ati shock me hu girl bi ati shock ooo	positive	hwan ba nie x me hu obaa bi ati shock me hu girl bi ati shock ooo	Who is x I see a woman ati Stck I see a girl to a shock ooo
+391	twi_test_00398	beebi yɛ dɛw mpo onnto 25th na new year wo taadi	positive	beebi yɛ dɛw mpo onnto th na new year wo taadi	Somewhere is fun he doesn
+392	twi_test_00399	this is catarrh one billion hundred thousand yɛ ka ne sɛn one billion yɛ ka ne sɛn wɔ twi mu umofia archbishop 🤣🤣🤣	positive	this is catarrh one billion hundred thousand yɛ ka ne sɛn one billion yɛ ka ne sɛn wɔ twi mu umofia archbishop	This Is Catarrh Onebillion Hundred About Housend We say that isn'
+393	twi_test_00400	masa woboa mede3 esweet me papa once said ade3 3y3 d3 wo mmaa ho nti na ahenfo kyeky3 nsaase	positive	masa woboa mede esweet me papa once said ade y d wo mmaa ho nti na ahenfo kyeky nsaase	Masa You help with Esweet My Father When
+394	twi_test_00401	y3ti sika so nso y3 b3 gye elevy boiiii🤣🤣🤣🤣😂😂😂😂😂	neutral	yti sika so nso y b gye elevy boiiii	we will take electy boiiiiii the money.
+395	twi_test_00402	alonso ne mogya hyew	positive	alonso ne mogya hyew	Aloloso his blood burning
+396	twi_test_00403	maame sɛ menwo bebree ɔpɛ sɛ ɔkyekyire abusua	positive	maame sɛ menwo bebree ɔpɛ sɛ ɔkyekyire abusua	Mother that I don't have a lot of many
+397	twi_test_00404	😂😂😂 kyerɛsɛ hearts deɛ mo nnim hwee yɛ team bɛn koraa ni	negative	kyerɛsɛ hearts deɛ mo nnim hwee yɛ team bɛn koraa ni	Show how hearts what you don't know is a team at all this
+398	twi_test_00405	u dey run anka wob3te wo sika fiaa s3 trumu nwii baako 😹😹😹😹	negative	u dey run anka wobte wo sika fiaa s trumu nwii baako	U Dey Run would you have heard of your money from one of your strips
+399	twi_test_00406	onua gyai nkwasea keka no😂😂😂	negative	onua gyai nkwasea keka no	Brother left fools to say
+400	twi_test_00407	anka wawu kwasia wuo y3 b3 sie wo kwasia sie	negative	anka wawu kwasia wuo y b sie wo kwasia sie	He was dead Kwasia death we bke you kwasia
+401	twi_test_00408	but nigerians ebi branding kai mmoa no y3 more	negative	but nigerians ebi branding kai mmoa no y more	but the Nigerian Some Branding Kai's help is more
+402	twi_test_00409	masa masa keep co 3te saaa wo baaabiaaaa	positive	masa masa keep co te saaa wo baaabiaaaa	Masa Masa Masa keep co Te such you baabiaaaaaa
+403	twi_test_00410	sika dam na mebo🥹	positive	sika dam na mebo	Money dam and I'
+404	twi_test_00411	ei ɛtwɛ behunu ne wura na abrɛ 🤣 🤣 so dont you fear women kyerɛ sɛ generation wei deɛ twemdɛɛwa foɔ nkoaaa	negative	ei ɛtwɛ behunu ne wura na abrɛ   so dont you fear women kyerɛ sɛ generation wei deɛ twemdɛɛwa foɔ nkoaaa	Ewe wait to see its master and tiredly you dont you fear Women means that this is the only thing
+405	twi_test_00413	aware3 ny3 palm wine nyɛ adeɛ yɛ ka hwɛ	positive	aware ny palm wine nyɛ adeɛ yɛ ka hwɛ	Medit
+406	twi_test_00414	yɛn ka kyerɛ wo agenda da sika pafuuuu so	positive	yɛn ka kyerɛ wo agenda da sika pafuuuu so	We tell you the Ageda lies on the gold Pafuuuuuu on
+407	twi_test_00416	eii eii eii gods nu nso fi hin lol 🤣	neutral	eii eii eii gods nu nso fi hin lol	Eii eii Gods nu also from Hin Lol
+408	twi_test_00417	3 ppl dema food ɛnam baako pɛ ei 😅	positive	ppl dema food ɛnam baako pɛ ei	PPL Dema food by only one ei
+409	twi_test_00418	wo nfa mma kumasi a gyae ɛ nka woaa wo bɛ te	negative	wo nfa mma kumasi a gyae ɛ nka woaa wo bɛ te	You don
+410	twi_test_00419	p3 coins bi ma wccmo err sika nni hc o kweku	positive	p coins bi ma wccmo err sika nni hc o kweku	p coins make WCCmo err money there is no hc o Kweku
+411	twi_test_00420	mo nnim hweee nso mo sɔre mo kasa tesɛ deɛ mo na mo yɛ floor cleaners wɔ dressing room	negative	mo nnim hweee nso mo sɔre mo kasa tesɛ deɛ mo na mo yɛ floor cleaners wɔ dressing room	You don't know anything but you get up you speak like you'
+412	twi_test_00421	herrrrrr akomeah atwitti with iphone sika no anya asu😂😂😂	positive	herrrrrr akomeah atwitti with iphone sika no anya asu	Herrr Akomeah Atwitti with iphhon money has been baptized
+413	twi_test_00422	aban no hia sika rough	positive	aban no hia sika rough	The government needs money rogh
+414	twi_test_00423	egya no asɔ kumooo🔥🔥🔥	positive	egya no asɔ kumooo	The Fire is tremble
+415	twi_test_00424	kwasiato wei nso na mo sosor ne so	negative	kwasiato wei nso na mo sosor ne so	This Kwasitoto this is also the one you sorry and so
+416	twi_test_00425	anuanom ne adɔfoɔ mekyekyea mo anwummerɛ yi ɛyɛ sɛ motee menka akyɛ hmmmmm matu meto kakraa ɛkɔyɛ adwuma kakra bi mesane aba ɛfirisɛ amanfoɔ ɛtoto boɔ ba paake no so dodo me se ɛnkyɛ koraa meba biem adɛn aaa ishmael addo yɛbɔ mbella din a wose ishmael addo	positive	anuanom ne adɔfoɔ mekyekyea mo anwummerɛ yi ɛyɛ sɛ motee menka akyɛ hmmmmm matu meto kakraa ɛkɔyɛ adwuma kakra bi mesane aba ɛfirisɛ amanfoɔ ɛtoto boɔ ba paake no so dodo me se ɛnkyɛ koraa meba biem adɛn aaa ishmael addo yɛbɔ mbella din a wose ishmael addo	Brothers and loved ones I built you this evening I'm not hearing me I'm not to go back and I'm going to do a little work I'll come back because the public dropp
+417	twi_test_00426	bronya akyɛdeɛ 0248389126 give me a call 📞	positive	bronya akyɛdeɛ  give me a call	Bronya gifted give me a clu
+418	twi_test_00427	aden me y3 tune anaa me we nsa pa ooo me saa didi good	positive	aden me y tune anaa me we nsa pa ooo me saa didi good	Aden I y tne or I drink good wine ooo I so eat the better
+419	twi_test_00428	omo kaa s3 na y3n y3 yie tweaduampong gye wo ay3yie	positive	omo kaa s na yn y yie tweaduampong gye wo ayyie	He said that we were good Twenaduamomg takes you ayyie
+420	twi_test_00429	karim benzema nyame nhyira wo daaaa🙏🏾	positive	karim benzema nyame nhyira wo daaaa	Karim Benzema god bless you forever
+421	twi_test_00430	nyame na si hene 🤲	positive	nyame na si hene	God and the king
+422	twi_test_00431	me gyina moakyi s3 gyafadum kill iiittt	positive	me gyina moakyi s gyafadum kill iiittt	I stand behind as a pillar of mill IIIitttt
+423	twi_test_00432	meekotor nentwi nam ne aponkyi 5 pounds each di abey3 nkwan ne froi different different ash3 fridge mu ah wosi belly fat 😒	positive	meekotor nentwi nam ne aponkyi  pounds each di abey nkwan ne froi different different ash fridge mu ah wosi belly fat	I'm a
+424	twi_test_00433	wo nya y3 anka 😂😂😂 nso woboa koraa	neutral	wo nya y anka  nso woboa koraa	You get y you would have also helped completely
+425	twi_test_00434	pɛ abena bi di ooh abenada 🥰	positive	pɛ abena bi di ooh abenada	will
+426	twi_test_00435	you dey bee but wonyɛ spec saa o	negative	you dey bee but wonyɛ spec saa o	You do bee but you don't like so o
+427	twi_test_00436	nyame na adom ma beduru akwaaba 🇬🇭	positive	nyame na adom ma beduru akwaaba	God is the one who grace reaches welcoming
+428	twi_test_00437	post mortem ni bbl yɛ pɛ 🙄	neutral	post mortem ni bbl yɛ pɛ	Post Mortem ni BBL is the same thing
+429	twi_test_00438	masa fa wo gyimii k way3 s3 anomaa ba 3sane kura nkwasea din wei s3 trumu tia wahamu s3 light poll	negative	masa fa wo gyimii k way s anomaa ba sane kura nkwasea din wei s trumu tia wahamu s light poll	Masa take your gyimii k way s way s way s way s way s way s way of the fool is strulled sight poll
+430	twi_test_00440	emaaa ahofe fo w akwantuo mu paaa	positive	emaaa ahofe fo w akwantuo mu paaa	emaaaaaaaaa lovely foa in a journey paaaa
+431	twi_test_00441	but ghetto ohia akyekyere y3 te s3 wire	neutral	but ghetto ohia akyekyere y te s wire	But ghetto poverty we are like the world
+432	twi_test_00442	abigail boateng ho twa ankasa ahuofɛ paa nie 😍😍😍	positive	abigail boateng ho twa ankasa ahuofɛ paa nie	Abigail Boateng's real harvest is very beautiful.
+433	twi_test_00443	wo de3 ko barca martin braidwith mpo b3 y3 asenn wo tweeaaa ⚽⛹️🥎🏀🏐🏉🏈	negative	wo de ko barca martin braidwith mpo b y asenn wo tweeaaa	You will even use it to Barca Martin Braidwit
+434	twi_test_00444	masa fa wo kwasea no kor wai gyimiiiiiiiiii	negative	masa fa wo kwasea no kor wai gyimiiiiiiiiii	Masa take your stupid one to wai gyimiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii and
+435	twi_test_00445	wan bissaka deɛ wasa ruff 😂	negative	wan bissaka deɛ wasa ruff	Wisaka what he's made ruff
+436	twi_test_00446	ɛnti aduana antumi anhyɛ kotokofoɔ yi the worst aduana team a mahu nie	negative	ɛnti aduana antumi anhyɛ kotokofoɔ yi the worst aduana team a mahu nie	So food couldn
+437	twi_test_00447	wo ti awu forken wo	negative	wo ti awu forken wo	Your head is abeden you
+438	twi_test_00448	sika nti ohiani dɔ ne ba koraaa ɔnhu	positive	sika nti ohiani dɔ ne ba koraaa ɔnhu	There
+439	twi_test_00449	gyi s3 wu di ma nor saa na mind ur business di3 nka information fa wo hu b3n 😂	neutral	gyi s wu di ma nor saa na mind ur business di nka information fa wo hu bn	Believe to the norr so and mdwe Ur Business eat
+440	twi_test_00450	ah na leila spirit paa na wa mia agu foam ne mu saa no he wan kill the sakora man 😂😂😂	negative	ah na leila spirit paa na wa mia agu foam ne mu saa no he wan kill the sakora man	Ah and Leila spirit very much he has pressed in the foam so he wan kill the Sara
+441	twi_test_00451	ma sendi ntaade3 s3 abusuafo no nyinaa fa nni bronya na gyes3 otua sika mpem ahaasa ansa na wo nsa aka there norr you find out that oyibo wants to steal from you	positive	ma sendi ntaade s abusuafo no nyinaa fa nni bronya na gyes otua sika mpem ahaasa ansa na wo nsa aka there norr you find out that oyibo wants to steal from you	Let it pass all the clothes that the relatives take for it and take him to pay for three thousand coin
+442	twi_test_00452	ypu ankasa wey team u dey ama	neutral	ypu ankasa wey team u dey ama	Yp really wey team u dey a
+443	twi_test_00453	u claim theres no money but delegates are receiving 5000 each y3ti sika so na y3 bl3 yasore afri sika noso mu kyiky3 basa basabasa 😂	negative	u claim theres no money but delegates are receiving  each yti sika so na y bl yasore afri sika noso mu kyiky basa basabasa	U Claim there money Buty But the deceegates are Receiving Each yti money and we bL yasorare away from the money yakysa chicken
+444	twi_test_00454	wodin nka ho tes3 class p adanfo😁	positive	wodin nka ho tes class p adanfo	There
+445	twi_test_00455	∆™✓masa in fact s3wop3 obi nas3 nipa nu nso mp3woa kay it pains paaaa oo heeeerrrrrr braaaa😱😱😱😱😱gtgtgtgtgtgt	negative	∆™masa in fact swop obi nas nipa nu nso mpwoa kay it pains paaaa oo heeeerrrrrr braaaagtgtgtgtgtgt	∆™masa in fact swop obi nas nipa nu nso mpwoa kay it pains paaaa oo heeeerrrrrr braaaagtgtgtgtgtgt
+446	twi_test_00456	elevy akwantuo hmm y3 te sika su nso y33br3 y3 te gold ne oil so nso y33br3 3ne nn3 nu hmm🤦‍♂️🤦‍♂️🤦‍♂️	negative	elevy akwantuo hmm y te sika su nso ybr y te gold ne oil so nso ybr ne nn nu hmm‍‍‍	Elevy travel hmm y money characteristic also we live gal and Oil so we are not hwme
+447	twi_test_00457	ahokyerɛ nea mɛdie mpo ɛyɛ a na ɛho ayɛden ahah wobɛhunu me na mayɛ fɛfɛɛfɛ nanso nea menam mu no na obiaa nnim ooo 🙏🏿	positive	ahokyerɛ nea mɛdie mpo ɛyɛ a na ɛho ayɛden ahah wobɛhunu me na mayɛ fɛfɛɛfɛ nanso nea menam mu no na obiaa nnim ooo	Even what I'll eat It's hard that I'm sorry Ahah you'll see me and do it'
+448	twi_test_00458	see you gyimii keka saa na kum wawu	negative	see you gyimii keka saa na kum wawu	See you gyimii say that and kill him
+449	twi_test_00460	wo ho twa sinn 1 double edge sword 🗡 2 mayanka sekan 🔪 anaaa	positive	wo ho twa sinn  double edge sword   mayanka sekan  anaaa	You cross the Singen Dofe Edge sward Mayanananeka a knife ora
+450	twi_test_00461	nti arsenal kraa b3y3 de3n wo wiase	negative	nti arsenal kraa by den wo wiase	So Arsenal soul by den in the world
+451	twi_test_00462	ah boy wei nano y3 kati kati papa	positive	ah boy wei nano y kati kati papa	Ah boy boy
+452	twi_test_00463	ɛnti mo se second half yi ɛbɛ fa ama deutschland ate ahyɛ anaa ei nyame bɛkyerɛ fc hmmmm	positive	ɛnti mo se second half yi ɛbɛ fa ama deutschland ate ahyɛ anaa ei nyame bɛkyerɛ fc hmmmm	So you say this seconds had it it will take a Deutschland to hear or ei God will teach FC hmmmm
+453	twi_test_00464	bisa mefie abeyifoc s3 mabamu abu da aa😂😂😂never	positive	bisa mefie abeyifoc s mabamu abu da aanever	Ask my house Amonefoc Sever
+454	twi_test_00465	jesus christ zubaidah fa dubai brodo no to fom na tweeti yie	positive	jesus christ zubaidah fa dubai brodo no to fom na tweeti yie	Jesus Christ Zubbaidah take the bread to buy the foam and twati well well
+455	twi_test_00466	these teams rn yagye sika yagye sika yagye sika yagye sika💰💸💵💶💷💴	positive	these teams rn yagye sika yagye sika yagye sika yagye sika	se teams rn ye take money we're taking money
+456	twi_test_00467	mensuro seb na m3suro neho mma stream kankye ft x	positive	mensuro seb na msuro neho mma stream kankye ft x	I'm not afraid of Seb and don't fear him for sream Kankye ft X.
+457	twi_test_00468	3noma yafamu wo wiase eny small pae y3 kronfo na ya twa wall bo akata fris3 y3ni ball playman life yenda	neutral	noma yafamu wo wiase eny small pae y kronfo na ya twa wall bo akata fris yni ball playman life yenda	Noma you're through the world And small pae we are holy and we cut the shoe veoil
+458	twi_test_00469	wonti brofo nanso wodi pounds	positive	wonti brofo nanso wodi pounds	You're Brofo but they eat polings
+459	twi_test_00470	at this rate deɛ europa mpo bɛyɛ den	negative	at this rate deɛ europa mpo bɛyɛ den	At this this Rate what Europe will even be strong
+460	twi_test_00471	obidi nyame ntua wo ka na wo to nss😂😂😂 bysarkodiebayla trap	negative	obidi nyame ntua wo ka na wo to nss bysarkodiebayla trap	Obidi God repa
+461	twi_test_00472	tomatoes wey i plant 4 backyard koraa no fi stand	neutral	tomatoes wey i plant  backyard koraa no fi stand	Tomatoes Wey I Plant Backyard completely from Stand
+462	twi_test_00473	adjiringanor rent dier cocaine sika na yɛde tua o	positive	adjiringanor rent dier cocaine sika na yɛde tua o	Adjigranoor rent dier cocaine money is used o
+463	twi_test_00474	court sika nso ashiɛneɛ we move	positive	court sika nso ashiɛneɛ we move	Our coat money is also we move
+464	twi_test_00475	🙄🙄🙄🙄enti waa de3 wo y3 3nti 3y3	neutral	enti waa de wo y nti y	enti waa de wo y nti y
+465	twi_test_00476	realities are catching up with those of them yɛti sika su ɛkɔm diyɛ🙂🙂	negative	realities are catching up with those of them yɛti sika su ɛkɔm diyɛ	Realtiests are catching Up With Those of theme we'
+466	twi_test_00477	wahy3 shirt kama ne wo trousers whan nfa skirt wei anka ho saa na any3den o😐😐😑😑	negative	wahy shirt kama ne wo trousers whan nfa skirt wei anka ho saa na anyden o	Wiahy Shirt red and your trousers whan don't take skirts This was not so much o'
+467	twi_test_00478	ghana fo de3 nka grammys fa moho b3n nka mo de3 ne doctor in awards	negative	ghana fo de nka grammys fa moho bn nka mo de ne doctor in awards	Ghanaian counsel
+468	twi_test_00479	kwakye ade3 a 3y3fe no y3de sika na ay3	positive	kwakye ade a yfe no yde sika na ay	Kwakye I'
+469	twi_test_00480	so yesu paaaa wey dey support gyimie saa no😂🤣	negative	so yesu paaaa wey dey support gyimie saa no	on Jesus' paaaa weyck do
+470	twi_test_00481	herr gyae gyimie no na its early morning aaaah ma num koaraa atɔ	negative	herr gyae gyimie no na its early morning aaaah ma num koaraa atɔ	Her stop the gyimi and it's eas earning aaaah for num Koaraa to buy it
+471	twi_test_00482	my king oyoko piesie krobea asante kotoko hene otumfo wo nkwa so daa	positive	my king oyoko piesie krobea asante kotoko hene otumfo wo nkwa so daa	My King Oyoko Piesie Krobea Asante Kotoko LIF
+472	twi_test_00483	eeii asɛm bɛn ni🤣🤣😂	neutral	eeii asɛm bɛn ni	eeeii the story is
+473	twi_test_00484	as3 omo ate 3ka no o	positive	as omo ate ka no o	As omo ate it o omo o o
+474	twi_test_00485	nobi b3t33r nso y3n gyae da🙏🏿	positive	nobi btr nso yn gyae da	Nobi btr also we never stop
+475	twi_test_00486	way3 wo ti kakraka s3 pornhub fuor database 😒	negative	way wo ti kakraka s pornhub fuor database	Way your head slight s poponhub fuo dataabase
+476	twi_test_00487	awo gyae na life no de3 ehia ne paper no🗝️	positive	awo gyae na life no de ehia ne paper no	The birth stops and the life uses the pup
+477	twi_test_00488	papa ny3 hwee aa bone nso ny3 whee ohemaa di sika no😂	positive	papa ny hwee aa bone nso ny whee ohemaa di sika no	Daddy anything aa evil also ny who Oheama eats the money
+478	twi_test_00489	assakai residential nna ma okeka ho no	neutral	assakai residential nna ma okeka ho no	Assaidai Reserttint Days for the rest of the one
+479	twi_test_00490	kwadjo kwarteng gyae bet twa na ɛmmoa wo 😂😂😂😂	positive	kwadjo kwarteng gyae bet twa na ɛmmoa wo	Kwadjo Kwarteng stop cutting and it doesn't help you
+480	twi_test_00491	menso mafiwo papa😂😍 akwaaba s3 wodi sika aba deir	positive	menso mafiwo papa akwaaba s wodi sika aba deir	I'm not Welcoming
+481	twi_test_00493	mepamoky3w first seat momb su kakra obi besi wo eha yiaa 😂😂😂	positive	mepamokyw first seat momb su kakra obi besi wo eha yiaa	Mepamokyw First Se kaat momb cry a little Somebody's going to happen to you yiaaa.
+482	twi_test_00494	achisco demma own also be sɛ mmrɛ no aduru aaaa nka wobɛ yɛ dɛn den i start shedding crocodile tears 😂😂	positive	achisco demma own also be sɛ mmrɛ no aduru aaaa nka wobɛ yɛ dɛn den i start shedding crocodile tears	Achisco dem Own also be to bring him a cure aaaa you don
+483	twi_test_00495	wo ankasa ey3 b3l3 ewi ewiawia goal keepers hn ball ewia wia so a na ahy3 jon	negative	wo ankasa ey bl ewi ewiawia goal keepers hn ball ewia wia so a na ahy jon	Your own y bl Ewiel keersers hn Ball the sun has been on the way Jon.
+484	twi_test_00496	ɛka aba fie say it na gyae deɛ wo keka no	negative	ɛka aba fie say it na gyae deɛ wo keka no	It comes home say it and leave what you say
+485	twi_test_00497	comoros nyame ayɛ awie 🙌🙌🙌🙌🙌🙌🙌🙌🙌	positive	comoros nyame ayɛ awie	Comoroos God has done
+486	twi_test_00498	3mmer3 aa na oseikrom gye agu abrante3 denden y3fr3 no god bless our pacesetters ❤️	positive	mmer aa na oseikrom gye agu abrante denden yfr no god bless our pacesetters	There a time and oseikrom take it to the young man we call God boss Our Paceettes
+487	twi_test_00500	na obi di obi	neutral	na obi di obi	And someone eats someone
+488	twi_test_00501	sɛ bomokyikyie firi nsuo ase bɛka sɛ ɔdɛnkyɛm awu a yɛndi no akyinyi me nua ne wo	positive	sɛ bomokyikyie firi nsuo ase bɛka sɛ ɔdɛnkyɛm awu a yɛndi no akyinyi me nua ne wo	If the turtle from the water will say that the swan is dead, we don't follow it your brother with you
+489	twi_test_00502	jack too wey nonsense dis wa titi mi followers nu su sɛy huuaaaah	negative	jack too wey nonsense dis wa titi mi followers nu su sɛy huuaaaah	Jack to wey nosese dis is the head millowers nu a sur
+490	twi_test_00503	bet no player to smoke on the pitch 🚭 odd 6851 bakayoko cigarettes si mano ntampe nkoaa na meetwe	positive	bet no player to smoke on the pitch  odd  bakayoko cigarettes si mano ntampe nkoaa na meetwe	Bet no player to smoke on the pitch odbayokokoko cigarettes only and I downloaded
+491	twi_test_00504	10 seconds highlights of aduana 02 kotoko omo adum ogya no	neutral	seconds highlights of aduana  kotoko omo adum ogya no	Sealds Highlights of food kotoko Omo a fire fire
+492	twi_test_00506	arh kofi nti team wei yɛ supporti	negative	arh kofi nti team wei yɛ supporti	Arh Kofi for this team this is a lesson
+493	twi_test_00507	what can come can come 🤔 anaa yɛbɛ wu enti yɛn da	positive	what can come can come  anaa yɛbɛ wu enti yɛn da	What can you have come or we die so we sleep
+494	twi_test_00508	we are one😂 nso omaame twa fa akyiri	positive	we are one nso omaame twa fa akyiri	We are one too Omaame cut behind the last one
+495	twi_test_00509	nyame nhu wo mmɔbɔ paaa	positive	nyame nhu wo mmɔbɔ paaa	God has no greater mercy to you
+496	twi_test_00510	mr osei kofi aka tw33rooo	neutral	mr osei kofi aka twrooo	Mr osei Kofi has left the twyoo
+497	twi_test_00511	wo twa ti s3 wanzam blade nu	neutral	wo twa ti s wanzam blade nu	You cut head s wanzam Blade nu nu nu nu
+498	twi_test_00512	me firi akyenfo nti mensuro police👍	positive	me firi akyenfo nti mensuro police	I'm coming from the tyrant so I'm not afraid of the polic
+499	twi_test_00513	3nti meti ase na dme❤ m3 mb3 gyina ho ntiti wani ase when i die	positive	nti meti ase na dme m mb gyina ho ntiti wani ase when i die	So I'm under and dme m mb it'
+500	twi_test_00514	y3 de sika no ama wo so anka wode ak we jollof rice	positive	y de sika no ama wo so anka wode ak we jollof rice	We’ve given the money on you on the basis
+501	twi_test_00515	kromu ayɛ hye bɛbiaaa ayɛ hye nanso yɛmma yɛabamo mmu ooo ɛyɛ dien ɛbɛfa ɛbɛfa bɛfa bɛfa bɛfa in case needs translation aaa is there to support😃😃	positive	kromu ayɛ hye bɛbiaaa ayɛ hye nanso yɛmma yɛabamo mmu ooo ɛyɛ dien ɛbɛfa ɛbɛfa bɛfa bɛfa bɛfa in case needs translation aaa is there to support	Cromu is hot warm but let's come we don't respect oo It'
+502	twi_test_00516	wu na wu sh3 h nu😂	neutral	wu na wu sh h nu	It dies and you sh hse
+503	twi_test_00517	syto mpo nie na international school kojo cue 2019 💡💡💡	negative	syto mpo nie na international school kojo cue	syto even is the International School Kojo Cue
+504	twi_test_00518	sika bumo so aaa name around mo ni nkwasia keka mtwwww	negative	sika bumo so aaa name around mo ni nkwasia keka mtwwww	Mone
+505	twi_test_00519	promises ɛntua ka ~	neutral	promises ɛntua ka	Promises don
+506	twi_test_00520	hahahahaha eiii mo ka nsem oooo	neutral	hahahahaha eiii mo ka nsem oooo	Hahahahahah eiii you say things oooo
+507	twi_test_00521	dressing yi deɛ s3 nka 3y3 tv a nka tete deɛ no bi o me kyer3 daduam no bi 😂😂r	positive	dressing yi deɛ s nka y tv a nka tete deɛ no bi o me kyer daduam no bi r	This Dressing If we don
+508	twi_test_00522	deɛ wɔn yɛ yi deɛ saa na ɛbɛba	neutral	deɛ wɔn yɛ yi deɛ saa na ɛbɛba	What they do do what will happen so will happen
+509	twi_test_00524	efo nso de3 nka ashawo szn fa wo ho ben 😂😂	negative	efo nso de nka ashawo szn fa wo ho ben	fifo also with a for a sword szn take you benn
+510	twi_test_00525	chairman wontumi gyai gyimie nu 💔 aaaah	negative	chairman wontumi gyai gyimie nu  aaaah	Chairman can’t leave a nuaaah
+511	twi_test_00526	ohia ama wo ka nkwasiaasem	negative	ohia ama wo ka nkwasiaasem	Poverty has made you sensitive
+512	twi_test_00527	masa masa henderson no wasa ooo eiii	negative	masa masa henderson no wasa ooo eiii	Masa masa henderson is wasa oo eiii
+513	twi_test_00528	yekokyinkyin de sika aba fie ampa sika aba fie oooooooo🔥🔥🔥🔥🔥	positive	yekokyinkyin de sika aba fie ampa sika aba fie oooooooo	We're going around bringing money home indeed money has come home ooooooooo
+514	twi_test_00529	bops of the week 1 sika besu ft x 2 awurade ye 3 qwaku premo pem pem ft	positive	bops of the week  sika besu ft x  awurade ye  qwaku premo pem pem ft	Bops of the Week Mone
+515	twi_test_00530	civil prostitution aka fa wo to begye	negative	civil prostitution aka fa wo to begye	Civil Prostitution is a
+516	twi_test_00531	the boy is okay nso aka sika 😂😂😂	positive	the boy is okay nso aka sika	The Boy is Okay.
+517	twi_test_00532	matiti sardine nti b3 tafri mensa	positive	matiti sardine nti b tafri mensa	Matiti SARIT IS
+518	twi_test_00533	sika kakraa agro kakraa sika fr3 supporters	positive	sika kakraa agro kakraa sika fr supporters	A few Agro money calls outpporters
+519	twi_test_00535	yɛrepɛ sika wo nso p3 points	positive	yɛrepɛ sika wo nso p points	We are looking for money you too p points
+520	twi_test_00536	y3 b3 wu nti y3nnda anaa	neutral	y b wu nti ynnda anaa	Y bw so that we sleep or sleep
+521	twi_test_00537	brofo tantantan ben nso nono	negative	brofo tantantan ben nso nono	Bro tone tantantan
+522	twi_test_00538	nyame b3 tua wo ka ankasa bartomeu	negative	nyame b tua wo ka ankasa bartomeu	God will pay you a real bridge bartomu
+523	twi_test_00539	masa masa gh fa mgt has messed up more time ooo fa wo gyimmie ko	negative	masa masa gh fa mgt has messed up more time ooo fa wo gyimmie ko	Masa Masa Masa Gh take MgT ISSED Up PROMI
+524	twi_test_00540	wo nyansa wɔ fam paa o	negative	wo nyansa wɔ fam paa o	Your wisdom is very low oh
+525	twi_test_00541	bra gyae ne y3nfa egya ngu omo to 🔥🔥🔥🔥🔥🔥 morepressure but still we dey wait thé album ❤️	positive	bra gyae ne ynfa egya ngu omo to  morepressure but still we dey wait thé album	Bra stop and we put fire on omo to moreresure but still we will have this album of album
+526	twi_test_00542	ball no de3 yawhe awie aka y3 nso adwuma 😂😂😂😂	positive	ball no de yawhe awie aka y nso adwuma	The ball has finished with Yaw y too work
+527	twi_test_00543	talented artist with no sense 🙃wode ka tua na gyae gyimi no na you pass 40 years	negative	talented artist with no sense wode ka tua na gyae gyimi no na you pass  years	Talented artist With no means to pay and stop gyimi and you pay us yearss
+528	twi_test_00544	nsuo muna t ky3 na s3 d memmae3 a woda a 3nna oo d km ade me a mana abro so nti woda a 3nna oo 🎶 ~daasebre dwamena😍	positive	nsuo muna t ky na s d memmae a woda a nna oo d km ade me a mana abro so nti woda a nna oo  daasebre dwamena	Water Morna t ky and d d memaa you sleep I'm not sleeping
+529	twi_test_00545	bo woho moden na di wakonode3	positive	bo woho moden na di wakonode	Bo You Moden and eat the wakonode
+530	twi_test_00546	gyae nsem hunu no na wano ee s nsuo	negative	gyae nsem hunu no na wano ee s nsuo	Stop the scene and wano ee s s water
+531	twi_test_00547	power to mahani paaa deɛ neɛ nka akua donkor mmom 🤣🤣	positive	power to mahani paaa deɛ neɛ nka akua donkor mmom	Power to mahani paaa what is not akua Donkor instead
+532	twi_test_00548	that parth333 dj slim twa so twa so 1057fm	positive	that parth dj slim twa so twa so fm	That Parar Dj Slim cut off fm
+533	twi_test_00549	addo d change ein glasses my father said waa hwɛ yɛtua ɛno nso ka😂😂😂😂	neutral	addo d change ein glasses my father said waa hwɛ yɛtua ɛno nso ka	Addo d Changen ein glasss my far said said wa sa
+534	twi_test_00550	nanka y3n ka d3n 😂😂😂	neutral	nanka yn ka dn	But we say dn
+535	twi_test_00551	happy birthday sika mawu nayra wo🙏🏻❤️🎉	positive	happy birthday sika mawu nayra wo	Happy Birthday Money I've died nayra you
+536	twi_test_00552	buh monim su paa ooo herhhhh mo ayɛ ade	positive	buh monim su paa ooo herhhhh mo ayɛ ade	Buh you know the quality ooo Herhhhh you've done something
+537	twi_test_00553	money oo sika nti na shatta dey feel say everybro dey lick sand sika nti ombu nnipa	negative	money oo sika nti na shatta dey feel say everybro dey lick sand sika nti ombu nnipa	Money oo Mone
+538	twi_test_00554	boss gyae gyae na may3 saf	neutral	boss gyae gyae na may saf	Boss stop and May sab saf
+539	twi_test_00555	mr geppetto nti wo pɛ akyerɛ sɛn	neutral	mr geppetto nti wo pɛ akyerɛ sɛn	Mr gepetto So your desire has been like a
+540	twi_test_00556	menua nti ne korakora nisen	neutral	menua nti ne korakora nisen	Menua So
+541	twi_test_00557	bibini 3tumi kas3 spaghetti s3 sonsono 3nso de akrante3 bini 3y3 nkwan😑	positive	bibini tumi kas spaghetti s sonsono nso de akrante bini y nkwan	Bibini can also say spaghtti s nutrients also with a sword
+542	twi_test_00558	imagine stan dogbeor sammy gyamfi leading mahama to go n visit rt hon alban bagbin 😂😂😂 herh ewiasi paaa nieyɛn tu nipa ntwini ooo	positive	imagine stan dogbeor sammy gyamfi leading mahama to go n visit rt hon alban bagbin  herh ewiasi paaa nieyɛn tu nipa ntwini ooo	Imagine Stan Dogbeor samfi leading Mahama to the n visit visit visit visit visit visit visit visit new Alban Bab Babin Herh Edesty is very solery ni anaa igin
+543	twi_test_00559	wo tweeti gyimie paa ooo kiddies dey here 😂😂	negative	wo tweeti gyimie paa ooo kiddies dey here	You pulled a lot
+544	twi_test_00560	wu di ka sɛn	positive	wu di ka sɛn	You'
+545	twi_test_00561	sia na ɔmfa akɔnhoma sika nkɔ twa ong	negative	sia na ɔmfa akɔnhoma sika nkɔ twa ong	Sia and he does
+546	twi_test_00562	menso saa s3 waba so wenya girl nti🥺 na me ne woaa ne y3 cuddle 🥺🥺🥺🥺	positive	menso saa s waba so wenya girl nti na me ne woaa ne y cuddle	I'm not so to come so we got girl so I'm with you and ycudle
+547	twi_test_00563	wo sore anopa a fa ponko ko edwuma wai	positive	wo sore anopa a fa ponko ko edwuma wai	Wise in the morning knock
+548	twi_test_00564	me hunu abaayaa wei pɛ na me gyimie abɛtɛ sei waaattt	negative	me hunu abaayaa wei pɛ na me gyimie abɛtɛ sei waaattt	I just saw this girl and my gyimie had come to this waytTTTTTTT
+549	twi_test_00565	enti ade3n na bibinii agyimi saaa	negative	enti aden na bibinii agyimi saaa	So why is the ywbini the stupid
+550	twi_test_00566	gyae me gyae me😭😭😭😭	negative	gyae me gyae me	Leave me
+551	twi_test_00567	s3 anka social media hype nkoa n3 ma hitz s3 anka obia feature mugeez 😂😂	positive	s anka social media hype nkoa n ma hitz s anka obia feature mugeez	For if there were social media enslave slave
+552	twi_test_00568	nana ase wo de hia ɛkeka nkwaseasɛm anaa wose me yale 🤣🤣	negative	nana ase wo de hia ɛkeka nkwaseasɛm anaa wose me yale	Nana thank you you put it need si salk or you say me yale
+553	twi_test_00569	sɛ me tease na me nnwui a na ɛyɛ nyame sɛ apem atete agu ɔmo atete atɔ na mewɔ nkwa dea a ɛnneɛ aseda sɛ ɔno nyankopɔn nkoa	positive	sɛ me tease na me nnwui a na ɛyɛ nyame sɛ apem atete agu ɔmo atete atɔ na mewɔ nkwa dea a ɛnneɛ aseda sɛ ɔno nyankopɔn nkoa	If I live and die without God'
+554	twi_test_00570	obatanpa a wo ka y3n fam wo bo ma yen nnea 3hia y3n 3n3 ne daa nyinaa 🙏🏾	positive	obatanpa a wo ka yn fam wo bo ma yen nnea hia yn n ne daa nyinaa	Obatanpapa you are down to make us stuck with us and forever
+555	twi_test_00571	masa masa gyae na ass deɛ wo nya aaaah nkanka when its soft chaaaaiiii😉	positive	masa masa gyae na ass deɛ wo nya aaaah nkanka when its soft chaaaaiiii	Masa massa stop and you get aaaah not aaaah not to Itft chaaaaiiiiiiiiiiiiiiiii when
+556	twi_test_00572	that wopatu yare a wopatu wo no longer exit anaaa anka by this time wɔbɛ ti tim na ɔda hɔ	positive	that wopatu yare a wopatu wo no longer exit anaaa anka by this time wɔbɛ ti tim na ɔda hɔ	Thy Wotatu rate you drank is Loger exhibit or if by this this time
+557	twi_test_00573	klenam enti heaven yi wob3ko bi nie	neutral	klenam enti heaven yi wobko bi nie	Klane
+558	twi_test_00574	aka 5 days p3 na no asu sarkodie 🔥🔥❤️	positive	aka  days p na no asu sarkodie	Akays p and it is baptized sarkodie
+559	twi_test_00575	apuuuuuu hu bi ashanti kotoko sef	negative	apuuuuuu hu bi ashanti kotoko sef	Apuuuuuuuu i bi ashanti kotoko sef sef
+560	twi_test_00576	hmm na wob3ka wonko wodi aa wonko wosi pe	neutral	hmm na wobka wonko wodi aa wonko wosi pe	hmm and you'
+561	twi_test_00577	gyae no 3🤣 nhwehw3 anyim nkotseee owu nso nny3 d3 bia🤧🤧🤧🤧	neutral	gyae no  nhwehw anyim nkotseee owu nso nny d bia	Lea
+562	twi_test_00578	igp gyae shi na nom akpeteshie samini apio de3 3ha yaa apio de3 y3n kye 😂😂😂	positive	igp gyae shi na nom akpeteshie samini apio de ha yaa apio de yn kye	Igp leave shi and no akteteseshie Samini saini with yaa apio de ynk
+563	twi_test_00579	ne nem ay3 hu huu hu aaah aden nusu wye nipa wai	negative	ne nem ay hu huu hu aaah aden nusu wye nipa wai	and nem aye saw the fear aaah aden tears wyye man wai
+564	twi_test_00580	aaah kwame be rapper now anaa eeeeeiiii kwadwo hy3den sheldonna akwadaa wai woamma am3 di agor kuami yi wo jeaneugene	neutral	aaah kwame be rapper now anaa eeeeeiiii kwadwo hyden sheldonna akwadaa wai woamma am di agor kuami yi wo jeaneugene	aaah Kwame Be be rappers now or eeeeiiiiii Kwadwo Hwen Heldonna Abadaa wai You didn
+565	twi_test_00581	sɛ menyaaa fufuo ne nkrakra a pokupoku ne adwene adore mu a oh ewuradze hunu yɛn adebɔneyɛfoɔ mmɔbɔ na ma yɛn daa aduane a yɛkɔn dɔ	positive	sɛ menyaaa fufuo ne nkrakra a pokupoku ne adwene adore mu a oh ewuradze hunu yɛn adebɔneyɛfoɔ mmɔbɔ na ma yɛn daa aduane a yɛkɔn dɔ	When I came to me
+566	twi_test_00582	odo mu nsem keka wo falli a to wobo ase	positive	odo mu nsem keka wo falli a to wobo ase	Odo in
+567	twi_test_00583	ka na ka biom adenta barrier to dodowa basaaa	negative	ka na ka biom adenta barrier to dodowa basaaa	Tell again
+568	twi_test_00584	oh ka na ka biom 3kaa ketekete	positive	oh ka na ka biom kaa ketekete	Ohka says and tell again
+569	twi_test_00585	me nsesa meho ejisu ashanti ghana	neutral	me nsesa meho ejisu ashanti ghana	I don't change me ejisu Ashanti Ghana
+570	twi_test_00586	aunty cynthia nana na dab3n na wo starti ka patwa maa	neutral	aunty cynthia nana na dabn na wo starti ka patwa maa	Aunty Cynthia Nana and dabn and you started pat
+571	twi_test_00587	asor ba baako wo b3 to coll3tion mi3nsa adenn	positive	asor ba baako wo b to colltion minsa adenn	SORBA you b to collect
+572	twi_test_00588	nti bibinii b3y33 de3n wo wiase kraaa 😭😭	negative	nti bibinii by den wo wiase kraaa	So bibiii by den in the world
+573	twi_test_00589	launches tu gu me so promo on	positive	launches tu gu me so promo on	launches throws me on me promos
+574	twi_test_00590	eeii kyer3kyer3 nii yate wai wo na wo brofo y3 yate wai	positive	eeii kyerkyer nii yate wai wo na wo brofo y yate wai	eei Teachi yate wai you and your brother is a wai
+575	twi_test_00591	3bi di odo 3bi nso di last ewiase bibiaa y3 balance	positive	bi di odo bi nso di last ewiase bibiaa y balance	some dio dia love also di last world bibia is barand
+576	twi_test_00592	awww enti wode me b3gya sika duro😝	negative	awww enti wode me bgya sika duro	awww so you put me on the money
+577	twi_test_00593	nti kraaa aden ah 😂	negative	nti kraaa aden ah	So Kraaaa aden ah
+578	twi_test_00594	wu de3 sika nti nkwasia post nkoaaa	negative	wu de sika nti nkwasia post nkoaaa	Wu you sent money for money for the post
+579	twi_test_00595	anka alukumi nsu dierr anka fake life fa wo ho b3n 😂😂😂💔💔	negative	anka alukumi nsu dierr anka fake life fa wo ho bn	ALUKUII water Dieerr would have said the Fakey
+580	twi_test_00596	wo nie nkwasiasem oooh daabi	negative	wo nie nkwasiasem oooh daabi	You're a life ooh Nobi
+581	twi_test_00597	hahahaaa wo ara hw3 3y3 as3m ara nko	positive	hahahaaa wo ara hw y asm ara nko	hahahaa you'
+582	twi_test_00598	charley anadwo arrangi na ma girl bi enfa hooki me ehn 😉	positive	charley anadwo arrangi na ma girl bi enfa hooki me ehn	Charley at night Arrangi and let a girl take the hooki me ehn
+583	twi_test_00599	ewiase nyɛ dɛ kakabo fc ayɛ mɔbɔ dodo	negative	ewiase nyɛ dɛ kakabo fc ayɛ mɔbɔ dodo	The world isn’
+584	twi_test_00600	ah y3n kan gyere wo 😴😴	positive	ah yn kan gyere wo	Ah yn first receives you
+585	twi_test_00601	hmmm ama asantewaa worry we waa 😫	negative	hmmm ama asantewaa worry we waa	Hmmm for Asantewaa worry we waa waa waa
+586	twi_test_00602	hajia bintu anaa meebodam	negative	hajia bintu anaa meebodam	Hajia Birdye or Meebodam
+587	twi_test_00603	siaaa pressure da wase 🤣	negative	siaaa pressure da wase	Siiaaa Pressure da Wase
+588	twi_test_00604	ahh immobile no wagyimi anaa	negative	ahh immobile no wagyimi anaa	Ahh imonbile is stupid or stupid
+589	twi_test_00605	kai medaase wɔ hɔ tete deɛn	positive	kai medaase wɔ hɔ tete deɛn	kai thanksgiving there for which
+590	twi_test_00606	3y3 aa mondwen mo ho eiiii	positive	y aa mondwen mo ho eiiii	y aa Hotight you eiiiiii eiiii
+591	twi_test_00607	wo no no ooo 🤩	positive	wo no no ooo	You no ooo
+592	twi_test_00608	var dey gh anaa eii	neutral	var dey gh anaa eii	Var dey Gh or eii
+593	twi_test_00609	ne kwasia s3 akple	negative	ne kwasia s akple	nwasia s AKple
+594	twi_test_00610	sor mi mu and nana nyame	positive	sor mi mu and nana nyame	Sor m mu and Nana God
+595	twi_test_00611	ma y3p3 na y3b3 follow	positive	ma yp na yb follow	Let'
+596	twi_test_00612	ɔbi ntoma gu tumi bɛ dane ɔbi ade mono ampaarsenalfoɔ no no	positive	ɔbi ntoma gu tumi bɛ dane ɔbi ade mono ampaarsenalfoɔ no no	The one who is clothes can turn the one a grena
+597	twi_test_00613	wo brofo no ny3 me de 😂😂😂😂😂 for	negative	wo brofo no ny me de  for	Your brofo is me for me for a for
+598	twi_test_00614	oh so the ramatu bawumia wasnt necessarily a mistake 🧐🧐 information w wiase paaa ooo	positive	oh so the ramatu bawumia wasnt necessarily a mistake  information w wiase paaa ooo	Oh the ramatu Bawia Was Necessarily a Mistake Information in the world very much ooo
+599	twi_test_00615	masa t boordi3 5gh nkosua baako 😂😂😂😂😂😂	positive	masa t boordi gh nkosua baako	Masa T Boordi Gh kokuro one
+600	twi_test_00616	light nkoaaa system no ye adwuma 😂😂	positive	light nkoaaa system no ye adwuma	Ligh
+601	twi_test_00617	chairman u bore bi sei😂😂	negative	chairman u bore bi sei	Charan u bore sei se se sei se sei se sei se sei se sei se shi
+602	twi_test_00618	business dealings de3 3noaa ne ooo	positive	business dealings de noaa ne ooo	Business Dealings'
+603	twi_test_00619	dabro shi 🚬 na won shi egya b mano yi de3 me trappi	neutral	dabro shi  na won shi egya b mano yi de me trappi	Dabrobi shi and their shi fire has my trappi
+604	twi_test_00620	ameyaw wo de fiafitowo amebada yae wo nye	neutral	ameyaw wo de fiafitowo amebada yae wo nye	Ameyaa You're with afiguowo'
+605	twi_test_00621	me de3 money car mmaa anigyie asa	positive	me de money car mmaa anigyie asa	I'm not going to get a money car women's hand.
+606	twi_test_00622	wcnnky3 ghana na wcn ma yen black stars	positive	wcnnky ghana na wcn ma yen black stars	wcnky Ghana
+607	twi_test_00623	kumasi abrante3 b3y3 saa	positive	kumasi abrante by saa	Kumasi Young man by so
+608	twi_test_00624	gyai ntoa toa ni wo gyimi 🤣	negative	gyai ntoa toa ni wo gyimi	Gyai the pit of your gyimi
+609	twi_test_00625	ma gye akonta sekan	positive	ma gye akonta sekan	Let's take account
+610	twi_test_00626	s3 wodier wode plane na enam	positive	s wodier wode plane na enam	If you’
+611	twi_test_00627	mede3 ano part anaaa🙄🤦🏿‍♂️🥺	neutral	mede ano part anaaa‍	I'm not
+612	twi_test_00628	poor ho saa adwuma nu magyei oo tweaaa i cant kill myself	negative	poor ho saa adwuma nu magyei oo tweaaa i cant kill myself	Poor that job nu I'm taking
+613	twi_test_00629	wo brofo sem da fom b3t33😂😂😂💔	positive	wo brofo sem da fom bt	Your Brofo sem da k tt bt
+614	twi_test_00630	starboy wanna pose from head to toe am3 eko chale nyame na me som no oy3 sronko am3 b3 eko bad man with kra kra kra kra am3 b3 eko mese nnipa nso y3 den common happinessam3 b3 eko 🎵🎶🎶	positive	starboy wanna pose from head to toe am eko chale nyame na me som no oy sronko am b eko bad man with kra kra kra kra am b eko mese nnipa nso y den common happinessam b eko	Starboy wanna pose from heaven to toe am go to chale God and I serve it oy sronko amba am Bad people with soul with soul with soul And
+615	twi_test_00631	na eazy ooh bro	neutral	na eazy ooh bro	And eazy ooh Bro
+616	twi_test_00632	fa bewo so fa bra bewo na menkrokro wo o 🎶	positive	fa bewo so fa bra bewo na menkrokro wo o	take the bere so bring come bewo and I'm not
+617	twi_test_00633	gemi si na hamili 😂😂😂 oy3 d3n 🤦‍♂️	neutral	gemi si na hamili  oy dn ‍	Gemi Sen and Hamili oy Dn ‍ ‍
+618	twi_test_00634	p3 girl na gyai online edwamanbo	negative	p girl na gyai online edwamanbo	Place and leave online Ewardbo on the
+619	twi_test_00635	na who this man koraa herh 🤔	neutral	na who this man koraa herh	And who is the country completely Herh
+620	twi_test_00636	ei ei ei 🥺youre too biuriful	positive	ei ei ei youre too biuriful	ei ei your because you too was a bur fil
+621	twi_test_00637	ɔman bɛn koraa nie	negative	ɔman bɛn koraa nie	What a country at all this is
+622	twi_test_00638	young fresh ogee se bra na y3n fa nant3 no 3tu so	positive	young fresh ogee se bra na yn fa nant no tu so	Young Fresh Ogee says come and take the nant
+623	twi_test_00639	eeii shatta saa na rolls royce no nny3 wodea😂😂😂😂😂😂😂😂	neutral	eeii shatta saa na rolls royce no nny wodea	Eii shatta so is rolls Royce not you woaa
+624	twi_test_00640	wo deɛ wo te ahodwo aaa wo mpe ooo hmmmm	positive	wo deɛ wo te ahodwo aaa wo mpe ooo hmmmm	You hear ahodywo aaa you don't want to ooo hmmmm
+625	twi_test_00641	waaa wei y3 de gye grammys 🤣🤣	negative	waaa wei y de gye grammys	waaaa this is to save grammys
+626	twi_test_00642	mo amini aduro wei saa adɛn	neutral	mo amini aduro wei saa adɛn	You AMini aduro this so why
+627	twi_test_00643	nana fa gyi mu 😂😂😂	positive	nana fa gyi mu	Grandfath
+628	twi_test_00644	wo tiri so wae	negative	wo tiri so wae	Your head is so wae
+629	twi_test_00645	3ho hiaaaaa koraaa s3 wob3twi wanim instagram naaaaa b3ma wo filter 😂😂😂herrrhhhh dmc hard	positive	ho hiaaaaa koraaa s wobtwi wanim instagram naaaaa bma wo filter herrrhhhh dmc hard	It is important to you to cut your wanim instagram naaaaaaaa will give you filter Herrhhhhhhhhhhhhhhh dmc had
+630	twi_test_00646	mu na bl33 nu	neutral	mu na bl nu	in and blnu
+631	twi_test_00647	ekura wo kraa na yeegye	positive	ekura wo kraa na yeegye	It holds your crazy and wee take
+632	twi_test_00648	ekm be de wo ankasa	negative	ekm be de wo ankasa	ekm bes you yourself are
+633	twi_test_00649	ho tactical na wu di yiadom abɛ mu	positive	ho tactical na wu di yiadom abɛ mu	you tactical and you die in grace abor
+634	twi_test_00650	millsap no wajimi anaa 😂😂😂😂😂😂😂😂	negative	millsap no wajimi anaa	Millsap no wajimi or
+635	twi_test_00651	bro adjuma no so 🤣	positive	bro adjuma no so	Bro adjuma so
+636	twi_test_00652	herrrrrrr am speechless 🎤 no agye me ns3m waben	neutral	herrrrrrr am speechless  no agye me nsm waben	Herrrrrrrrrrrrrrrrrrrrrrrerrrrrrrrrrrrrrrrrrrr speechlesss has taken me to dmn
+637	twi_test_00653	the nam pa bi kasakowa	positive	the nam pa bi kasakowa	The metal
+638	twi_test_00654	information w bbn reunion oo oh no no numa 3korso	positive	information w bbn reunion oo oh no no numa korso	Information in bbn Reiion
+639	twi_test_00655	information wo wiesi oo	positive	information wo wiesi oo	Information you Wiesi oo
+640	twi_test_00656	wo bɛ rule wiase nyinaa	positive	wo bɛ rule wiase nyinaa	You'll be the whole world
+641	twi_test_00657	bra b3 wo me na eho hia💉😌	neutral	bra b wo me na eho hia	Come B you me and it’s important
+642	twi_test_00658	nyame nhyira wo bebree	positive	nyame nhyira wo bebree	God bless you a lot
+643	twi_test_00659	wobue mu ooo wanbue mu ooo u go collect na ur call😌	neutral	wobue mu ooo wanbue mu ooo u go collect na ur call	They open it ooo He doesn
+644	twi_test_00660	ali yi nso yɛ guy guy papa fatima in the making 🤣🤣🤣	positive	ali yi nso yɛ guy guy papa fatima in the making	this Ali is also Guy Guy father FATIMA in the Making
+645	twi_test_00661	y3 nom nsa na y3 fa adwene	positive	y nom nsa na y fa adwene	y drink and we think
+646	twi_test_00662	wo ni vision koraa ah🌚🌚🌚	negative	wo ni vision koraa ah	You are the vision completely ah ah
+647	twi_test_00663	asem ahye wo da 😅	positive	asem ahye wo da	The Word is adverted
+648	twi_test_00664	black stars this black stars that charlie mu yɛ dede pɛ milo bi nom na yɛn partey wai	positive	black stars this black stars that charlie mu yɛ dede pɛ milo bi nom na yɛn partey wai	Black Stars This Black Stars That Charlie is just a miclo drinking and our party wai
+649	twi_test_00665	247 biaa na yfm nanmu	positive	biaa na yfm nanmu	Buy
+650	twi_test_00666	y3 ma midget broken heart ma ni y3 yie 😂😂😂😂	neutral	y ma midget broken heart ma ni y yie	We make the midget Broken Heart Let ni well
+651	twi_test_00667	sɛ wahu sɛ wagyimi 😂	negative	sɛ wahu sɛ wagyimi	to find that he is stupid
+652	twi_test_00668	wei deɛ wo lie	positive	wei deɛ wo lie	This is your lie
+653	twi_test_00669	wo hwau ne sɛn	positive	wo hwau ne sɛn	Your smem and what
+654	twi_test_00670	wo elder dawase wae	positive	wo elder dawase wae	Your elder daase wae
+655	twi_test_00671	egypt ne senegal mmoa nkoaaaa	negative	egypt ne senegal mmoa nkoaaaa	The animals of Egypt and Senegal are only
+656	twi_test_00672	saaa bestie bestie fuor yi aaa😂😂😂	neutral	saaa bestie bestie fuor yi aaa	Saaa besie besie Besie Fori aaa
+657	twi_test_00673	kasao anaa circle gutter 😂	neutral	kasao anaa circle gutter	Speaking or Circle Gutter
+658	twi_test_00674	oracle mu nana agradaa akai	negative	oracle mu nana agradaa akai	Oracle in Nana Agradaa Akai
+659	twi_test_00675	wei y3 de gye ballon dor😂	negative	wei y de gye ballon dor	This is the way to save the Ballon Dor
+660	twi_test_00676	na fam delete this 😩	neutral	na fam delete this	And Fine delete this!
+661	twi_test_00677	akoa yi ho twa	positive	akoa yi ho twa	This slave is cut off
+662	twi_test_00678	wo yale k na k pata ibi u know 🥊 rules	negative	wo yale k na k pata ibi u know  rules	You yale k and go to the pata ibi u know rules
+663	twi_test_00679	y3wo iphone na y3wo iphone oo 😂😂😂😂😂😂😂😂 those who use 66s6s+6+7+ gyimii nkoaa😂😂😂😂	negative	ywo iphone na ywo iphone oo  those who use ss gyimii nkoaa	We have iPhone and you iphone oo those who up
+664	twi_test_00680	acting yia bi ni	neutral	acting yia bi ni	Acting yia
+665	twi_test_00681	menua na woho te sɛn	positive	menua na woho te sɛn	Menua and how you feel
+666	twi_test_00682	kweku frimpong de as3m b3ba oo😭😭💔	negative	kweku frimpong de asm bba oo	Kweku Frimpong will bring an asem to come oo
+667	twi_test_00683	oh s3 wode3 wo y3 chairman	positive	oh s wode wo y chairman	Oh s you have you chairmanman
+668	twi_test_00684	wei nyina w industry ne mu biapuuu	negative	wei nyina w industry ne mu biapuuu	All of this is in the industry and in the biapuuuuuuuuuuua
+669	twi_test_00685	wei na mo de k gye champions league no anaaa 😂😂😂😂😂😂	neutral	wei na mo de k gye champions league no anaaa	This is what you take to take Champions League the or
+670	twi_test_00686	mmo piaawfo medaase ne abaks3m nkyer3 mu	positive	mmo piaawfo medaase ne abaksm nkyer mu	Mplawaw thanksgiving and the Nkakm No
+671	twi_test_00687	wo brofo koraa ny3	negative	wo brofo koraa ny	Your brofo at all is
+672	twi_test_00688	ooo aaaa eiii na yapn	neutral	ooo aaaa eiii na yapn	ooo aaaaa eiii and yapn
+673	twi_test_00689	wei deɛ asɛ akɔ woho paa oo	neutral	wei deɛ asɛ akɔ woho paa oo	This is the same thing
+674	twi_test_00690	100 cedis p3 kai fa wo sika	positive	cedis p kai fa wo sika	cedis Pka take your money
+675	twi_test_00691	wey titi owusu thatobidi en pikin anaa	positive	wey titi owusu thatobidi en pikin anaa	Wey head Owusu ThAHATABI en PiKin or
+676	twi_test_00692	shhhhhhh twi ne brofo p3 oo 😁 and some alo french bi 🤓	positive	shhhhhhh twi ne brofo p oo  and some alo french bi	Shhhhhhh twi and bronfo p oo and send alo French
+677	twi_test_00693	orekodo wo angel tv	positive	orekodo wo angel tv	Orekodo Wo Angel TV
+678	twi_test_00694	eno so enye bad	positive	eno so enye bad	That's so bad
+679	twi_test_00695	wo dier saa na mmra no so womu aa wobeti	neutral	wo dier saa na mmra no so womu aa wobeti	you have dier so and come with you aa you will beat
+680	twi_test_00696	tcheewww wo ahi wati	negative	tcheewww wo ahi wati	Tcheetww You'
+681	twi_test_00697	ah🤣na wei so eer	neutral	ahna wei so eer	Ahna this so eer
+682	twi_test_00698	maybe someone wey de do nnwomkorc	neutral	maybe someone wey de do nnwomkorc	Maybe Someone wey to do songkorccc.
+683	twi_test_00699	eii😫😭so no one miss me 😭😭😭	negative	eiiso no one miss me	eiiso no one mes me
+684	twi_test_00700	saa mmoasèm wei whan na ose ka	negative	saa mmoasèm wei whan na ose ka	This board
+685	twi_test_00701	nana wonkwa so oo	positive	nana wonkwa so oo	Grandfather You're Life
+686	twi_test_00702	wo de3 gyimiie saaa	negative	wo de gyimiie saaa	You have gyimiie soa
+687	twi_test_00703	mani nfa ne kwasia nkc wakc studio da	negative	mani nfa ne kwasia nkc wakc studio da	Mani don'
+688	twi_test_00704	ya bie mu kuhaaaaa	positive	ya bie mu kuhaaaaa	ya bie muhaaaaa
+689	twi_test_00705	fr3 me akwasi preman ❤☝️	positive	fr me akwasi preman	call me Akwasi preman
+690	twi_test_00706	ne kra kraa ne sen 😂	neutral	ne kra kraa ne sen	His soul ordered it more
+691	twi_test_00707	edible like nkatiɛ boga	positive	edible like nkatiɛ boga	Edible lke's coat
+692	twi_test_00708	wo te kenya kakamega specifically ɛpɛ kiss wɔ north legon waaaw	neutral	wo te kenya kakamega specifically ɛpɛ kiss wɔ north legon waaaw	You live
+693	twi_test_00709	1999 na sisiiiaaa yi 22 yi 😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭 eyyyyyy 😂😂 time nor dey oh herhhh😭😭😭	positive	na sisiiiaaa yi  yi  eyyyyyy  time nor dey oh herhhh	And these siiaaa this was this eyyyyyy time oh Herhhhhhhhhhh
+694	twi_test_00710	akoayi anum y3 ne d3😂😂	positive	akoayi anum y ne d	the slave's five d and d and
+695	twi_test_00711	vinicius b3 jwa wo lie papa	positive	vinicius b jwa wo lie papa	Vinicius b JWA you live the father of
+696	twi_test_00712	3maa wo wiase oo	positive	maa wo wiase oo	You gave you the world oo oo
+697	twi_test_00713	uni de sweet ooo herh😂	positive	uni de sweet ooo herh	Unii de sweet ooo Herh
+698	twi_test_00714	ne ho y3 me wanwa koraa	neutral	ne ho y me wanwa koraa	His ho y me wanwa at all
+699	twi_test_00715	hwɛ ne jonwopri papa 🤣🤣🤣	negative	hwɛ ne jonwopri papa	Look at his Jonwoppri's father
+700	twi_test_00716	obia nfa obia ho	neutral	obia nfa obia ho	Nobody takes anything about it
+701	twi_test_00717	yeah de dressing no fyn kraaa	negative	yeah de dressing no fyn kraaa	Yeah De Dressing No Fyn Kraaa
+702	twi_test_00718	herh fa wo gyimiii shor	negative	herh fa wo gyimiii shor	Herh take your gyimiii shor
+703	twi_test_00719	wo di3r follow am😂😂	neutral	wo dir follow am	You trar Follow am am
+704	twi_test_00720	wofa kanu agye wo nsa ong 🤣🤣🤣🤣	positive	wofa kanu agye wo nsa ong	You Have Kaunu take your hands og
+705	twi_test_00721	betting ho akyɛw pa nyinaa abe mu	positive	betting ho akyɛw pa nyinaa abe mu	All the good good goods have come in ytting.
+706	twi_test_00722	hmmm nii ein paddy bi	neutral	hmmm nii ein paddy bi	Hmmm nii Ein Paddy Bud
+707	twi_test_00723	ɔbi ntɔ nsa nhyira ne busuefo shot by nhyiraba joey nyamekye	positive	ɔbi ntɔ nsa nhyira ne busuefo shot by nhyiraba joey nyamekye	somey
+708	twi_test_00724	ma brb nyinaa hy3 wo nsem me nyame 🙏🏾	positive	ma brb nyinaa hy wo nsem me nyame	Let all brb fill you with words of me my God
+709	twi_test_00725	chai this promo dey bi oo	positive	chai this promo dey bi oo	Chai this promo dey bi oo
+710	twi_test_00726	😂😂hw3 me ny3 dbee	neutral	hw me ny dbee	Hw I ny Dbeee
+711	twi_test_00727	eeeiiiiii at me so 😂😂😂	neutral	eeeiiiiii at me so	Eeeiiiii at me so
+712	twi_test_00728	ahiafoɔ ne kwasia keka	negative	ahiafoɔ ne kwasia keka	The poor and Kwasia move
+713	twi_test_00729	man u team nu ay3 yie anaa😂😂	positive	man u team nu ay yie anaa	The country u Team nu well or ay
+714	twi_test_00730	very soon judas b3gye sika 😄😃👍	positive	very soon judas bgye sika	Very Soon Judas will take money
+715	twi_test_00731	na mohw3 out on 🙏🏾 kumasi ghana	positive	na mohw out on  kumasi ghana	And you see that out on Kumasi Ghana
+716	twi_test_00732	y3ni abre chairmaen obiaa b3 gye ne de3	positive	yni abre chairmaen obiaa b gye ne de	Yni Abre Charmaen Everyone takes his own
+717	twi_test_00733	na true ooo ma bro	positive	na true ooo ma bro	And a truth ooo Let the Brog
+718	twi_test_00734	wo na wo te brofo 3te fa	positive	wo na wo te brofo te fa	You're the one who hears brofo hear about half
+719	twi_test_00735	he says ad3n aponkye na 3y3 momo😂😂i tear	positive	he says adn aponkye na y momoi tear	He'
+720	twi_test_00736	😲gtgtgtgtgtgt banku ne fish 2 cedis 😂😁💔	positive	gtgtgtgtgtgt banku ne fish  cedis	gtgtgtgtgtgtgtgtgT bank and Fish cedis
+721	twi_test_00737	jerome ne kasa yɛ mframa are 1🤣🤣🤣🤣 you complain of jersey saa sɛ na o koraa u no buy	neutral	jerome ne kasa yɛ mframa are  you complain of jersey saa sɛ na o koraa u no buy	Jerome and talks are wind Are You Complain of Jersey so
+722	twi_test_00738	bra mike wo pri dodo 😂😂❤️	positive	bra mike wo pri dodo	Come on the Prido
+723	twi_test_00739	senior marry me erh	positive	senior marry me erh	Seniora mary me erh
+724	twi_test_00740	ma min kc p3 alomo bin num na y3 di wiasi kc hi	positive	ma min kc p alomo bin num na y di wiasi kc hi	Let me kc p alomo bin nine and we'
+725	twi_test_00741	gye obi dea eh anaa wosro	neutral	gye obi dea eh anaa wosro	take someone's eh or wosro
+726	twi_test_00742	girl bi miaa miaa me omiaa miaa me s3 organ baaaarrrssss	positive	girl bi miaa miaa me omiaa miaa me s organ baaaarrrssss	A girl squeez
+727	twi_test_00743	mmarima ne 3die de3	positive	mmarima ne die de	Men and Die to
+728	twi_test_00744	berma makoma shishi me ahhh	negative	berma makoma shishi me ahhh	Berma Makoma Shishi me Ahhhh
+729	twi_test_00745	na mi y3 dien nii	positive	na mi y dien nii	And i y Dieen nii
+730	twi_test_00746	ah ah na so	neutral	ah ah na so	Ah ah and so
+731	twi_test_00747	information bebree wɔ wiase cuzzz ei	positive	information bebree wɔ wiase cuzzz ei	there are many information in World Cuzzz ei
+732	twi_test_00748	me yem koraaa ashie me 😂 😂 😂	negative	me yem koraaa ashie me	I'm not
+733	twi_test_00749	obr3fo bi ba tis3 wo	negative	obrfo bi ba tis wo	A bra
+734	twi_test_00750	wo fam pillars saa😂😂	neutral	wo fam pillars saa	You down
+735	twi_test_00751	hmmmm sesa wo suban	positive	hmmmm sesa wo suban	Hmmmm change your character
+736	twi_test_00752	k na k b ampesie be di	neutral	k na k b ampesie be di	k and k b apesie bedi
+737	twi_test_00753	data wɔ wiase o	positive	data wɔ wiase o	DATA in the world oh oh
+738	twi_test_00754	obroni no kaa s3n	positive	obroni no kaa sn	The bro
+739	twi_test_00755	ahhjhhhhhhh reuben me ntele wo ansa saint kwadwo fosu	positive	ahhjhhhhhhh reuben me ntele wo ansa saint kwadwo fosu	Ahhjhhhhhhhhhhhhhhhhhh is me hear you before Saint Kwadwo Foses
+740	twi_test_00756	ashi me paaa ah	negative	ashi me paaa ah	it's a
+741	twi_test_00757	herh ma heart herhhhh herhh herhhhhh	neutral	herh ma heart herhhhh herhh herhhhhh	erh give heart erhh erhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+742	twi_test_00758	wo mpo w3 nya visa😂	neutral	wo mpo w nya visa	You'
+743	twi_test_00759	p3 banku bi n3di	positive	p banku bi ndi	P banky
+744	twi_test_00760	eei mmaa wɔ world	positive	eei mmaa wɔ world	Eei Agya
+745	twi_test_00761	ei woy3 spokesman anaa 😂	neutral	ei woy spokesman anaa	ei woy spokesman or
+746	twi_test_00762	woab womu da a hmmm	neutral	woab womu da a hmmm	You have a day of hmmm
+747	twi_test_00763	eii am out ay3 k3se am out 🤣🤣	neutral	eii am out ay kse am out	Eii am out ay kse am out
+748	twi_test_00764	to wadwen mu na kↄda nyame be sorti✊🏿	positive	to wadwen mu na kↄda nyame be sorti	TO WAPA and k hwoda god be upti from
+749	twi_test_00765	tune ne y3 sick	positive	tune ne y sick	Tunne and Y Sick
+750	twi_test_00766	but br weak me ooo heerh 😂	positive	but br weak me ooo heerh	But br weaak me ooo heerhh
+751	twi_test_00767	hmmmm ne gyimiiiii no	negative	hmmmm ne gyimiiiii no	Hmmmm and gyimiiiii the gyimiiiii the
+752	twi_test_00768	wonim ball ⚽️ mu paaa 😊👍🏾	positive	wonim ball  mu paaa	The ball is very known
+753	twi_test_00769	nea br3 na die	positive	nea br na die	what br and die
+754	twi_test_00770	€30 koraa ebi too much	positive	€ koraa ebi too much	€o at all some of the Much
+755	twi_test_00771	kweku frimpong de as3m aba	negative	kweku frimpong de asm aba	Kweku Frimpong has used an alm to come
+756	twi_test_00772	omo aba biom me kwasia posts😏	negative	omo aba biom me kwasia posts	He's coming again me kwasia Posts
+757	twi_test_00773	kop3 security bi di 😂	positive	kop security bi di	A security die
+758	twi_test_00774	shishi na benku ba	neutral	shishi na benku ba	Shishi is the one Benu comes
+759	twi_test_00775	ei na kwamenas de3 nufuor fa wo ho b3n	neutral	ei na kwamenas de nufuor fa wo ho bn	ei and Kwamenas with nioil
+760	twi_test_00776	me gua wo gua bi ne ho b3 dwiriw no	neutral	me gua wo gua bi ne ho b dwiriw no	I talked in a market he'll be surprised.
+761	twi_test_00777	india w na w b3 k 🤣🤣🤣	neutral	india w na w b k	India w and b go
+762	twi_test_00778	hmmmm na me koaraa me wɔ sen🤣🤣	positive	hmmmm na me koaraa me wɔ sen	hmmmm and I korara me more than
+763	twi_test_00779	na wo faa he	positive	na wo faa he	And where did you take
+764	twi_test_00780	ksi fo de cake y3 den	neutral	ksi fo de cake y den	Ksi fode de cake y deni
+765	twi_test_00781	brofo no nny3 me d3 eii woy3 maths teacher a brofo nfa woho anaa 😭😭😭	negative	brofo no nny me d eii woy maths teacher a brofo nfa woho anaa	The brofo don't be my eii you'
+766	twi_test_00782	wo de3 wo as3m p3 dodo y3 wo d3 dodoodo	positive	wo de wo asm p dodo y wo d dodoodo	You use your a word to do your love
+767	twi_test_00783	aww ewurade obi ne ba😂😂😂😂	positive	aww ewurade obi ne ba	aww Lord
+768	twi_test_00784	this one bi nokaoutkpotokpaa🤣🤣🤣	neutral	this one bi nokaoutkpotokpaa	This one bi nokaatpotokpa
+769	twi_test_00785	maame fante so de asem b3ba	negative	maame fante so de asem bba	Mother Fante sode
+770	twi_test_00786	hwe anita jon nso	negative	hwe anita jon nso	Watch Anita Jon also
+771	twi_test_00787	we shaaa anaa that	neutral	we shaaa anaa that	We saaa or Thatth
+772	twi_test_00788	wei deɛ wo deɛ mu😃😃	positive	wei deɛ wo deɛ mu	This is yours in
+773	twi_test_00789	nana kweku ananse na he fine	positive	nana kweku ananse na he fine	Nana Kweku Anan
+774	twi_test_00790	ma faalli sei tim agya odo y3 d3❤️😂😩	positive	ma faalli sei tim agya odo y d	Let'
+775	twi_test_00791	sesɛ wo siiiii daddy lumba	positive	sesɛ wo siiiii daddy lumba	If you built Daddy lumba
+776	twi_test_00792	otaataa me koraa dodo 😭	negative	otaataa me koraa dodo	He's all too too much for me
+777	twi_test_00793	bibinii b3y33 den wo wiase	negative	bibinii by den wo wiase	Biibirii by den in the world
+778	twi_test_00794	nana ama woho 3f3 wate nyame hy33 da b wo	positive	nana ama woho f wate nyame hy da b wo	Nana Ama you f at
+779	twi_test_00795	eeei na may3 den	neutral	eeei na may den	Eeei And May Tear.
+780	twi_test_00796	how did the casting team cast saga his gyimie is another level school nyansa nko na efie nyansa nko	negative	how did the casting team cast saga his gyimie is another level school nyansa nko na efie nyansa nko	How did The Casting Team Cast Saga His stand
+781	twi_test_00797	kwaku messi de as3m beba	neutral	kwaku messi de asm beba	Kwaku messi will bring anss to come
+782	twi_test_00798	ah na pep no wagyimi anaa🤣	negative	ah na pep no wagyimi anaa	ah and pep wagyimi or
+783	twi_test_00799	559 no e drop anaa	neutral	no e drop anaa	the edurr or edurop or
+784	twi_test_00800	saa saar no wa sa saa	neutral	saa saar no wa sa saa	Sawi no so he sa so
+785	twi_test_00801	yoo push me kumasi girl errr	positive	yoo push me kumasi girl errr	Yoo Push My kuzi Girl Errrrr
+786	twi_test_00802	beer dieer enoaa ne club	positive	beer dieer enoaa ne club	Beer Dieer Dieer and Club
+787	twi_test_00803	herh information wo wiase	positive	herh information wo wiase	Herh information you world
+788	twi_test_00804	ohemaa beat me na yɛɛgye deɛn	positive	ohemaa beat me na yɛɛgye deɛn	Heemaa beat me and we take what
+789	twi_test_00805	😂 😂 na me may3 de3n	neutral	na me may den	I'm May hard
+790	twi_test_00806	😂😂😂 eeii na hwan ba nie	positive	eeii na hwan ba nie	Eeii and whose son is here
+791	twi_test_00807	nea ɛfoɔ na wo pɛ 😃😆	positive	nea ɛfoɔ na wo pɛ	What you want
+792	twi_test_00808	skin pain siaa man sua nyansa na gyae gyimie nu wae	negative	skin pain siaa man sua nyansa na gyae gyimie nu wae	Skiin Pain Siaa Man Learns Wisdom and Stop Gyime wae
+793	twi_test_00809	mo ma yɛn pɛ abɔdamfoɔ asupiti bi nfa abranteɛ wei nkɔ ooo yoo yɛ tena hɔ saa na wayi ne dross	negative	mo ma yɛn pɛ abɔdamfoɔ asupiti bi nfa abranteɛ wei nkɔ ooo yoo yɛ tena hɔ saa na wayi ne dross	Let us want an akodamfo strands to let this young man go oo
+794	twi_test_00810	monfa bankye ni nsi su na abenkwan nu ayɛ ready	positive	monfa bankye ni nsi su na abenkwan nu ayɛ ready	Bring bean ni in the sound of the sound and the abense
+795	twi_test_00811	y3 p3 sika nti y3n adwuma y3ntimu nya gab 🔥	positive	y p sika nti yn adwuma yntimu nya gab	We p money so our work is gab
+796	twi_test_00812	ɛyɛ wo nwanwa ohn 😀😀😀	positive	ɛyɛ wo nwanwa ohn	It's amazing ohn
+797	twi_test_00813	fa wo gyimie firi hɔ	negative	fa wo gyimie firi hɔ	Get your gyimie from there
+798	twi_test_00814	na wonnso adein😂😂dein na tema boys ay3 wo	positive	na wonnso adeindein na tema boys ay wo	And don't get you adeindein and compassion boy
+799	twi_test_00815	hw3 wontumi mfa woho nni saa 😹	neutral	hw wontumi mfa woho nni saa	See how you can’t believe you
+800	twi_test_00816	ɔbaa ɔnpɛ gɔb3 ɛnfa bi da ahokyerɛ ba ɔbɛ dwane agya wʋ😂😁😃😝 bi da series	positive	ɔbaa ɔnpɛ gɔb ɛnfa bi da ahokyerɛ ba ɔbɛ dwane agya wʋ bi da series	She doesn
+801	twi_test_00817	gob3 di3 3y3 dea ahiaaa ne nsuo	positive	gob di y dea ahiaaa ne nsuo	Gob is y y deaaaa and water
+802	twi_test_00818	3no de3 ne bo 33den paa ooo	positive	no de ne bo den paa ooo	he is very expensive ooo
+803	twi_test_00819	yɛ se female celeb ooo masa 🤣 🤣 🤣	positive	yɛ se female celeb ooo masa	We say Femalee celeb ooo Masa oo
+804	twi_test_00820	nyame nhyira wo bro	positive	nyame nhyira wo bro	God bless you Bro
+805	twi_test_00821	wo papa ti a 3nha w	neutral	wo papa ti a nha w	Your father's head without hurting you
+806	twi_test_00822	nhoma sua bebree nanso still yɛ de bɔ krɔno	negative	nhoma sua bebree nanso still yɛ de bɔ krɔno	Little Book Live
+807	twi_test_00823	infection papa b3n infection baa dab3n na b3gye anigyie abso	neutral	infection papa bn infection baa dabn na bgye anigyie abso	infection papa bN Infection Brabban and I
+808	twi_test_00824	ei achabu 😂 😂 😂 nyame ayɛ bi oo	positive	ei achabu    nyame ayɛ bi oo	ei achbu God has done it oo
+809	twi_test_00825	wo ne wo boss no mo ɛyɛ ayɛ opportunistic foɔ 🙄	negative	wo ne wo boss no mo ɛyɛ ayɛ opportunistic foɔ	with your boss you'
+810	twi_test_00826	awurade girl naa me p3 me di nuno onie😩😩😩	positive	awurade girl naa me p me di nuno onie	Lord'
+811	twi_test_00827	hw3 di33 okyer3 wote twitter y3 mentii wo case koraa mpo wo su koraa na mey3 no more 😀😀🤪🚶🚶	negative	hw di okyer wote twitter y mentii wo case koraa mpo wo su koraa na mey no more	Watch Okye
+812	twi_test_00828	me sr3 nyame s3	positive	me sr nyame s	I sr God sr sr sr sr sr
+813	twi_test_00829	coal tar so na me nam wo fr3 me aa wonya me abi chasing guwop black sherif	positive	coal tar so na me nam wo fr me aa wonya me abi chasing guwop black sherif	Coal tri
+814	twi_test_00830	team no ayɛ yie💙❤️🤩	positive	team no ayɛ yie	The Team is right
+815	twi_test_00831	asɛm wɔ hɔ anaa 🤣	neutral	asɛm wɔ hɔ anaa	There is a story or
+816	twi_test_00832	obi papa akra fie s3 k adwuma aba nti nabusuafo nhw3 no tv so hw3 kwan a y3fa so twa na s3 hwi h sika p3 y3 ya awurade nyame	positive	obi papa akra fie s k adwuma aba nti nabusuafo nhw no tv so hw kwan a yfa so twa na s hwi h sika p y ya awurade nyame	Someone's father'
+817	twi_test_00833	girl no tirimu eden paa😀😀😀	negative	girl no tirimu eden paa	The girl's head was very much in Eden
+818	twi_test_00834	b3 yɛ den wɔ wiase	neutral	b yɛ den wɔ wiase	b is hard in the world
+819	twi_test_00835	gyimie saa den he burst ein balls	negative	gyimie saa den he burst ein balls	Gyime that den he burst Ein Balls
+820	twi_test_00836	ei w0fa wo gyidi so paa	positive	ei wfa wo gyidi so paa	ei Wut your faith very much
+821	twi_test_00837	tuesday nso y3hye jama mmofra yi agyimi o benada paa na mo nni hwee y3 enti morey3 dede 3ha nnipa wo fidua yi mu	negative	tuesday nso yhye jama mmofra yi agyimi o benada paa na mo nni hwee y enti morey dede ha nnipa wo fidua yi mu	Tuesday we'
+822	twi_test_00838	yes awal corrected me 2 years ago but bazawalaa no na ɛyɛ me dɛ	positive	yes awal corrected me  years ago but bazawalaa no na ɛyɛ me dɛ	I was awal mas me Yeago but Bazawaa I was nice
+823	twi_test_00839	bet di y3 dodo nti mo nkyer3 y3 lotto twa🤣🤣🤣🤣🤣🤍🤍 got buzzzzzzz	positive	bet di y dodo nti mo nkyer y lotto twa got buzzzzzzz	Bet is too much so you don
+824	twi_test_00840	wo yɛ barima a bɔ ne din	positive	wo yɛ barima a bɔ ne din	You are a man of name
+825	twi_test_00841	wedding nkoaa 1 billion aden y3n ndidi biom anaa	positive	wedding nkoaa  billion aden yn ndidi biom anaa	Wedding only black aden we eat no more or
+826	twi_test_00842	full time kotoko 20 liberty ⚽⚽ nea nyame tumi yɛ nie 🔴⚪💪⚽🙏	positive	full time kotoko  liberty  nea nyame tumi yɛ nie	Full Time Kotoko Liberty What God can do is
+827	twi_test_00843	kakra nni me ho nti menya girl bi a כpε me	neutral	kakra nni me ho nti menya girl bi a כpε me	A little bit isn’t with me so I get a girl who likes me
+828	twi_test_00844	aboa bi ba woni twasidi kankan	negative	aboa bi ba woni twasidi kankan	An animal comes to the harvest kkakakk
+829	twi_test_00845	ɛtoɔ bi paa aa mahunu no wɔ kurom ɛnɛ no ɛky3n e levy	positive	ɛtoɔ bi paa aa mahunu no wɔ kurom ɛnɛ no ɛkyn e levy	A very tax leve
+830	twi_test_00846	masa wo pɛ two shots dada 🤣 🤣	positive	masa wo pɛ two shots dada	Masa You want a shets old
+831	twi_test_00848	me wɔfaase kofi wonim nyansa paa	positive	me wɔfaase kofi wonim nyansa paa	My cousin Coffee is very wise
+832	twi_test_00849	afehyia pa oo afe wei nyɛ nhyira ɛmma obiaa	positive	afehyia pa oo afe wei nyɛ nhyira ɛmma obiaa	Happy hyhyia oo This year is not a blessing for everyone
+833	twi_test_00850	twa wanum nana na fufuo sika 3nt benz	positive	twa wanum nana na fufuo sika nt benz	cut Wunum Nana and Fufufuo Money nt Benz
+834	twi_test_00851	otan hunu ara kwa	positive	otan hunu ara kwa	Ote forty mere
+835	twi_test_00852	menso de3 me de ka bebere 🌚	negative	menso de me de ka bebere	Menso de my to berere.
+836	twi_test_00853	yenka kyere wo ansa 😂🤣 enfa hia nka nkasiasem accccccrrrraaaaa	negative	yenka kyere wo ansa  enfa hia nka nkasiasem accccccrrrraaaaa	We tell you before you need the sword Acccccrrrraaaaaaaaaaaaaa
+837	twi_test_00854	abranti3 woda sori aa maweninda hor na gyai gyimie nu	negative	abranti woda sori aa maweninda hor na gyai gyimie nu	You are the man who lies aa Maweninda Hor and left gyime
+838	twi_test_00855	y3 y3 dom wo kum apem a apem b3ba✊🏿✊ king promise | don bortey | gyakie | davido | chelsea |	positive	y y dom wo kum apem a apem bba king promise  don bortey  gyakie  davido  chelsea	We Are Grace
+839	twi_test_00857	kotoko langabel says we no brag ourselves in effect am3 gbee ame dà 🤣🤣🤣🤣	positive	kotoko langabel says we no brag ourselves in effect am gbee ame dà	Kotoko Langabelel Say
+840	twi_test_00858	real madrid ne gyimie	negative	real madrid ne gyimie	Real Madrid and the Gyimie
+841	twi_test_00859	so so kwasiasem nkoa	negative	so so kwasiasem nkoa	so Kwasasemse slave
+842	twi_test_00860	ɔnyame bɛ tua mo ka wo ne wesley mathews no	negative	ɔnyame bɛ tua mo ka wo ne wesley mathews no	God will reward you for you and the Wesley Mathews
+843	twi_test_00861	me twa bet nanka liverpool asɛi nokwasia team sei	negative	me twa bet nanka liverpool asɛi nokwasia team sei	I'm going to Beth but
+844	twi_test_00862	wo party no mo nni vision nti wo nti asiɛ	negative	wo party no mo nni vision nti wo nti asiɛ	Your party you don't have vision so you'
+845	twi_test_00863	2021 boys ntomi pressure but competition too kill sensor 🌚 sika anibre nti boys nebi ni atinka😌	negative	boys ntomi pressure but competition too kill sensor  sika anibre nti boys nebi ni atinka	Boys Sti Pressure But compretion too kellsor money n so boy
+846	twi_test_00864	haaaaa hahaha woayɛ nsu anye yɛ	negative	haaaaa hahaha woayɛ nsu anye yɛ	Haaaaa hahaha you'
+847	twi_test_00865	hahaha dennis no force koraaa	negative	hahaha dennis no force koraaa	Hahaha the Dennis the Force completely
+848	twi_test_00866	sia nanka aben aaa nanka wo ho din	negative	sia nanka aben aaa nanka wo ho din	Sia Nka Aben aaa but your name
+849	twi_test_00867	anka menyaaa nufo kakra ka ho aa anka i set be that oo😅	positive	anka menyaaa nufo kakra ka ho aa anka i set be that oo	I would have been a little breastfeed
+850	twi_test_00868	wei yɛ de pia car 😂	negative	wei yɛ de pia car	This is to push a car
+851	twi_test_00869	saaaaaa tweet no nyansa biaaaa nni mu	negative	saaaaaa tweet no nyansa biaaaa nni mu	Oweaaaaa twet the intellig
+852	twi_test_00870	wote trotting back seat twa snap adwoa mako toa so	negative	wote trotting back seat twa snap adwoa mako toa so	You live
+853	twi_test_00871	kyerɛsɛ you wont even listen to our cries waka sɛ wobɛ bu yɛn afa so no dierr ɛnoaa na wobɛyɛ eii nana hmm	negative	kyerɛsɛ you wont even listen to our cries waka sɛ wobɛ bu yɛn afa so no dierr ɛnoaa na wobɛyɛ eii nana hmm	Show you wnt Even at any Listen to our cries He'
+854	twi_test_00872	wo brofo kraa su ny3 oh wosu ad3n	negative	wo brofo kraa su ny oh wosu adn	Your brofo crazy cries ny oh yousu adn
+855	twi_test_00873	anh beno nyinaa s3n	positive	anh beno nyinaa sn	Anh beno sn
+856	twi_test_00874	chelsea y3 team no agu oooo eeeeiiii 🙆🏻‍♂️🙆🏻‍♂️🙆🏻‍♂️	negative	chelsea y team no agu oooo eeeeiiii ‍‍‍	Chelsea y team has been destroyed oooo Eeeeiiii ‍ ‍ ‍ ‍ ‍
+857	twi_test_00875	kotonimma 14 2022 twi ɔnyankopɔn apɔmuden mpaemuka aseda nka ɔnyankopɔn a wa di nebɔhyɛ nyenaa a ɛfa ayaresa ne apɔmuden ho wɔ me mu me gye ma ni wɔ apɔmuden pa mu ɛfiri sɛ kristo de nyameyɛ nkwa ahyira me yareɛ ntumi ndi me honam akwaa afan bia so ɛfiri sɛ ɔnyame awo me	positive	kotonimma   twi ɔnyankopɔn apɔmuden mpaemuka aseda nka ɔnyankopɔn a wa di nebɔhyɛ nyenaa a ɛfa ayaresa ne apɔmuden ho wɔ me mu me gye ma ni wɔ apɔmuden pa mu ɛfiri sɛ kristo de nyameyɛ nkwa ahyira me yareɛ ntumi ndi me honam akwaa afan bia so ɛfiri sɛ ɔnyame awo me	Kotonim Twim Twim Twim Twi God's Purpose thanks be to his God who has promised Heal A birth of me
+858	twi_test_00876	mode3 mo sore aa na ato mo ne nsemhunu wei	negative	mode mo sore aa na ato mo ne nsemhunu wei	You have heard you aa and it has happened to you and this medium This is
+859	twi_test_00877	wo diɛɛɛɛ gyimiee naaa	negative	wo diɛɛɛɛ gyimiee naaa	You'
+860	twi_test_00878	y3te sika so nanso 3km di yen y3te mmaa ho nanso 3tw3 km di yen 😭😭😭	negative	yte sika so nanso km di yen yte mmaa ho nanso tw km di yen	We live on money but m lives our way but tw km us
+861	twi_test_00879	s3 sunyani ha dier my first copy book ne tomato stew na y3di w ha saaa mo gyimii no	negative	s sunyani ha dier my first copy book ne tomato stew na ydi w ha saaa mo gyimii no	If the Sunyi dia dier My First Copy Book and tomato shot and eat here so your gyimii is
+862	twi_test_00880	eei na ahoyaa b3n ni med 😁	negative	eei na ahoyaa bn ni med	Eei and the Ahoyae bn is med
+863	twi_test_00881	gyimie kasa saa offui	negative	gyimie kasa saa offui	Gyimie Spee
+864	twi_test_00882	xavi nu wabon saa	negative	xavi nu wabon saa	xavi nu wabobo so
+865	twi_test_00883	yεde yεnan besi fɔm o yebeyi awurade ayεwaayε bi o halleluyah yesu ayεakibadey mekadoerokobomadεlεakimagadε mlekadε rokobamasεdey olotoblo olomadaayebadee halleluyah yesu ayε bi o ee aama me ne wo ayikabaminado rekederatofooshika shika batope ragεdε abratopa😹	positive	yεde yεnan besi fɔm o yebeyi awurade ayεwaayε bi o halleluyah yesu ayεakibadey mekadoerokobomadεlεakimagadε mlekadε rokobamasεdey olotoblo olomadaayebadee halleluyah yesu ayε bi o ee aama me ne wo ayikabaminado rekederatofooshika shika batope ragεdε abratopa	We're going to ben on our side o We'll praise the Lord!
+866	twi_test_00884	adepa pls settle me 0546498199 muftawu	positive	adepa pls settle me  muftawu	Pa PLS STTTTTLE MMIFAAWAAWAAWAWO
+867	twi_test_00885	eii dem score psg ewurade boa me	negative	eii dem score psg ewurade boa me	Eii dem score psg Lord help me
+868	twi_test_00886	wonni sika aa 🤥 wose 3moo 🍚 3nmee ahiafoc ne nkwasia keka	negative	wonni sika aa  wose moo  nmee ahiafoc ne nkwasia keka	You don'
+869	twi_test_00887	mo didi wiea na ato mu ne ns3m hunu keka adeayi ghana de3 aduane 3fo nti saaa	negative	mo didi wiea na ato mu ne nsm hunu keka adeayi ghana de aduane fo nti saaa	You ate finish and shut up with empty words tell the lawy
+870	twi_test_00888	nanka nokor3 naa na waka no	positive	nanka nokor naa na waka no	but the true naa he has said it
+871	twi_test_00890	tsg hoffenheim nti sika no ahye	negative	tsg hoffenheim nti sika no ahye	tsg hoffenheim so the money is burning
+872	twi_test_00891	y3 na kogye bi😂😂😂	positive	y na kogye bi	y na and take some
+873	twi_test_00892	me ka me si nain afe wei m3 di girl nu😩😩😩	negative	me ka me si nain afe wei m di girl nu	I tell me I'
+874	twi_test_00893	kwasia baako nso nie	negative	kwasia baako nso nie	Here is one kwasia
+875	twi_test_00894	alla ma math teacher nie 😂😂😂😂😂😂😂😂😂😂	positive	alla ma math teacher nie	Allla For Math Teacher is
+876	twi_test_00895	wo se ho nsuo s3 amango bun aboa bi ba ogyigyantwei	negative	wo se ho nsuo s amango bun aboa bi ba ogyigyantwei	You say the water s mango bun an animal comes to the guys
+877	twi_test_00896	wu ankasa wu yɛ bayifoɔ bibiaa nyɛ wu fɛ	negative	wu ankasa wu yɛ bayifoɔ bibiaa nyɛ wu fɛ	Death itself dies is the witer
+878	twi_test_00897	ali yi nso 😂😂😂 dedicating adwaman award to allah eiii na mo adɛn	negative	ali yi nso  dedicating adwaman award to allah eiii na mo adɛn	This ali is also dedicating ancestor award to Allah ei and you why why why
+879	twi_test_00898	gyimie saaa na woa wu kwa 🤦🏾	negative	gyimie saaa na woa wu kwa	Gyimie so you're dead in vain
+880	twi_test_00899	wonni sika aa wo bu fu baahat 😹😹😹 ohiaa ny3 oo 💔	negative	wonni sika aa wo bu fu baahat  ohiaa ny oo	You don't have money aa you'
+881	twi_test_00900	aniwuo aka nnipa bebree 🤣🤣🤣🤣🤣🤣🤣🤣	negative	aniwuo aka nnipa bebree	Imal
+882	twi_test_00901	nsemhunu na abrante3 no 3ka no	negative	nsemhunu na abrante no ka no	The young man tells
+883	twi_test_00902	eei bra yei nso de3 hahahahaha if e pain you aa go burn the sea wai hahahaha	negative	eei bra yei nso de hahahahaha if e pain you aa go burn the sea wai hahahaha	Eei come this too
+884	twi_test_00903	ma me ride eeh	positive	ma me ride eeh	give me ride eeh
+885	twi_test_00904	wokwasia nka wote ascre ma announcement anaa nka wokyeky3 communiom aaa nka 3nsene wo	negative	wokwasia nka wote ascre ma announcement anaa nka wokyeky communiom aaa nka nsene wo	You Kwasia I'm
+886	twi_test_00905	3w makoma mu a nka wo behu s3 me dea ne wo sika na menni bi nti nka wo behu s3 me p3 was3m bebree😭	positive	w makoma mu a nka wo behu s me dea ne wo sika na menni bi nti nka wo behu s me p wasm bebree	In your heart you will know that mine and your money I don't have so would you know that I want a lot
+887	twi_test_00906	voice osei kwame despite ne me target hastalavista	positive	voice osei kwame despite ne me target hastalavista	Voice Osei Kwame Despite and My Target Hastavistasta
+888	twi_test_00907	nti is true that u ar dating more than three human beings eiii wagyimi ooo na anka ma me baako mpo eerrr😂😂😂lol	negative	nti is true that u ar dating more than three human beings eiii wagyimi ooo na anka ma me baako mpo eerrrlol	So I'm a truth ut ut utting more we've threing hhan beings Eiii's
+889	twi_test_00908	wo brofo no ny3 me d3	negative	wo brofo no ny me d	Your brofo is my d d d
+890	twi_test_00909	2min biaaa broken heart nam mu	negative	min biaaa broken heart nam mu	Mr.
+891	twi_test_00911	afe nk b3to y3n biom	positive	afe nk bto yn biom	The year I
+892	twi_test_00912	me yam kora ahye me	negative	me yam kora ahye me	I'm sorry on me
+893	twi_test_00913	masa masa atwa mu	negative	masa masa atwa mu	Masa Masa has passed through it
+894	twi_test_00914	kasa basaa saa na mode teha	negative	kasa basaa saa na mode teha	language messy so much you've teha
+895	twi_test_00915	😂😂😂dua bc nyinaa aba mu	negative	dua bc nyinaa aba mu	A tree bc all has come true
+896	twi_test_00916	fa wo epmty threats no kɔpɛ baabi tena 🙄🙄🙄	negative	fa wo epmty threats no kɔpɛ baabi tena	Take your epmty Threats to find a place to stay
+897	twi_test_00917	nyame yɛ seniorman eeeeeiiiiiiiiii	positive	nyame yɛ seniorman eeeeeiiiiiiiiii	God Is Seniorman eeeeiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiI
+898	twi_test_00918	ahomasoɔ bi saa na jollof mpɛ wo wiase yi mu oo	negative	ahomasoɔ bi saa na jollof mpɛ wo wiase yi mu oo	There is a pride that Jollof does
+899	twi_test_00919	kɔti yɛ aboa ampa 😔	negative	kɔti yɛ aboa ampa	Goa's going is indeed help
+900	twi_test_00920	nyame nhyira wo boss	positive	nyame nhyira wo boss	God bless you Boss
+901	twi_test_00921	de nano twitwi f3m 😁	negative	de nano twitwi fm	to the nano twi twi fm
+902	twi_test_00923	this pitch eiii ama ghana	negative	this pitch eiii ama ghana	This pitch eiii for Ghana
+903	twi_test_00924	asem o me nua	positive	asem o me nua	A word o my brother
+904	twi_test_00925	kwasia kasa saaaaa k p3 sika na gyimiie nu😂😂	negative	kwasia kasa saaaaa k p sika na gyimiie nu	Kwasia language ye
+905	twi_test_00926	dem tear two eiiii na barca omo agyimi anaaa 😂	negative	dem tear two eiiii na barca omo agyimi anaaa	Dem tear two eiiii and barca he'
+906	twi_test_00927	nti upon paradise ein swag all akosua said naaa to am eiii ewaise b3n kraaa ni	negative	nti upon paradise ein swag all akosua said naaa to am eiii ewaise bn kraaa ni	So Upon Paradise Ein Swag All Akosua said naaa is am eiiii kuraa ni niaa ni niaa ni ni
+907	twi_test_00928	awurade de me besi yie	positive	awurade de me besi yie	The Lord will make me
+908	twi_test_00929	gra too no dey joke kwraaa oooo	negative	gra too no dey joke kwraaa oooo	Gratho Cato No Joo Kwraaa oooo
+909	twi_test_00930	wo apantæn s3 king promise camboo no wai 🤣😆	negative	wo apantæn s king promise camboo no wai	Your apatænn S king Promise Camboo wai
+910	twi_test_00931	hy3 ma me mepa mo kyew 🙏	positive	hy ma me mepa mo kyew	hy for me to kick
+911	twi_test_00932	sodaezy wo p3 ntokwa oo	negative	sodaezy wo p ntokwa oo	SODAEZY POWAKUKI
+912	twi_test_00933	wo di3 bra na b3 b nkwasia ball nka wo b3 ti w h	negative	wo di bra na b b nkwasia ball nka wo b ti w h	You'
+913	twi_test_00934	bet nso y3 twa y3ndi	negative	bet nso y twa yndi	Bet also we cut us
+914	twi_test_00935	charles kojo fosu me do wasem bebre	positive	charles kojo fosu me do wasem bebre	Charles Kojo fosua me do you are a waesem be brebre
+915	twi_test_00936	herrrh onyame ay3 bi o 🥹🥲🫢	positive	herrrh onyame ay bi o	Herrrh God has done some o
+916	twi_test_00937	odo nti ka me🙁	positive	odo nti ka me	LOOD for me
+917	twi_test_00938	mo de 3ka b3gu mu so	negative	mo de ka bgu mu so	You're to bgu in it on the
+918	twi_test_00939	heeerrrh generation yi yare 😂😂😂🤣🤣	negative	heeerrrh generation yi yare	Heeerrrrh Generation is sick
+919	twi_test_00940	aha yɛ kwan ho😅	positive	aha yɛ kwan ho	Aha is the roadway
+920	twi_test_00941	menua gyae gyae me feeli roff	positive	menua gyae gyae me feeli roff	Menua stop me feel Roff
+921	twi_test_00942	listen to woye onyame by amos mensah on	positive	listen to woye onyame by amos mensah on	Listen to You Are You Are Doing You by Amos Mensah on
+922	twi_test_00943	awurade sika mawia yi ma ntumi ndi ansa na mawu	positive	awurade sika mawia yi ma ntumi ndi ansa na mawu	The Lord's money mat
+923	twi_test_00944	ment car mpo na mosu yi 3nne3 next year de3 motiri b3 bom	negative	ment car mpo na mosu yi nne next year de motiri b bom	may
+924	twi_test_00945	chelsea dier nkoso nkoaa na mo p3 tswww	negative	chelsea dier nkoso nkoaa na mo p tswww	only Chelsea dier reloys and you p ttwwww
+925	twi_test_00946	asɛm ba nya aboterɛ trust chairman ofosu ampofo to deliver 2038 victory 🤣🤣🤣	positive	asɛm ba nya aboterɛ trust chairman ofosu ampofo to deliver  victory	A word comes to the patience Trust Hallorman Ofosu ofopo anpofo to deliver victory
+926	twi_test_00947	wo dadwene nanka wo b3 nya nyame k3si3 sei🙌🏾	positive	wo dadwene nanka wo b nya nyame ksi sei	Your anxiety and you will have God
+927	twi_test_00948	nea ukraine ay3 yi koraaaa y3b3ko na texasohemaa forgetti koraaaa	negative	nea ukraine ay yi koraaaa ybko na texasohemaa forgetti koraaaa	This ukraine do is raia and texting an arrow
+928	twi_test_00949	😂😂😂bench oo onya bi b mpo aa nka wadi	negative	bench oo onya bi b mpo aa nka wadi	Bench oo sing
+929	twi_test_00950	monto mma nana akufo addo monto mma nppeshie radodo	positive	monto mma nana akufo addo monto mma nppeshie radodo	Monn for Nana Akufo Akufo addo monto for the NPPESEshie Radodo
+930	twi_test_00951	no wo kraa aden😁😁	negative	no wo kraa aden	No You crazy aden aden
+931	twi_test_00952	oh osei na s3 wasei dada	negative	oh osei na s wasei dada	Oh osei and s old already old
+932	twi_test_00953	ad3n wc maam3 ctua konko anaa useless shit 😏	negative	adn wc maam ctua konko anaa useless shit	Adn wc maam Ctua man or useless shit
+933	twi_test_00954	golden boot na ehia no😂😂😭😭	positive	golden boot na ehia no	Golden Boot is the one he needs
+934	twi_test_00955	jordan wont kill me eeii wey player this koraa	negative	jordan wont kill me eeii wey player this koraa	Jordan wont kill me eeii we play
+935	twi_test_00956	wabon paaaaasabone mu pro max	negative	wabon paaaaasabone mu pro max	Wonbon'
+936	twi_test_00957	dead goat paaa hmmm foooluwa kasa de33 mo nim ka oo🤦‍♀️	negative	dead goat paaa hmmm foooluwa kasa de mo nim ka oo‍	Dead goat paa hmmm fooouwa is you know oo‍
+937	twi_test_00958	👨i love you 🙎‍♀️amen ei asɛm bɛn koraa nie 😂😂😂	positive	i love you ‍amen ei asɛm bɛn koraa nie	I love you ‍amen ei What is the case with
+938	twi_test_00959	ka kyere me s3 mabodam preko 😂😂😂	negative	ka kyere me s mabodam preko	Tell Me S Mabodam Prekoko
+939	twi_test_00960	kwaseakwa android ne ycnkcn ne apple	negative	kwaseakwa android ne ycnkcn ne apple	Kwaseakwa Android and Cynkcn and Apple
+940	twi_test_00961	🎶 🎶 mpaebɔ tumi yɛ biribiara ɛde daa ahode bɛbrɛ wo mpren mmpa ne anigye pa kyɛ wɔ mpaebɔ mu 🎶 🎶	positive	mpaebɔ tumi yɛ biribiara ɛde daa ahode bɛbrɛ wo mpren mmpa ne anigye pa kyɛ wɔ mpaebɔ mu	Prayer can do anything to bring you eternal wealth to last and good joy in prayer
+941	twi_test_00962	wo twi ahenfie car na 3nkyer3 s3 woy3 dehye3	neutral	wo twi ahenfie car na nkyer s woy dehye	Your English royal car and don
+942	twi_test_00963	nyame na etua mo ka nu 😂😂💔💔	negative	nyame na etua mo ka nu	God is the one who reward
+943	twi_test_00964	wodi kan wɔ court aa na ɛnkyɛree sɛ wadi bim	neutral	wodi kan wɔ court aa na ɛnkyɛree sɛ wadi bim	The first time in our brother aa is recently made of bim
+944	twi_test_00965	ngolo kante ankasa wo tan no arh wo tw3 2sure	negative	ngolo kante ankasa wo tan no arh wo tw sure	Ngolo can really
+945	twi_test_00966	sika ni b33ma ampa jack p3 sika no bi wai	positive	sika ni bma ampa jack p sika no bi wai	Money ni bma don'
+946	twi_test_00967	masa fa wo gyimie fri me so kɔ	negative	masa fa wo gyimie fri me so kɔ	Masa take your gyimie from me go to me
+947	twi_test_00968	nyame nti y3 b jark anopa biaa 🙏	positive	nyame nti y b jark anopa biaa	For God'
+948	twi_test_00969	herh wo mpo di33 fa wo gyimie fi h foolish boy	negative	herh wo mpo di fa wo gyimie fi h foolish boy	Herh you even eat your gyimie from h ownish Boy
